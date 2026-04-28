@@ -19,7 +19,7 @@ jobs:
           node-version: 22
 
       - name: Fetch pricing data
-        run: node ucrnet/fetch-pricing.mjs --out ucrnet/data
+        run: node fetch-pricing.mjs --out data
 
       - name: Commit and push
         run: |
