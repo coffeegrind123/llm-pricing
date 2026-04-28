@@ -26,7 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add ucrnet/data/
+          git add data/
           git diff --staged --quiet || {
             git commit -m "chore: update LLM pricing data — $(date +%Y-%m-%d)"
             git push origin HEAD:data/llm-pricing --force
