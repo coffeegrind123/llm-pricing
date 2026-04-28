@@ -1,0 +1,45 @@
+name: Fetch LLM Pricing Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch: # manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch pricing data
+        run: node fetch-pricing.mjs --out data
+
+      - name: Create or update PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "chore: update LLM pricing data"
+          title: "chore: update LLM pricing data — $(date +%Y-%m-%d)"
+          body: |
+            Automated daily fetch from [Price Per Token MCP](https://api.pricepertoken.com/mcp/mcp).
+
+            Updated datasets:
+            - `all_models.json` — full model catalog with pricing
+            - `providers.json` — provider list with counts and price ranges
+            - `provider_slugs.json` — provider-specific model IDs
+            - `benchmarks_coding.json` — coding benchmark rankings
+            - `benchmarks_math.json` — math benchmark rankings
+            - `benchmarks_intelligence.json` — intelligence benchmark rankings
+            - `summary.json` — human-readable summary
+
+            No API key required. Data is free and public.
+          branch: auto/llm-pricing-update
+          delete-branch: true
+          labels: data,automated
