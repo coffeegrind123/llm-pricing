@@ -1,0 +1,6874 @@
+{
+  "ai21-jamba-1.5-large": {
+    "model": "Jamba 1.5 Large",
+    "author": "Ai21",
+    "provider_slugs": {
+      "bedrock": [
+        "jamba-1.5-large"
+      ]
+    },
+    "other_matches": [
+      "Ai21 Labs Jamba 1.5 Large"
+    ]
+  },
+  "ai21-jamba-1.5-mini": {
+    "model": "Jamba 1.5 Mini",
+    "author": "Ai21 Labs",
+    "provider_slugs": {},
+    "other_matches": [
+      "Ai21 Jamba 1.5 Mini"
+    ]
+  },
+  "ai21-jamba-instruct": {
+    "model": "Jamba Instruct",
+    "author": "Ai21",
+    "provider_slugs": {
+      "bedrock": [
+        "jamba-instruct"
+      ]
+    }
+  },
+  "ai21-jamba-large-1.7": {
+    "model": "Jamba Large 1.7",
+    "author": "Ai21",
+    "provider_slugs": {
+      "openrouter": [
+        "ai21/jamba-large-1.7"
+      ]
+    }
+  },
+  "ai21-jamba-mini-1.7": {
+    "model": "Jamba Mini 1.7",
+    "author": "Ai21",
+    "provider_slugs": {
+      "openrouter": [
+        "ai21/jamba-mini-1.7"
+      ]
+    }
+  },
+  "ai21-labs-jurassic-2-mid": {
+    "model": "Jurassic-2 Mid",
+    "author": "Ai21 Labs",
+    "provider_slugs": {
+      "bedrock": [
+        "jurassic-2-mid"
+      ]
+    }
+  },
+  "ai21-labs-jurassic-2-ultra": {
+    "model": "Jurassic-2 Ultra",
+    "author": "Ai21 Labs",
+    "provider_slugs": {
+      "bedrock": [
+        "jurassic-2-ultra"
+      ]
+    }
+  },
+  "aion-labs-aion-1.0": {
+    "model": "Aion-1.0",
+    "author": "Aion Labs",
+    "provider_slugs": {
+      "openrouter": [
+        "aion-labs/aion-1.0"
+      ]
+    },
+    "other_matches": [
+      "Aion Labs Aion-1.0-Mini"
+    ]
+  },
+  "aion-labs-aion-1.0-mini": {
+    "model": "Aion-1.0-Mini",
+    "author": "Aion Labs",
+    "provider_slugs": {
+      "openrouter": [
+        "aion-labs/aion-1.0-mini"
+      ]
+    }
+  },
+  "aion-labs-aion-2.0": {
+    "model": "Aion 2.0",
+    "author": "Aion Labs",
+    "provider_slugs": {
+      "openrouter": [
+        "aion-labs/aion-2.0"
+      ]
+    }
+  },
+  "aion-labs-aion-rp-llama-3.1-8b": {
+    "model": "Aion-RP 1.0 (8B)",
+    "author": "Aion Labs",
+    "provider_slugs": {
+      "openrouter": [
+        "aion-labs/aion-rp-llama-3.1-8b"
+      ]
+    }
+  },
+  "alfredpros-codellama-7b-instruct-solidity": {
+    "model": "CodeLLaMa 7B Instruct Solidity",
+    "author": "Alfredpros",
+    "provider_slugs": {
+      "openrouter": [
+        "alfredpros/codellama-7b-instruct-solidity"
+      ]
+    }
+  },
+  "alibaba-tongyi-deepresearch-30b-a3b": {
+    "model": "Tongyi DeepResearch 30B A3B",
+    "author": "Alibaba",
+    "provider_slugs": {
+      "openrouter": [
+        "alibaba/tongyi-deepresearch-30b-a3b:free",
+        "alibaba/tongyi-deepresearch-30b-a3b"
+      ]
+    }
+  },
+  "allenai-molmo-2-8b": {
+    "model": "Molmo 2 8B",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/molmo-2-8b:free",
+        "allenai/molmo-2-8b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/molmo2-8b"
+      ]
+    }
+  },
+  "allenai-molmo2-4b": {
+    "model": "Molmo 2 4B",
+    "author": "Allenai",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/molmo2-4b"
+      ]
+    }
+  },
+  "allenai-olmo-2-0325-32b-instruct": {
+    "model": "Olmo 2 32B Instruct",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-2-0325-32b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Allenai Olmo 3.1 32B Instruct"
+    ]
+  },
+  "allenai-olmo-3-32b-think": {
+    "model": "Olmo 3 32B Think",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-3-32b-think:free",
+        "allenai/olmo-3-32b-think"
+      ]
+    },
+    "other_matches": [
+      "Allenai Olmo 3.1 32B Think"
+    ]
+  },
+  "allenai-olmo-3-7b-instruct": {
+    "model": "Olmo 3 7B Instruct",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-3-7b-instruct"
+      ]
+    }
+  },
+  "allenai-olmo-3-7b-think": {
+    "model": "Olmo 3 7B Think",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-3-7b-think"
+      ]
+    }
+  },
+  "allenai-olmo-3.1-32b-instruct": {
+    "model": "Olmo 3.1 32B Instruct",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-3.1-32b-instruct"
+      ],
+      "deepinfra": [
+        "allenai/Olmo-3.1-32B-Instruct"
+      ]
+    }
+  },
+  "allenai-olmo-3.1-32b-think": {
+    "model": "Olmo 3.1 32B Think",
+    "author": "Allenai",
+    "provider_slugs": {
+      "openrouter": [
+        "allenai/olmo-3.1-32b-think:free",
+        "allenai/olmo-3.1-32b-think"
+      ]
+    }
+  },
+  "allenai-olmo-7b-instruct": {
+    "model": "OLMo 7B Instruct",
+    "author": "Allenai",
+    "provider_slugs": {},
+    "other_matches": [
+      "Allenai Olmo 3 7B Instruct"
+    ]
+  },
+  "alpindale-goliath-120b": {
+    "model": "Goliath 120B",
+    "author": "Alpindale",
+    "provider_slugs": {
+      "openrouter": [
+        "alpindale/goliath-120b"
+      ]
+    }
+  },
+  "amazon-nova-2-lite-v1": {
+    "model": "Nova 2 Lite",
+    "author": "Amazon",
+    "provider_slugs": {
+      "openrouter": [
+        "amazon/nova-2-lite-v1"
+      ],
+      "bedrock": [
+        "amazon.nova-2-lite-v1:0"
+      ]
+    },
+    "other_matches": [
+      "Aws Nova 2.0 Lite",
+      "Amazon Nova 2.0 Lite"
+    ]
+  },
+  "amazon-nova-lite-v1": {
+    "model": "Nova Lite 1.0",
+    "author": "Amazon",
+    "provider_slugs": {
+      "openrouter": [
+        "amazon/nova-lite-v1"
+      ],
+      "bedrock": [
+        "amazon.nova-lite-v1:0"
+      ]
+    }
+  },
+  "amazon-nova-micro-v1": {
+    "model": "Nova Micro 1.0",
+    "author": "Amazon",
+    "provider_slugs": {
+      "openrouter": [
+        "amazon/nova-micro-v1"
+      ],
+      "bedrock": [
+        "amazon.nova-micro-v1:0"
+      ]
+    }
+  },
+  "amazon-nova-premier-v1": {
+    "model": "Nova Premier 1.0",
+    "author": "Amazon",
+    "provider_slugs": {
+      "openrouter": [
+        "amazon/nova-premier-v1"
+      ],
+      "bedrock": [
+        "amazon.nova-premier-v1:0:8k",
+        "amazon.nova-premier-v1:0:20k",
+        "amazon.nova-premier-v1:0:1000k",
+        "amazon.nova-premier-v1:0:mm",
+        "amazon.nova-premier-v1:0"
+      ]
+    }
+  },
+  "amazon-nova-pro-v1": {
+    "model": "Nova Pro 1.0",
+    "author": "Amazon",
+    "provider_slugs": {
+      "openrouter": [
+        "amazon/nova-pro-v1"
+      ],
+      "bedrock": [
+        "amazon.nova-pro-v1:0"
+      ]
+    }
+  },
+  "anthracite-org-magnum-v4-72b": {
+    "model": "Magnum v4 72B",
+    "author": "Anthracite-org",
+    "provider_slugs": {
+      "openrouter": [
+        "anthracite-org/magnum-v4-72b"
+      ]
+    }
+  },
+  "anthropic-claude-2": {
+    "model": "Claude 2.1",
+    "author": "Anthropic",
+    "provider_slugs": {},
+    "other_matches": [
+      "Anthropic claude-3-haiku-20240307",
+      "Anthropic claude-sonnet-4-20250514",
+      "Anthropic claude-haiku-4-5-20251001",
+      "Anthropic claude-sonnet-4-6-20260217"
+    ]
+  },
+  "anthropic-claude-3-haiku": {
+    "model": "Claude 3 Haiku",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3-haiku"
+      ],
+      "bedrock": [
+        "anthropic.claude-3-haiku-20240307-v1:0:200k",
+        "anthropic.claude-3-haiku-20240307-v1:0",
+        "claude-3-haiku"
+      ]
+    },
+    "other_matches": [
+      "Anthropic Claude 3.5 Haiku",
+      "Anthropic claude-3-haiku-20240307",
+      "Anthropic Claude 3.5 Haiku (2024-10-22)"
+    ]
+  },
+  "anthropic-claude-3-opus": {
+    "model": "Claude 3 Opus",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3-opus"
+      ],
+      "bedrock": [
+        "claude-3-opus"
+      ]
+    },
+    "other_matches": [
+      "Anthropic claude-3-opus-20240229"
+    ]
+  },
+  "anthropic-claude-3-sonnet": {
+    "model": "Claude 3 Sonnet",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "bedrock": [
+        "claude-3-sonnet"
+      ]
+    },
+    "other_matches": [
+      "Anthropic Claude 3.7 Sonnet",
+      "Anthropic Claude 3.5 Sonnet",
+      "Anthropic claude-3-5-sonnet-20241022",
+      "Anthropic claude-3-7-sonnet-20250219"
+    ]
+  },
+  "anthropic-claude-3.5-haiku": {
+    "model": "Claude 3.5 Haiku",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3.5-haiku"
+      ],
+      "bedrock": [
+        "anthropic.claude-3-5-haiku-20241022-v1:0",
+        "claude-3.5-haiku"
+      ]
+    },
+    "other_matches": [
+      "Anthropic Claude 3.5 Haiku (2024-10-22)"
+    ]
+  },
+  "anthropic-claude-3.5-haiku-20241022": {
+    "model": "Claude 3.5 Haiku (2024-10-22)",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3.5-haiku-20241022"
+      ]
+    }
+  },
+  "anthropic-claude-3.5-sonnet": {
+    "model": "Claude 3.5 Sonnet",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3.5-sonnet"
+      ],
+      "bedrock": [
+        "anthropic.claude-3-5-sonnet-20240620-v1:0",
+        "anthropic.claude-3-5-sonnet-20241022-v2:0",
+        "claude-3.5-sonnet",
+        "claude-3.5-sonnet-v2"
+      ]
+    }
+  },
+  "anthropic-claude-3.7-sonnet": {
+    "model": "Claude 3.7 Sonnet",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-3.7-sonnet:thinking",
+        "anthropic/claude-3.7-sonnet"
+      ],
+      "bedrock": [
+        "claude-3.7-sonnet",
+        "anthropic.claude-3-7-sonnet-20250219-v1:0"
+      ],
+      "deepinfra": [
+        "anthropic/claude-3-7-sonnet-latest"
+      ]
+    }
+  },
+  "anthropic-claude-haiku-4.5": {
+    "model": "Claude Haiku 4.5",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-haiku-4.5"
+      ],
+      "bedrock": [
+        "claude-haiku-4.5",
+        "anthropic.claude-haiku-4-5-20251001-v1:0"
+      ]
+    }
+  },
+  "anthropic-claude-instant": {
+    "model": "Claude Instant",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "bedrock": [
+        "claude-instant"
+      ]
+    }
+  },
+  "anthropic-claude-opus-4": {
+    "model": "Claude Opus 4",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-opus-4"
+      ],
+      "bedrock": [
+        "claude-opus-4",
+        "anthropic.claude-opus-4-20250514-v1:0"
+      ],
+      "deepinfra": [
+        "anthropic/claude-4-opus"
+      ]
+    },
+    "other_matches": [
+      "Anthropic Claude Opus 4.7",
+      "Anthropic Claude Opus 4.6",
+      "Anthropic Claude Opus 4.5",
+      "Anthropic Claude Opus 4.1"
+    ]
+  },
+  "anthropic-claude-opus-4.1": {
+    "model": "Claude Opus 4.1",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-opus-4.1"
+      ],
+      "bedrock": [
+        "claude-opus-4.1",
+        "anthropic.claude-opus-4-1-20250805-v1:0"
+      ]
+    }
+  },
+  "anthropic-claude-opus-4.5": {
+    "model": "Claude Opus 4.5",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-opus-4.5"
+      ],
+      "bedrock": [
+        "claude-opus-4.5",
+        "anthropic.claude-opus-4-5-20251101-v1:0"
+      ]
+    }
+  },
+  "anthropic-claude-opus-4.6": {
+    "model": "Claude Opus 4.6",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-opus-4.6"
+      ],
+      "bedrock": [
+        "claude-opus-4.6",
+        "claude-opus-4.6-long-context",
+        "anthropic.claude-opus-4-6-v1"
+      ]
+    }
+  },
+  "anthropic-claude-opus-4.7": {
+    "model": "Claude Opus 4.7",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-opus-4.7"
+      ],
+      "bedrock": [
+        "claude-opus-4.7"
+      ]
+    }
+  },
+  "anthropic-claude-sonnet-4": {
+    "model": "Claude Sonnet 4",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-sonnet-4"
+      ],
+      "bedrock": [
+        "claude-sonnet-4",
+        "claude-sonnet-4-long-context",
+        "anthropic.claude-sonnet-4-20250514-v1:0"
+      ],
+      "deepinfra": [
+        "anthropic/claude-4-sonnet"
+      ]
+    },
+    "other_matches": [
+      "Anthropic Claude Sonnet 4.6",
+      "Anthropic Claude Sonnet 4.5",
+      "Anthropic claude-sonnet-4-20250514",
+      "Anthropic claude-sonnet-4-6-20260217"
+    ]
+  },
+  "anthropic-claude-sonnet-4.5": {
+    "model": "Claude Sonnet 4.5",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-sonnet-4.5"
+      ],
+      "bedrock": [
+        "claude-sonnet-4.5",
+        "claude-sonnet-4.5-long-context",
+        "anthropic.claude-sonnet-4-5-20250929-v1:0"
+      ]
+    }
+  },
+  "anthropic-claude-sonnet-4.6": {
+    "model": "Claude Sonnet 4.6",
+    "author": "Anthropic",
+    "provider_slugs": {
+      "openrouter": [
+        "anthropic/claude-sonnet-4.6"
+      ],
+      "bedrock": [
+        "claude-sonnet-4.6",
+        "claude-sonnet-4.6-long-context",
+        "anthropic.claude-sonnet-4-6"
+      ]
+    }
+  },
+  "arcee-ai-coder-large": {
+    "model": "Coder Large",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/coder-large"
+      ]
+    }
+  },
+  "arcee-ai-maestro-reasoning": {
+    "model": "Maestro Reasoning",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/maestro-reasoning"
+      ]
+    }
+  },
+  "arcee-ai-spotlight": {
+    "model": "Spotlight",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/spotlight"
+      ]
+    },
+    "other_matches": [
+      "Fireworks Atlas V3 Spotlight"
+    ]
+  },
+  "arcee-ai-trinity-large-preview": {
+    "model": "Trinity Large Preview",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/trinity-large-preview:free",
+        "arcee-ai/trinity-large-preview"
+      ],
+      "together": [
+        "arcee-ai/trinity-large-preview"
+      ]
+    }
+  },
+  "arcee-ai-trinity-large-thinking": {
+    "model": "Trinity Large Thinking",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/trinity-large-thinking"
+      ]
+    }
+  },
+  "arcee-ai-trinity-mini": {
+    "model": "Trinity Mini",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/trinity-mini:free",
+        "arcee-ai/trinity-mini"
+      ],
+      "together": [
+        "arcee-ai/trinity-mini"
+      ]
+    }
+  },
+  "arcee-ai-virtuoso-large": {
+    "model": "Virtuoso Large",
+    "author": "Arcee AI",
+    "provider_slugs": {
+      "openrouter": [
+        "arcee-ai/virtuoso-large"
+      ]
+    }
+  },
+  "arliai-qwq-32b-arliai-rpr-v1": {
+    "model": "QwQ 32B RpR v1",
+    "author": "Arliai",
+    "provider_slugs": {
+      "openrouter": [
+        "arliai/qwq-32b-arliai-rpr-v1"
+      ]
+    }
+  },
+  "austism-chronos-hermes-13b": {
+    "model": "Austism/chronos-hermes-13b",
+    "author": "Austism",
+    "provider_slugs": {}
+  },
+  "baidu-ernie-4.5-21b-a3b": {
+    "model": "ERNIE 4.5 21B A3B",
+    "author": "Baidu",
+    "provider_slugs": {
+      "openrouter": [
+        "baidu/ernie-4.5-21b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/ernie-4p5-21b-a3b-pt"
+      ]
+    },
+    "other_matches": [
+      "Baidu ERNIE 4.5 21B A3B Thinking"
+    ]
+  },
+  "baidu-ernie-4.5-21b-a3b-thinking": {
+    "model": "ERNIE 4.5 21B A3B Thinking",
+    "author": "Baidu",
+    "provider_slugs": {
+      "openrouter": [
+        "baidu/ernie-4.5-21b-a3b-thinking"
+      ]
+    }
+  },
+  "baidu-ernie-4.5-300b-a47b": {
+    "model": "ERNIE 4.5 300B A47B",
+    "author": "Baidu",
+    "provider_slugs": {
+      "openrouter": [
+        "baidu/ernie-4.5-300b-a47b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/ernie-4p5-300b-a47b-pt"
+      ]
+    }
+  },
+  "baidu-ernie-4.5-vl-28b-a3b": {
+    "model": "ERNIE 4.5 VL 28B A3B",
+    "author": "Baidu",
+    "provider_slugs": {
+      "openrouter": [
+        "baidu/ernie-4.5-vl-28b-a3b"
+      ]
+    }
+  },
+  "baidu-ernie-4.5-vl-424b-a47b": {
+    "model": "ERNIE 4.5 VL 424B A47B",
+    "author": "Baidu",
+    "provider_slugs": {
+      "openrouter": [
+        "baidu/ernie-4.5-vl-424b-a47b"
+      ]
+    }
+  },
+  "bytedance-seed-seed-1.6": {
+    "model": "Seed 1.6",
+    "author": "Bytedance-seed",
+    "provider_slugs": {
+      "openrouter": [
+        "bytedance-seed/seed-1.6"
+      ]
+    },
+    "other_matches": [
+      "Bytedance-seed Seed 1.6 Flash"
+    ]
+  },
+  "bytedance-seed-seed-1.6-flash": {
+    "model": "Seed 1.6 Flash",
+    "author": "Bytedance-seed",
+    "provider_slugs": {
+      "openrouter": [
+        "bytedance-seed/seed-1.6-flash"
+      ]
+    }
+  },
+  "bytedance-seed-seed-2.0-lite": {
+    "model": "Seed 2.0 Lite",
+    "author": "Bytedance-seed",
+    "provider_slugs": {
+      "openrouter": [
+        "bytedance-seed/seed-2.0-lite"
+      ]
+    },
+    "other_matches": [
+      "Bytedance-seed Doubao Seed 2.0 Lite"
+    ]
+  },
+  "bytedance-seed-seed-2.0-mini": {
+    "model": "Seed 2.0 Mini",
+    "author": "Bytedance-seed",
+    "provider_slugs": {
+      "openrouter": [
+        "bytedance-seed/seed-2.0-mini"
+      ],
+      "deepinfra": [
+        "ByteDance/Seed-2.0-mini"
+      ]
+    }
+  },
+  "bytedance-seed-seed-oss-36b-instruct": {
+    "model": "Seed OSS 36B Instruct",
+    "author": "Bytedance-seed",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/seed-oss-36b-instruct"
+      ]
+    }
+  },
+  "bytedance-ui-tars-1.5-7b": {
+    "model": "UI-TARS 7B",
+    "author": "Bytedance",
+    "provider_slugs": {
+      "openrouter": [
+        "bytedance/ui-tars-1.5-7b"
+      ]
+    }
+  },
+  "cognitivecomputations-dolphin-2-9-2-qwen2-72b": {
+    "model": "Dolphin 2.9.2 Qwen2 72B",
+    "author": "Cognitive Computations",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/dolphin-2-9-2-qwen2-72b"
+      ]
+    }
+  },
+  "cognitivecomputations-dolphin-2.6-mixtral-8x7b": {
+    "model": "Dolphin 2.6 Mixtral 8x7B",
+    "author": "Cognitive Computations",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/dolphin-2p6-mixtral-8x7b"
+      ]
+    }
+  },
+  "cohere-command-a": {
+    "model": "Command A",
+    "author": "Cohere",
+    "provider_slugs": {
+      "openrouter": [
+        "cohere/command-a"
+      ]
+    },
+    "other_matches": [
+      "Cohere Command R",
+      "Cohere Command R+",
+      "Cohere Command R (08-2024)",
+      "Cohere Command R (Mar 2024)"
+    ]
+  },
+  "cohere-command-r": {
+    "model": "Command R",
+    "author": "Cohere",
+    "provider_slugs": {
+      "bedrock": [
+        "command-r"
+      ]
+    },
+    "other_matches": [
+      "Cohere Command R (Mar 2024)",
+      "Cohere Command R+ (Apr 2024)",
+      "Cohere Command R7B (12-2024)",
+      "Cohere Command R (08-2024)"
+    ]
+  },
+  "cohere-command-r-08-2024": {
+    "model": "Command R (08-2024)",
+    "author": "Cohere",
+    "provider_slugs": {
+      "openrouter": [
+        "cohere/command-r-08-2024"
+      ]
+    },
+    "other_matches": [
+      "Cohere Command R+ (08-2024)"
+    ]
+  },
+  "cohere-command-r-plus": {
+    "model": "Command R+",
+    "author": "Cohere",
+    "provider_slugs": {},
+    "other_matches": [
+      "Cohere Command R+ (Apr 2024)",
+      "Cohere Command R+ (08-2024)"
+    ]
+  },
+  "cohere-command-r-plus-08-2024": {
+    "model": "Command R+ (08-2024)",
+    "author": "Cohere",
+    "provider_slugs": {
+      "openrouter": [
+        "cohere/command-r-plus-08-2024"
+      ]
+    }
+  },
+  "cohere-command-r7b-12-2024": {
+    "model": "Command R7B (12-2024)",
+    "author": "Cohere",
+    "provider_slugs": {
+      "openrouter": [
+        "cohere/command-r7b-12-2024"
+      ]
+    }
+  },
+  "deepcogito-cogito-v1-preview-llama-3b": {
+    "model": "Cogito v1 Preview Llama 3B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/cogito-v1-preview-llama-3b"
+      ],
+      "together": [
+        "deepcogito/cogito-v1-preview-llama-3B"
+      ]
+    }
+  },
+  "deepcogito-cogito-v1-preview-llama-70b": {
+    "model": "Cogito v1 Preview Llama 70B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/cogito-v1-preview-llama-70b"
+      ],
+      "together": [
+        "deepcogito/cogito-v1-preview-llama-70B"
+      ]
+    },
+    "other_matches": [
+      "Deepcogito Cogito v1 Preview Llama 70B Turbo"
+    ]
+  },
+  "deepcogito-cogito-v1-preview-llama-8b": {
+    "model": "Cogito v1 Preview Llama 8B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/cogito-v1-preview-llama-8b"
+      ],
+      "together": [
+        "deepcogito/cogito-v1-preview-llama-8B"
+      ]
+    }
+  },
+  "deepcogito-cogito-v1-preview-qwen-14b": {
+    "model": "Cogito v1 Preview Qwen 14B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/cogito-v1-preview-qwen-14b"
+      ],
+      "together": [
+        "deepcogito/cogito-v1-preview-qwen-14B"
+      ]
+    }
+  },
+  "deepcogito-cogito-v1-preview-qwen-32b": {
+    "model": "Cogito v1 Preview Qwen 32B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/cogito-v1-preview-qwen-32b"
+      ],
+      "together": [
+        "deepcogito/cogito-v1-preview-qwen-32B"
+      ]
+    }
+  },
+  "deepcogito-cogito-v2-preview-llama-109b-moe": {
+    "model": "Cogito V2 Preview Llama 109B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "openrouter": [
+        "deepcogito/cogito-v2-preview-llama-109b-moe"
+      ],
+      "together": [
+        "togethercomputer/deepcogito-cogito-v2-preview-llama-109B-MoE"
+      ]
+    }
+  },
+  "deepcogito-cogito-v2-preview-llama-405b": {
+    "model": "Cogito V2 Preview Llama 405B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "openrouter": [
+        "deepcogito/cogito-v2-preview-llama-405b"
+      ]
+    }
+  },
+  "deepcogito-cogito-v2-preview-llama-70b": {
+    "model": "Cogito V2 Preview Llama 70B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "openrouter": [
+        "deepcogito/cogito-v2-preview-llama-70b"
+      ]
+    }
+  },
+  "deepcogito-cogito-v2.1-671b": {
+    "model": "Cogito v2.1 671B",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "openrouter": [
+        "deepcogito/cogito-v2.1-671b"
+      ],
+      "fireworks": [
+        "accounts/cogito/models/cogito-671b-v2-p1"
+      ],
+      "together": [
+        "deepcogito/cogito-v2-1-671b"
+      ]
+    }
+  },
+  "deepseek-deepseek-chat": {
+    "model": "DeepSeek V3",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-chat"
+      ],
+      "bedrock": [
+        "deepseek.v3-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-v3"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3-DE",
+        "deepseek-ai/DeepSeek-V3-Base"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-V3"
+      ]
+    },
+    "other_matches": [
+      "Nex-AGI DeepSeek V3.1 Nex N1",
+      "Deepseek DeepSeek V3.1",
+      "Deepseek DeepSeek V3 0324",
+      "Deepseek DeepSeek V3.2 Speciale"
+    ]
+  },
+  "deepseek-deepseek-chat-v3-0324": {
+    "model": "DeepSeek V3 0324",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-chat-v3-0324"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-v3-0324"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3-0324"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-V3-0324"
+      ],
+      "sambanova": [
+        "DeepSeek-V3-0324"
+      ]
+    }
+  },
+  "deepseek-deepseek-chat-v3.1": {
+    "model": "DeepSeek V3.1",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-chat-v3.1"
+      ],
+      "bedrock": [
+        "deepseek-v3.1"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-v3p1"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3.1-Base",
+        "deepseek-ai/DeepSeek-V3.1"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-V3.1"
+      ],
+      "sambanova": [
+        "DeepSeek-V3.1",
+        "DeepSeek-V3.1-cb"
+      ]
+    },
+    "other_matches": [
+      "Nex-AGI DeepSeek V3.1 Nex N1",
+      "Deepseek DeepSeek V3.1 Terminus"
+    ]
+  },
+  "deepseek-deepseek-coder-1b-base": {
+    "model": "DeepSeek Coder 1.3B Base",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-coder-1b-base"
+      ]
+    }
+  },
+  "deepseek-deepseek-coder-33b-instruct": {
+    "model": "DeepSeek Coder 33B Instruct",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-coder-33b-instruct"
+      ],
+      "together": [
+        "deepseek-ai/deepseek-coder-33b-instruct"
+      ]
+    }
+  },
+  "deepseek-deepseek-coder-7b-base": {
+    "model": "DeepSeek Coder 7B Base",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-coder-7b-base"
+      ]
+    },
+    "other_matches": [
+      "Deepseek DeepSeek Coder 7B Base v1.5"
+    ]
+  },
+  "deepseek-deepseek-coder-7b-base-v1.5": {
+    "model": "DeepSeek Coder 7B Base v1.5",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-coder-7b-base-v1p5"
+      ]
+    }
+  },
+  "deepseek-deepseek-coder-7b-instruct-v1.5": {
+    "model": "DeepSeek Coder 7B Instruct v1.5",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-coder-7b-instruct-v1p5"
+      ]
+    }
+  },
+  "deepseek-deepseek-prover-v2": {
+    "model": "DeepSeek Prover V2",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-prover-v2"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-prover-v2"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1": {
+    "model": "R1 1776",
+    "author": "Perplexity",
+    "provider_slugs": {},
+    "other_matches": [
+      "Tngtech R1T Chimera",
+      "Deepseek R1 Distill Llama 8B",
+      "Deepseek R1 Distill Qwen 7B",
+      "Deepseek R1 Distill Qwen 1.5B"
+    ]
+  },
+  "deepseek-deepseek-r1-0528": {
+    "model": "R1 0528",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-r1-0528:free",
+        "deepseek/deepseek-r1-0528"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-0528"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-R1-0528"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-R1-0528",
+        "deepseek-ai/DeepSeek-R1-0528-Turbo"
+      ],
+      "sambanova": [
+        "DeepSeek-R1-0528"
+      ]
+    },
+    "other_matches": [
+      "Deepseek DeepSeek R1 0528 Qwen3 8B"
+    ]
+  },
+  "deepseek-deepseek-r1-0528-qwen3-8b": {
+    "model": "DeepSeek R1 0528 Qwen3 8B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-r1-0528-qwen3-8b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-0528-distill-qwen3-8b"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-llama-70b": {
+    "model": "R1 Distill Llama 70B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-r1-distill-llama-70b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-llama-70b"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+      ],
+      "sambanova": [
+        "DeepSeek-R1-Distill-Llama-70B"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-llama-8b": {
+    "model": "R1 Distill Llama 8B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-llama-8b"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-qwen-1.5b": {
+    "model": "R1 Distill Qwen 1.5B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-qwen-1p5b"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-qwen-14b": {
+    "model": "R1 Distill Qwen 14B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-r1-distill-qwen-14b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-qwen-14b"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-qwen-32b": {
+    "model": "R1 Distill Qwen 32B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-r1-distill-qwen-32b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-qwen-32b"
+      ]
+    }
+  },
+  "deepseek-deepseek-r1-distill-qwen-7b": {
+    "model": "R1 Distill Qwen 7B",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-r1-distill-qwen-7b"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+      ]
+    }
+  },
+  "deepseek-deepseek-v3.1-terminus": {
+    "model": "DeepSeek V3.1 Terminus",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-v3.1-terminus:exacto",
+        "deepseek/deepseek-v3.1-terminus"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-v3p1-terminus"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3.1-Terminus"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-V3.1-Terminus"
+      ],
+      "sambanova": [
+        "DeepSeek-V3.1-Terminus"
+      ]
+    }
+  },
+  "deepseek-deepseek-v3.2": {
+    "model": "DeepSeek V3.2",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-v3.2"
+      ],
+      "bedrock": [
+        "deepseek.v3.2",
+        "deepseek-v3.2"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/deepseek-v3p2"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3.2"
+      ],
+      "deepinfra": [
+        "deepseek-ai/DeepSeek-V3.2"
+      ],
+      "sambanova": [
+        "DeepSeek-V3.2"
+      ]
+    },
+    "other_matches": [
+      "Deepseek DeepSeek V3.2 Speciale",
+      "Deepseek DeepSeek V3.2 Exp"
+    ]
+  },
+  "deepseek-deepseek-v3.2-exp": {
+    "model": "DeepSeek V3.2 Exp",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-v3.2-exp"
+      ],
+      "together": [
+        "deepseek-ai/DeepSeek-V3.2-Exp"
+      ]
+    }
+  },
+  "deepseek-deepseek-v3.2-speciale": {
+    "model": "DeepSeek V3.2 Speciale",
+    "author": "Deepseek",
+    "provider_slugs": {
+      "openrouter": [
+        "deepseek/deepseek-v3.2-speciale"
+      ]
+    }
+  },
+  "eleutherai-llemma_7b": {
+    "model": "Llemma 7b",
+    "author": "Eleutherai",
+    "provider_slugs": {
+      "openrouter": [
+        "eleutherai/llemma_7b"
+      ]
+    }
+  },
+  "eleutherai-pythia-12b": {
+    "model": "Pythia 12B",
+    "author": "Eleutherai",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/pythia-12b"
+      ]
+    }
+  },
+  "essential-ai-rnj-1-instruct": {
+    "model": "Rnj 1 Instruct",
+    "author": "Essential AI",
+    "provider_slugs": {
+      "openrouter": [
+        "essentialai/rnj-1-instruct"
+      ],
+      "together": [
+        "togethercomputer/EssentialAI-RNJ-1-Instruct",
+        "essentialai/rnj-1-instruct"
+      ]
+    }
+  },
+  "fireworks-fare-20b": {
+    "model": "FARE 20B",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/fare-20b"
+      ]
+    }
+  },
+  "fireworks-kat-dev-32b": {
+    "model": "KAT Dev 32B",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/kat-dev-32b"
+      ]
+    }
+  },
+  "fireworks-kat-dev-72b-exp": {
+    "model": "KAT Dev 72B Exp",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/kat-dev-72b-exp"
+      ]
+    }
+  },
+  "google-codegemma-2b": {
+    "model": "CodeGemma 2B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/codegemma-2b"
+      ]
+    }
+  },
+  "google-codegemma-7b": {
+    "model": "CodeGemma 7B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/codegemma-7b"
+      ]
+    }
+  },
+  "google-gemini-1.0-pro": {
+    "model": "Gemini 1.0 Pro",
+    "author": "Google",
+    "provider_slugs": {
+      "gemini": [
+        "models/gemini-pro-latest"
+      ]
+    }
+  },
+  "google-gemini-1.5-flash": {
+    "model": "Gemini 1.5 Flash",
+    "author": "Google",
+    "provider_slugs": {
+      "deepinfra": [
+        "google/gemini-1.5-flash"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 1.5 Flash 8B"
+    ]
+  },
+  "google-gemini-2.0-flash-001": {
+    "model": "Gemini 2.0 Flash",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.0-flash-001"
+      ],
+      "gemini": [
+        "models/gemini-2.0-flash",
+        "models/gemini-2.0-flash-001"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.0 Flash Thinking Experimental (Jan '25) (creator_name=Google)",
+      "Google Gemini 2.0 Flash Thinking Experimental (Dec '24) (creator_name=Google)",
+      "Google Gemini 2.0 Flash Experimental",
+      "Google Gemini 2.0 Flash Lite"
+    ]
+  },
+  "google-gemini-2.0-flash-exp": {
+    "model": "Gemini 2.0 Flash Experimental",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.0-flash-exp:free"
+      ],
+      "gemini": [
+        "models/gemini-2.0-flash-exp-image-generation"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.0 Flash Thinking Experimental (Jan '25) (creator_name=Google)",
+      "Google Gemini 2.0 Flash Thinking Experimental (Dec '24) (creator_name=Google)"
+    ]
+  },
+  "google-gemini-2.0-flash-lite-001": {
+    "model": "Gemini 2.0 Flash Lite",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.0-flash-lite-001"
+      ],
+      "gemini": [
+        "models/gemini-2.0-flash-lite-001",
+        "models/gemini-2.0-flash-lite"
+      ]
+    }
+  },
+  "google-gemini-2.5-computer-use-preview-10-2025": {
+    "model": "Gemini 2.5 Computer Use Preview",
+    "author": "Google",
+    "provider_slugs": {
+      "gemini": [
+        "models/gemini-2.5-computer-use-preview-10-2025"
+      ]
+    }
+  },
+  "google-gemini-2.5-flash": {
+    "model": "Gemini 2.5 Flash",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash"
+      ],
+      "deepinfra": [
+        "google/gemini-2.5-flash"
+      ],
+      "gemini": [
+        "models/gemini-2.5-flash",
+        "models/gemini-2.5-flash-preview-tts",
+        "models/gemini-flash-latest"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.5 Flash Preview 09-2025",
+      "Google Gemini 2.5 Flash Lite Preview 09-2025",
+      "Google Gemini 2.5 Flash Image (Nano Banana)",
+      "Google Gemini 2.5 Flash Image Preview (Nano Banana)"
+    ]
+  },
+  "google-gemini-2.5-flash-image": {
+    "model": "Gemini 2.5 Flash Image (Nano Banana)",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash-image"
+      ],
+      "gemini": [
+        "models/gemini-2.5-flash-image"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.5 Flash Image Preview (Nano Banana)"
+    ]
+  },
+  "google-gemini-2.5-flash-image-preview": {
+    "model": "Gemini 2.5 Flash Image Preview (Nano Banana)",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash-image-preview"
+      ]
+    }
+  },
+  "google-gemini-2.5-flash-lite": {
+    "model": "Gemini 2.5 Flash Lite",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash-lite"
+      ],
+      "gemini": [
+        "models/gemini-2.5-flash-lite",
+        "models/gemini-flash-lite-latest"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.5 Flash Lite Preview 09-2025"
+    ]
+  },
+  "google-gemini-2.5-flash-lite-preview-09-2025": {
+    "model": "Gemini 2.5 Flash Lite Preview 09-2025",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash-lite-preview-09-2025"
+      ],
+      "gemini": [
+        "models/gemini-2.5-flash-lite-preview-09-2025"
+      ]
+    }
+  },
+  "google-gemini-2.5-flash-preview-09-2025": {
+    "model": "Gemini 2.5 Flash Preview 09-2025",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-flash-preview-09-2025"
+      ],
+      "gemini": [
+        "models/gemini-2.5-flash-preview-09-2025"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.5 Flash Lite Preview 09-2025"
+    ]
+  },
+  "google-gemini-2.5-pro": {
+    "model": "Gemini 2.5 Pro",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-pro"
+      ],
+      "deepinfra": [
+        "google/gemini-2.5-pro"
+      ],
+      "gemini": [
+        "models/gemini-2.5-pro",
+        "models/gemini-2.5-pro-preview-tts"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 2.5 Pro Preview 05-06",
+      "Google Gemini 2.5 Pro Preview 06-05"
+    ]
+  },
+  "google-gemini-2.5-pro-preview": {
+    "model": "Gemini 2.5 Pro Preview 06-05",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-pro-preview"
+      ]
+    }
+  },
+  "google-gemini-2.5-pro-preview-05-06": {
+    "model": "Gemini 2.5 Pro Preview 05-06",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-2.5-pro-preview-05-06"
+      ]
+    }
+  },
+  "google-gemini-3-flash-preview": {
+    "model": "Gemini 3 Flash Preview",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3-flash-preview"
+      ],
+      "gemini": [
+        "models/gemini-3-flash-preview"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 3.1 Flash TTS Preview",
+      "Google Gemini 3.1 Flash Lite Preview",
+      "Google Gemini 3.1 Flash Image Preview"
+    ]
+  },
+  "google-gemini-3-pro-image-preview": {
+    "model": "Nano Banana Pro (Gemini 3 Pro Image Preview)",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3-pro-image-preview"
+      ],
+      "gemini": [
+        "models/gemini-3-pro-image-preview"
+      ]
+    }
+  },
+  "google-gemini-3-pro-preview": {
+    "model": "Gemini 3 Pro Preview",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3-pro-preview"
+      ],
+      "gemini": [
+        "models/gemini-3-pro-preview"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 3.1 Pro Preview",
+      "Google Gemini 3.1 Pro Preview Custom Tools",
+      "Google Nano Banana Pro (Gemini 3 Pro Image Preview)"
+    ]
+  },
+  "google-gemini-3.1-flash-lite-preview": {
+    "model": "Gemini 3.1 Flash Lite Preview",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3.1-flash-lite-preview"
+      ],
+      "gemini": [
+        "models/gemini-3.1-flash-lite-preview"
+      ]
+    }
+  },
+  "google-gemini-3.1-pro-preview": {
+    "model": "Gemini 3.1 Pro Preview",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3.1-pro-preview"
+      ],
+      "gemini": [
+        "models/gemini-3.1-pro-preview"
+      ]
+    },
+    "other_matches": [
+      "Google Gemini 3.1 Pro Preview Custom Tools"
+    ]
+  },
+  "google-gemini-3.1-pro-preview-customtools": {
+    "model": "Gemini 3.1 Pro Preview Custom Tools",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemini-3.1-pro-preview-customtools"
+      ],
+      "gemini": [
+        "models/gemini-3.1-pro-preview-customtools"
+      ]
+    }
+  },
+  "google-gemma-2-27b-it": {
+    "model": "Gemma 2 27B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-2-27b-it"
+      ],
+      "together": [
+        "google/gemma-2-27b-it"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 3 27B",
+      "Google MedGemma 27B"
+    ]
+  },
+  "google-gemma-2-9b-it": {
+    "model": "Gemma 2 9B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-2-9b-it"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma2-9b-it"
+      ],
+      "together": [
+        "google/gemma-2-9b-it"
+      ]
+    }
+  },
+  "google-gemma-2b": {
+    "model": "Gemma 2B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/gemma-2b-it"
+      ],
+      "together": [
+        "google/gemma-2b-it-Ishan",
+        "google/gemma-2b-it"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 2B",
+      "Google Gemma 3n 2B",
+      "Google Gemma 3 12B",
+      "Google CodeGemma 2B"
+    ]
+  },
+  "google-gemma-3-12b-it": {
+    "model": "Gemma 3 12B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-3-12b-it:free",
+        "google/gemma-3-12b-it"
+      ],
+      "bedrock": [
+        "google.gemma-3-12b-it",
+        "gemma-3-12b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma-3-12b-it"
+      ],
+      "together": [
+        "google/gemma-3-12b-it"
+      ],
+      "deepinfra": [
+        "google/gemma-3-12b-it"
+      ],
+      "sambanova": [
+        "gemma-3-12b-it"
+      ],
+      "gemini": [
+        "models/gemma-3-12b-it"
+      ]
+    }
+  },
+  "google-gemma-3-1b-it": {
+    "model": "Gemma 3 1B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/gemma-3-1b-it"
+      ],
+      "together": [
+        "google/gemma-3-1b-it"
+      ],
+      "gemini": [
+        "models/gemma-3-1b-it"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 3 1B (Pretrained)",
+      "Google Gemma 4 31B Instruct"
+    ]
+  },
+  "google-gemma-3-270m-it": {
+    "model": "Gemma 3 270M Instruct",
+    "author": "Google",
+    "provider_slugs": {
+      "together": [
+        "google/gemma-3-270m-it"
+      ]
+    }
+  },
+  "google-gemma-3-27b-it": {
+    "model": "Gemma 3 27B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-3-27b-it:free",
+        "google/gemma-3-27b-it"
+      ],
+      "bedrock": [
+        "google.gemma-3-27b-it",
+        "gemma-3-27b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma-3-27b-it"
+      ],
+      "together": [
+        "google/gemma-3-27b-pt",
+        "google/gemma-3-27b-it"
+      ],
+      "deepinfra": [
+        "google/gemma-3-27b-it"
+      ],
+      "gemini": [
+        "models/gemma-3-27b-it"
+      ]
+    }
+  },
+  "google-gemma-3-4b-it": {
+    "model": "Gemma 3 4B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-3-4b-it:free",
+        "google/gemma-3-4b-it"
+      ],
+      "bedrock": [
+        "google.gemma-3-4b-it",
+        "gemma-3-4b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma-3-4b-it"
+      ],
+      "together": [
+        "google/gemma-3-4b-pt",
+        "google/gemma-3-4b-it"
+      ],
+      "deepinfra": [
+        "google/gemma-3-4b-it"
+      ],
+      "gemini": [
+        "models/gemma-3-4b-it"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 3n 4B",
+      "Google Gemma 3n E4B Instruct Preview (May '25) (creator_name=Google)"
+    ]
+  },
+  "google-gemma-3n-e4b-it": {
+    "model": "Gemma 3n 4B",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-3n-e4b-it:free",
+        "google/gemma-3n-e4b-it"
+      ],
+      "together": [
+        "google/gemma-3n-E4B-it"
+      ],
+      "gemini": [
+        "models/gemma-3n-e4b-it"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 3n E4B Instruct Preview (May '25) (creator_name=Google)"
+    ]
+  },
+  "google-gemma-4-26b-a4b-it": {
+    "model": "Gemma 4 26B A4B Instruct",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-4-26b-a4b-it",
+        "google/gemma-4-26b-a4b-it:free"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma-4-26b-a4b-it"
+      ],
+      "together": [
+        "google/gemma-4-26B-A4B-it"
+      ],
+      "deepinfra": [
+        "google/gemma-4-26B-A4B-it"
+      ],
+      "gemini": [
+        "models/gemma-4-26b-a4b-it"
+      ]
+    }
+  },
+  "google-gemma-4-31b-it": {
+    "model": "Gemma 4 31B Instruct",
+    "author": "Google",
+    "provider_slugs": {
+      "openrouter": [
+        "google/gemma-4-31b-it",
+        "google/gemma-4-31b-it:free"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gemma-4-31b-it",
+        "accounts/fireworks/models/gemma-4-31b-it-nvfp4"
+      ],
+      "together": [
+        "google/gemma-4-31B-it"
+      ],
+      "deepinfra": [
+        "google/gemma-4-31B-it"
+      ],
+      "gemini": [
+        "models/gemma-4-31b-it"
+      ]
+    }
+  },
+  "google-gemma-4-e2b-it": {
+    "model": "Gemma 4 E2B IT",
+    "author": "Google",
+    "provider_slugs": {
+      "together": [
+        "google/gemma-4-E2B-it"
+      ]
+    }
+  },
+  "google-gemma-7b": {
+    "model": "Gemma 7B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/gemma-7b"
+      ]
+    },
+    "other_matches": [
+      "Google Gemma 7B Instruct",
+      "Google Gemma 3 27B",
+      "Google Gemma 2 27B",
+      "Google CodeGemma 7B"
+    ]
+  },
+  "google-gemma-7b-it": {
+    "model": "Gemma 7B Instruct",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/gemma-7b-it"
+      ]
+    }
+  },
+  "google-medgemma-27b": {
+    "model": "MedGemma 27B",
+    "author": "Google",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/medgemma-27b"
+      ],
+      "together": [
+        "google/medgemma-27b-text-it"
+      ]
+    }
+  },
+  "gryphe-mythomax-l2-13b": {
+    "model": "MythoMax 13B",
+    "author": "Gryphe",
+    "provider_slugs": {
+      "openrouter": [
+        "gryphe/mythomax-l2-13b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mythomax-l2-13b"
+      ],
+      "deepinfra": [
+        "Gryphe/MythoMax-L2-13b"
+      ]
+    }
+  },
+  "hcompany-holo3-35b-a3b": {
+    "model": "Hcompany/Holo3-35B-A3B",
+    "author": "Hcompany",
+    "provider_slugs": {
+      "together": [
+        "Hcompany/Holo3-35B-A3B"
+      ]
+    }
+  },
+  "ibm-allam-7b-instruct-preview": {
+    "model": "ALLaM 7B Instruct Preview",
+    "author": "Ibm",
+    "provider_slugs": {
+      "sambanova": [
+        "ALLaM-7B-Instruct-preview"
+      ]
+    }
+  },
+  "ibm-granite-granite-4.0-h-micro": {
+    "model": "Granite 4.0 Micro",
+    "author": "Ibm",
+    "provider_slugs": {},
+    "other_matches": [
+      "Ibm-granite Granite 4.0 Micro"
+    ]
+  },
+  "inception-mercury": {
+    "model": "Mercury",
+    "author": "Inception",
+    "provider_slugs": {
+      "openrouter": [
+        "inception/mercury"
+      ]
+    },
+    "other_matches": [
+      "Inception Mercury Coder",
+      "Inception Mercury 2"
+    ]
+  },
+  "inception-mercury-2": {
+    "model": "Mercury 2",
+    "author": "Inception",
+    "provider_slugs": {
+      "openrouter": [
+        "inception/mercury-2"
+      ]
+    }
+  },
+  "inception-mercury-coder": {
+    "model": "Mercury Coder",
+    "author": "Inception",
+    "provider_slugs": {
+      "openrouter": [
+        "inception/mercury-coder"
+      ]
+    }
+  },
+  "inflection-inflection-3-pi": {
+    "model": "Inflection 3 Pi",
+    "author": "Inflection",
+    "provider_slugs": {
+      "openrouter": [
+        "inflection/inflection-3-pi"
+      ]
+    }
+  },
+  "inflection-inflection-3-productivity": {
+    "model": "Inflection 3 Productivity",
+    "author": "Inflection",
+    "provider_slugs": {
+      "openrouter": [
+        "inflection/inflection-3-productivity"
+      ]
+    }
+  },
+  "kwaipilot-kat-coder-pro": {
+    "model": "KAT-Coder-Pro V1",
+    "author": "Kwaipilot",
+    "provider_slugs": {
+      "openrouter": [
+        "kwaipilot/kat-coder-pro:free",
+        "kwaipilot/kat-coder-pro"
+      ]
+    }
+  },
+  "kwaipilot-kat-coder-pro-v2": {
+    "model": "KAT Coder Pro V2",
+    "author": "Kwaipilot",
+    "provider_slugs": {
+      "openrouter": [
+        "kwaipilot/kat-coder-pro-v2"
+      ]
+    }
+  },
+  "liquid-lfm-2-24b-a2b": {
+    "model": "LFM2-24B-A2B",
+    "author": "Liquid",
+    "provider_slugs": {
+      "openrouter": [
+        "liquid/lfm-2-24b-a2b"
+      ]
+    },
+    "other_matches": [
+      "Liquidai LiquidAI/LFM2-24B-A2B"
+    ]
+  },
+  "liquid-lfm-2.2-6b": {
+    "model": "LiquidAI/LFM2-2.6B",
+    "author": "Liquid",
+    "provider_slugs": {
+      "openrouter": [
+        "liquid/lfm-2.2-6b"
+      ]
+    }
+  },
+  "liquid-lfm2-8b-a1b": {
+    "model": "LiquidAI/LFM2-8B-A1B",
+    "author": "Liquid",
+    "provider_slugs": {
+      "openrouter": [
+        "liquid/lfm2-8b-a1b"
+      ]
+    }
+  },
+  "liquidai-lfm2-24b-a2b": {
+    "model": "LiquidAI/LFM2-24B-A2B",
+    "author": "Liquidai",
+    "provider_slugs": {
+      "together": [
+        "LiquidAI/LFM2-24B-A2B"
+      ]
+    }
+  },
+  "lmsys-vicuna-13b-v1.5": {
+    "model": "lmsys/vicuna-13b-v1.5",
+    "author": "Lmsys",
+    "provider_slugs": {}
+  },
+  "mancer-weaver": {
+    "model": "Weaver (alpha)",
+    "author": "Mancer",
+    "provider_slugs": {
+      "openrouter": [
+        "mancer/weaver"
+      ]
+    }
+  },
+  "meituan-longcat-flash-chat": {
+    "model": "LongCat Flash Chat",
+    "author": "Meituan",
+    "provider_slugs": {
+      "openrouter": [
+        "meituan/longcat-flash-chat"
+      ]
+    }
+  },
+  "meta-llama-code-llama-13b": {
+    "model": "Code Llama 13B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-13b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Code Llama 13B Instruct",
+      "Meta-llama Code Llama 13B Python"
+    ]
+  },
+  "meta-llama-code-llama-13b-instruct": {
+    "model": "Code Llama 13B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-13b-instruct"
+      ]
+    }
+  },
+  "meta-llama-code-llama-13b-python": {
+    "model": "Code Llama 13B Python",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-13b-python"
+      ]
+    }
+  },
+  "meta-llama-code-llama-34b": {
+    "model": "Code Llama 34B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-34b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Code Llama 34B Instruct",
+      "Meta-llama Code Llama 34B Python",
+      "Meta-llama Phind CodeLlama 34B v1",
+      "Meta-llama Phind CodeLlama 34B v2"
+    ]
+  },
+  "meta-llama-code-llama-34b-instruct": {
+    "model": "Code Llama 34B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-34b-instruct"
+      ]
+    }
+  },
+  "meta-llama-code-llama-34b-python": {
+    "model": "Code Llama 34B Python",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-34b-python"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Phind CodeLlama 34B Python v1"
+    ]
+  },
+  "meta-llama-code-llama-70b": {
+    "model": "Code Llama 70B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-70b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Code Llama 70B Instruct",
+      "Meta-llama Code Llama 70B Python"
+    ]
+  },
+  "meta-llama-code-llama-70b-instruct": {
+    "model": "Code Llama 70B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-70b-instruct"
+      ]
+    }
+  },
+  "meta-llama-code-llama-70b-python": {
+    "model": "Code Llama 70B Python",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-70b-python"
+      ]
+    }
+  },
+  "meta-llama-code-llama-7b": {
+    "model": "Code Llama 7B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-7b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Code Llama 7B Instruct",
+      "Meta-llama Code Llama 7B (HF)",
+      "Alfredpros CodeLLaMa 7B Instruct Solidity"
+    ]
+  },
+  "meta-llama-code-llama-7b-instruct": {
+    "model": "Code Llama 7B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-llama-7b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Alfredpros CodeLLaMa 7B Instruct Solidity"
+    ]
+  },
+  "meta-llama-llama-2-13b": {
+    "model": "Llama 2 13B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v2-13b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 2 13B Chat",
+      "Nousresearch Nous Hermes Llama 2 13B"
+    ]
+  },
+  "meta-llama-llama-2-13b-chat": {
+    "model": "Llama 2 13B Chat",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "bedrock": [
+        "llama-2-chat-13b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v2-13b-chat"
+      ],
+      "together": [
+        "meta-llama/Llama-2-13b-chat-hf"
+      ]
+    }
+  },
+  "meta-llama-llama-2-70b": {
+    "model": "Llama 2 70B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v2-70b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 2 70B Chat",
+      "Sao10k Llama 3 Euryale 70B v2.1",
+      "Sao10k Llama 3.1 Euryale 70B v2.2",
+      "Nousresearch Nous Hermes Llama 2 70B"
+    ]
+  },
+  "meta-llama-llama-2-7b": {
+    "model": "Llama 2 7B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v2-7b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 2 7B Chat",
+      "Nousresearch Nous Hermes Llama 2 7B",
+      "Togethercomputer togethercomputer/Llama-2-7B-32K-Instruct"
+    ]
+  },
+  "meta-llama-llama-2-7b-chat": {
+    "model": "Llama 2 7B Chat",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v2-7b-chat"
+      ],
+      "together": [
+        "meta-llama/Llama-2-7b-chat-hf"
+      ]
+    }
+  },
+  "meta-llama-llama-2-chat-70b": {
+    "model": "Llama 2 70B Chat",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "bedrock": [
+        "llama-2-chat-70b"
+      ]
+    }
+  },
+  "meta-llama-llama-3-70b-instruct": {
+    "model": "Llama 3 70B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3-70b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3-70b-instruct"
+      ],
+      "together": [
+        "meta-llama/Llama-3-70b-hf",
+        "meta-llama/Meta-Llama-3-70B-Instruct-Turbo"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3 70B Instruct (HF)",
+      "Meta-llama Llama 3.3 70B Instruct",
+      "Meta-llama Llama 3.1 70B Instruct",
+      "Meta-llama Llama 3.1 70B Instruct 1B"
+    ]
+  },
+  "meta-llama-llama-3-70b-instruct-hf": {
+    "model": "Llama 3 70B Instruct (HF)",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3-70b-instruct-hf"
+      ]
+    }
+  },
+  "meta-llama-llama-3-8b": {
+    "model": "Llama 3 8B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3-8b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3 8B Instruct (HF)",
+      "Sao10k Llama 3 8B Lunaris",
+      "Meta-llama Llama 3 8B Instruct",
+      "Meta-llama Llama Guard 3 8B"
+    ]
+  },
+  "meta-llama-llama-3-8b-instruct": {
+    "model": "Llama 3 8B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3-8b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3-8b-instruct"
+      ],
+      "together": [
+        "meta-llama/Meta-Llama-3-8B-Instruct-Lite",
+        "meta-llama/Meta-Llama-3-8B-Instruct",
+        "meta-llama/Llama-3-8b-chat-hf",
+        "meta-llama/Meta-Llama-3-8B"
+      ],
+      "deepinfra": [
+        "meta-llama/Meta-Llama-3-8B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3 8B Instruct (HF)",
+      "Meta-llama Llama 3.3 8B Instruct",
+      "Meta-llama Llama 3.1 8B Instruct"
+    ]
+  },
+  "meta-llama-llama-3-8b-instruct-hf": {
+    "model": "Llama 3 8B Instruct (HF)",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3-8b-instruct-hf"
+      ]
+    }
+  },
+  "meta-llama-llama-3.1-405b": {
+    "model": "Llama 3.1 405B (base)",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.1-405b"
+      ],
+      "together": [
+        "meta-llama/Llama-3.1-405B"
+      ]
+    }
+  },
+  "meta-llama-llama-3.1-405b-instruct": {
+    "model": "Llama 3.1 405B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.1-405b-instruct:free",
+        "meta-llama/llama-3.1-405b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-1-405b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-405b-instruct"
+      ],
+      "together": [
+        "meta-llama/Llama-3.1-405B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.1 405B Instruct Long"
+    ]
+  },
+  "meta-llama-llama-3.1-405b-instruct-long": {
+    "model": "Llama 3.1 405B Instruct Long",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-405b-instruct-long"
+      ]
+    }
+  },
+  "meta-llama-llama-3.1-70b": {
+    "model": "Llama 3.1 70B",
+    "author": "Meta-llama",
+    "provider_slugs": {},
+    "other_matches": [
+      "Meta-llama Llama 3.1 70B Instruct 1B",
+      "Sao10k Llama 3.1 70B Hanami x1",
+      "Meta-llama Llama 3.1 70B Instruct",
+      "Sao10k Llama 3.1 Euryale 70B v2.2"
+    ]
+  },
+  "meta-llama-llama-3.1-70b-instruct": {
+    "model": "Llama 3.1 70B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.1-70b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-1-70b-instruct-v1:0:128k",
+        "meta.llama3-1-70b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-70b-instruct"
+      ],
+      "together": [
+        "meta-llama/Meta-Llama-3.1-70B-Instruct-Reference",
+        "meta-llama/Meta-Llama-3.1-70B",
+        "meta-llama/Meta-Llama-3.1-70B-Instruct",
+        "nim/meta/llama-3.1-70b-instruct",
+        "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo"
+      ],
+      "deepinfra": [
+        "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+        "meta-llama/Meta-Llama-3.1-70B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.1 70B Instruct 1B",
+      "Nvidia Llama 3.1 Nemotron 70B Instruct"
+    ]
+  },
+  "meta-llama-llama-3.1-70b-instruct-1b": {
+    "model": "Llama 3.1 70B Instruct 1B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-70b-instruct-1b"
+      ]
+    }
+  },
+  "meta-llama-llama-3.1-8b-instruct": {
+    "model": "Llama 3.1 8B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.1-8b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-1-8b-instruct-v1:0:128k",
+        "meta.llama3-1-8b-instruct-v1:0"
+      ],
+      "groq": [
+        "llama-3.1-8b-instant"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-8b-instruct"
+      ],
+      "cerebras": [
+        "llama3.1-8b"
+      ],
+      "together": [
+        "meta-llama/Meta-Llama-3.1-8B-Instruct-Reference",
+        "meta-llama/Meta-Llama-3.1-8B",
+        "togethercomputer/meta-llama-3.1-8B-Instruct-AWQ-INT4",
+        "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "nim/meta/llama-3.1-8b-instruct",
+        "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+        "meta-llama/Llama-3.1-8B-Instruct"
+      ],
+      "deepinfra": [
+        "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"
+      ],
+      "sambanova": [
+        "Meta-Llama-3.1-8B-Instruct"
+      ]
+    }
+  },
+  "meta-llama-llama-3.2-11b-vision-instruct": {
+    "model": "Llama 3.2 11B Vision Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.2-11b-vision-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-2-11b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-11b-vision-instruct"
+      ],
+      "together": [
+        "nim/meta/llama-3.2-11b-vision-instruct"
+      ],
+      "deepinfra": [
+        "meta-llama/Llama-3.2-11B-Vision-Instruct"
+      ]
+    }
+  },
+  "meta-llama-llama-3.2-1b": {
+    "model": "Llama 3.2 1B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-1b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.2 1B Instruct",
+      "Meta-llama Llama 3.2 11B Vision Instruct"
+    ]
+  },
+  "meta-llama-llama-3.2-1b-instruct": {
+    "model": "Llama 3.2 1B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.2-1b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-2-1b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-1b-instruct"
+      ],
+      "together": [
+        "meta-llama/Llama-3.2-1B",
+        "meta-llama/Llama-3.2-1B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.2 11B Vision Instruct"
+    ]
+  },
+  "meta-llama-llama-3.2-3b": {
+    "model": "Llama 3.2 3B",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-3b"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.2 3B Instruct"
+    ]
+  },
+  "meta-llama-llama-3.2-3b-instruct": {
+    "model": "Llama 3.2 3B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.2-3b-instruct:free",
+        "meta-llama/llama-3.2-3b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-2-3b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-3b-instruct"
+      ],
+      "together": [
+        "meta-llama/Llama-3.2-3B",
+        "meta-llama/Llama-3.2-3B-Instruct-Turbo",
+        "meta-llama/Llama-3.2-3B-Instruct"
+      ],
+      "deepinfra": [
+        "meta-llama/Llama-3.2-3B-Instruct"
+      ]
+    }
+  },
+  "meta-llama-llama-3.2-90b-vision-instruct": {
+    "model": "Llama 3.2 90B Vision Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.2-90b-vision-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-2-90b-instruct-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p2-90b-vision-instruct"
+      ],
+      "together": [
+        "nim/meta/llama-3.2-90b-vision-instruct"
+      ]
+    }
+  },
+  "meta-llama-llama-3.3-70b-instruct": {
+    "model": "Llama 3.3 70B Instruct",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-3.3-70b-instruct:free",
+        "meta-llama/llama-3.3-70b-instruct"
+      ],
+      "bedrock": [
+        "meta.llama3-3-70b-instruct-v1:0"
+      ],
+      "groq": [
+        "llama-3.3-70b-versatile"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p3-70b-instruct"
+      ],
+      "together": [
+        "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "nim/meta/llama-3.3-70b-instruct",
+        "meta-llama/Llama-3.3-70B-Instruct"
+      ],
+      "deepinfra": [
+        "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+      ],
+      "sambanova": [
+        "Meta-Llama-3.3-70B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Llama 3.3 Swallow 70B Instruct v0.4"
+    ]
+  },
+  "meta-llama-llama-3.3-swallow-70b-instruct-v0.4": {
+    "model": "Llama 3.3 Swallow 70B Instruct v0.4",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "sambanova": [
+        "Llama-3.3-Swallow-70B-Instruct-v0.4"
+      ]
+    }
+  },
+  "meta-llama-llama-4-maverick": {
+    "model": "Llama 4 Maverick",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-4-maverick"
+      ],
+      "bedrock": [
+        "meta.llama4-maverick-17b-instruct-v1:0"
+      ],
+      "groq": [
+        "meta-llama/llama-4-maverick-17b-128e-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama4-maverick-instruct-basic"
+      ],
+      "together": [
+        "meta-llama/Llama-4-Maverick-17B-128E",
+        "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+      ],
+      "deepinfra": [
+        "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+      ],
+      "sambanova": [
+        "Llama-4-Maverick-17B-128E-Instruct"
+      ]
+    }
+  },
+  "meta-llama-llama-4-scout": {
+    "model": "Llama 4 Scout",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "openrouter": [
+        "meta-llama/llama-4-scout"
+      ],
+      "bedrock": [
+        "meta.llama4-scout-17b-instruct-v1:0"
+      ],
+      "groq": [
+        "meta-llama/llama-4-scout-17b-16e-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama4-scout-instruct-basic"
+      ],
+      "together": [
+        "meta-llama/Llama-4-Scout-17B-16E",
+        "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "meta-llama/Llama-4-Scout-17B-16E-Instruct-64k"
+      ],
+      "deepinfra": [
+        "meta-llama/Llama-4-Scout-17B-16E-Instruct"
+      ]
+    }
+  },
+  "meta-llama-phind-code-llama-34b-python-v1": {
+    "model": "Phind CodeLlama 34B Python v1",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/phind-code-llama-34b-python-v1"
+      ]
+    }
+  },
+  "meta-llama-phind-code-llama-34b-v1": {
+    "model": "Phind CodeLlama 34B v1",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/phind-code-llama-34b-v1"
+      ]
+    },
+    "other_matches": [
+      "Meta-llama Phind CodeLlama 34B Python v1"
+    ]
+  },
+  "meta-llama-phind-code-llama-34b-v2": {
+    "model": "Phind CodeLlama 34B v2",
+    "author": "Meta-llama",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/phind-code-llama-34b-v2"
+      ]
+    }
+  },
+  "microsoft-phi-3-medium-128k-instruct": {
+    "model": "Phi-3 Medium 128K Instruct",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-3-medium-128k-instruct"
+      ]
+    }
+  },
+  "microsoft-phi-3-mini-128k-instruct": {
+    "model": "Phi-3 Mini 128K Instruct",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-3-mini-128k-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/phi-3-mini-128k-instruct"
+      ]
+    },
+    "other_matches": [
+      "Microsoft Phi-3.5 Mini 128K Instruct"
+    ]
+  },
+  "microsoft-phi-3.5-mini-128k-instruct": {
+    "model": "Phi-3.5 Mini 128K Instruct",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-3.5-mini-128k-instruct"
+      ]
+    }
+  },
+  "microsoft-phi-4": {
+    "model": "Phi 4",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-4"
+      ],
+      "deepinfra": [
+        "microsoft/phi-4"
+      ]
+    },
+    "other_matches": [
+      "Microsoft Phi 4 Reasoning Plus",
+      "Microsoft Phi 4 Multimodal Instruct",
+      "Meta-llama Phind CodeLlama 34B v1",
+      "Meta-llama Phind CodeLlama 34B v2"
+    ]
+  },
+  "microsoft-phi-4-multimodal-instruct": {
+    "model": "Phi 4 Multimodal Instruct",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-4-multimodal-instruct"
+      ]
+    }
+  },
+  "microsoft-phi-4-reasoning-plus": {
+    "model": "Phi 4 Reasoning Plus",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/phi-4-reasoning-plus"
+      ]
+    }
+  },
+  "microsoft-wizardlm-2-8x22b": {
+    "model": "WizardLM-2 8x22B",
+    "author": "Microsoft",
+    "provider_slugs": {
+      "openrouter": [
+        "microsoft/wizardlm-2-8x22b"
+      ]
+    }
+  },
+  "minimax-minimax-01": {
+    "model": "MiniMax-01",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-01"
+      ]
+    }
+  },
+  "minimax-minimax-m1": {
+    "model": "MiniMax M1",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m1"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/minimax-m1-80k"
+      ],
+      "together": [
+        "MiniMaxAI/MiniMax-M1-80k",
+        "MiniMaxAI/MiniMax-M1-40k"
+      ]
+    }
+  },
+  "minimax-minimax-m2": {
+    "model": "MiniMax M2",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m2"
+      ],
+      "bedrock": [
+        "minimax.minimax-m2",
+        "minimax-m2"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/minimax-m2"
+      ],
+      "together": [
+        "MiniMaxAI/MiniMax-M2"
+      ],
+      "deepinfra": [
+        "MiniMaxAI/MiniMax-M2"
+      ]
+    },
+    "other_matches": [
+      "Minimax MiniMax M2.7",
+      "Minimax MiniMax M2.5",
+      "Minimax MiniMax M2 Her",
+      "Minimax MiniMax M2.1"
+    ]
+  },
+  "minimax-minimax-m2-her": {
+    "model": "MiniMax M2 Her",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m2-her"
+      ]
+    }
+  },
+  "minimax-minimax-m2.1": {
+    "model": "MiniMax M2.1",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m2.1"
+      ],
+      "bedrock": [
+        "minimax.minimax-m2.1",
+        "minimax-m2.1"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/minimax-m2p1"
+      ],
+      "together": [
+        "MiniMaxAI/MiniMax-M2.1",
+        "MiniMaxAI/MiniMax-M2.5"
+      ],
+      "deepinfra": [
+        "MiniMaxAI/MiniMax-M2.1"
+      ]
+    }
+  },
+  "minimax-minimax-m2.5": {
+    "model": "MiniMax M2.5",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m2.5",
+        "minimax/minimax-m2.5:free"
+      ],
+      "bedrock": [
+        "minimax-m2.5"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/minimax-m2p5"
+      ],
+      "deepinfra": [
+        "MiniMaxAI/MiniMax-M2.5"
+      ],
+      "sambanova": [
+        "MiniMax-M2.5"
+      ]
+    }
+  },
+  "minimax-minimax-m2.7": {
+    "model": "MiniMax M2.7",
+    "author": "Minimax",
+    "provider_slugs": {
+      "openrouter": [
+        "minimax/minimax-m2.7"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/minimax-m2p7"
+      ],
+      "together": [
+        "MiniMaxAI/MiniMax-M2.7"
+      ]
+    }
+  },
+  "mistral-ai-codestral-2508": {
+    "model": "Codestral 2508",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/codestral-2508"
+      ]
+    }
+  },
+  "mistral-ai-devstral-2512": {
+    "model": "Devstral 2 2512",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/devstral-2512:free",
+        "mistralai/devstral-2512"
+      ],
+      "bedrock": [
+        "mistral.devstral-2-123b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/devstral-small-2-24b-instruct-2512"
+      ]
+    }
+  },
+  "mistral-ai-devstral-medium": {
+    "model": "Devstral Medium",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/devstral-medium"
+      ],
+      "bedrock": [
+        "devstral-2-135b"
+      ]
+    }
+  },
+  "mistral-ai-devstral-small": {
+    "model": "Devstral Small 1.1",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/devstral-small"
+      ]
+    }
+  },
+  "mistral-ai-devstral-small-2505": {
+    "model": "Devstral Small 2505",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/devstral-small-2505"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/devstral-small-2505"
+      ],
+      "together": [
+        "mistralai/Devstral-Small-2505"
+      ]
+    }
+  },
+  "mistral-ai-magistral-medium": {
+    "model": "Magistral Medium",
+    "author": "Mistral AI",
+    "provider_slugs": {}
+  },
+  "mistral-ai-ministral-14b-2512": {
+    "model": "Ministral 3 14B 2512",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/ministral-14b-2512"
+      ],
+      "bedrock": [
+        "mistral.ministral-3-14b-instruct",
+        "ministral-14b-3.0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/ministral-3-14b-instruct-2512"
+      ],
+      "together": [
+        "mistralai/Ministral-3-14B-Instruct-2512"
+      ]
+    }
+  },
+  "mistral-ai-ministral-3b": {
+    "model": "Ministral 3B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/ministral-3b"
+      ],
+      "bedrock": [
+        "mistral.ministral-3-3b-instruct",
+        "ministral-3b-3.0"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Ministral 3 3B 2512"
+    ]
+  },
+  "mistral-ai-ministral-3b-2512": {
+    "model": "Ministral 3 3B 2512",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/ministral-3b-2512"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/ministral-3-3b-instruct-2512"
+      ]
+    }
+  },
+  "mistral-ai-ministral-8b": {
+    "model": "Ministral 8B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/ministral-8b"
+      ],
+      "bedrock": [
+        "mistral.ministral-3-8b-instruct",
+        "ministral-8b-3.0"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Ministral 8B 2410",
+      "Mistral AI Ministral 3 8B 2512"
+    ]
+  },
+  "mistral-ai-ministral-8b-2512": {
+    "model": "Ministral 3 8B 2512",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/ministral-8b-2512"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/ministral-3-8b-instruct-2512"
+      ]
+    }
+  },
+  "mistral-ai-mistral-7b": {
+    "model": "Mistral 7B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/mistral-7b"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral 7B OpenOrca",
+      "Mistral AI Mistral 7B v0.2",
+      "Mistral AI Mistral 7B Instruct",
+      "Mistral AI Mixtral 8x7B"
+    ]
+  },
+  "mistral-ai-mistral-7b-instruct": {
+    "model": "Mistral 7B Instruct",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-7b-instruct:free",
+        "mistralai/mistral-7b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral 7B Instruct v0.3",
+      "Mistral AI Mistral 7B Instruct v0.2",
+      "Mistral AI Mistral 7B Instruct v0.1",
+      "Intfloat E5-Mistral-7B-Instruct"
+    ]
+  },
+  "mistral-ai-mistral-7b-instruct-v0.1": {
+    "model": "Mistral 7B Instruct v0.1",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-7b-instruct-v0.1"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-7b-instruct-4k"
+      ],
+      "together": [
+        "mistralai/Mistral-7B-v0.1",
+        "mistralai/Mistral-7B-Instruct-v0.1"
+      ]
+    }
+  },
+  "mistral-ai-mistral-7b-instruct-v0.2": {
+    "model": "Mistral 7B Instruct v0.2",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-7b-instruct-v0.2"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-7b-instruct-v0p2"
+      ],
+      "together": [
+        "mistralai/Mistral-7B-Instruct-v0.2"
+      ]
+    }
+  },
+  "mistral-ai-mistral-7b-instruct-v0.3": {
+    "model": "Mistral 7B Instruct v0.3",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-7b-instruct-v0.3"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-7b-instruct-v3"
+      ],
+      "together": [
+        "mistralai/Mistral-7B-Instruct-v0.3"
+      ]
+    }
+  },
+  "mistral-ai-mistral-7b-v0.2": {
+    "model": "Mistral 7B v0.2",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/mistral-7b-v0p2"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral 7B Instruct v0.2"
+    ]
+  },
+  "mistral-ai-mistral-large": {
+    "model": "Mistral Large",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-large"
+      ],
+      "bedrock": [
+        "mistral.mistral-large-3-675b-instruct",
+        "mistral-large-3"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral Large 3",
+      "Mistral AI Mistral Large 3 2512",
+      "Mistral AI Mistral Large 2411",
+      "Mistral AI Mistral Large 2407"
+    ]
+  },
+  "mistral-ai-mistral-large-2407": {
+    "model": "Mistral Large 2407",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-large-2407"
+      ]
+    }
+  },
+  "mistral-ai-mistral-large-2411": {
+    "model": "Mistral Large 2411",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-large-2411"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Pixtral Large 2411"
+    ]
+  },
+  "mistral-ai-mistral-large-2512": {
+    "model": "Mistral Large 3 2512",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-large-2512"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-large-3-fp8"
+      ]
+    }
+  },
+  "mistral-ai-mistral-medium-3": {
+    "model": "Mistral Medium 3",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-medium-3"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral Medium 3.1"
+    ]
+  },
+  "mistral-ai-mistral-medium-3.1": {
+    "model": "Mistral Medium 3.1",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-medium-3.1"
+      ]
+    }
+  },
+  "mistral-ai-mistral-nemo": {
+    "model": "Mistral Nemo",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-nemo"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-nemo-instruct-2407"
+      ],
+      "together": [
+        "nim/nv-mistralai/mistral-nemo-12b-instruct"
+      ],
+      "deepinfra": [
+        "mistralai/Mistral-Nemo-Instruct-2407"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral Nemo Base 2407"
+    ]
+  },
+  "mistral-ai-mistral-saba": {
+    "model": "Saba",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-saba"
+      ]
+    }
+  },
+  "mistral-ai-mistral-small": {
+    "model": "Mistral Small 2603",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-2603"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mistral Small 4",
+      "Mistral AI Mistral Small (Feb 2024)",
+      "Mistral AI Mistral Small 24B Instruct 2501",
+      "Mistral AI Mistral Small 3.1 24B"
+    ]
+  },
+  "mistral-ai-mistral-small-24b-instruct-2501": {
+    "model": "Mistral Small 24B Instruct 2501",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-24b-instruct-2501"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mistral-small-24b-instruct-2501"
+      ],
+      "deepinfra": [
+        "mistralai/Mistral-Small-24B-Instruct-2501"
+      ]
+    }
+  },
+  "mistral-ai-mistral-small-2603": {
+    "model": "Mistral Small 2603",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-2603"
+      ]
+    }
+  },
+  "mistral-ai-mistral-small-3.1-24b-instruct": {
+    "model": "Mistral Small 3.1 24B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-3.1-24b-instruct:free",
+        "mistralai/mistral-small-3.1-24b-instruct"
+      ],
+      "together": [
+        "mistralai/Mistral-Small-24B-Instruct-2501"
+      ]
+    }
+  },
+  "mistral-ai-mistral-small-3.2-24b-instruct": {
+    "model": "Mistral Small 3.2 24B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-3.2-24b-instruct"
+      ],
+      "bedrock": [
+        "magistral-small-1.2",
+        "mistral.magistral-small-2509"
+      ],
+      "together": [
+        "mistralai/Magistral-Small-2506"
+      ],
+      "deepinfra": [
+        "mistralai/Mistral-Small-3.2-24B-Instruct-2506"
+      ]
+    }
+  },
+  "mistral-ai-mistral-small-creative": {
+    "model": "Mistral Small Creative",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-small-creative"
+      ]
+    }
+  },
+  "mistral-ai-mistral-tiny": {
+    "model": "Mistral Tiny",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mistral-tiny"
+      ]
+    }
+  },
+  "mistral-ai-mixtral-8x22b": {
+    "model": "Mixtral 8x22B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/mixtral-8x22b"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mixtral 8x22B Instruct"
+    ]
+  },
+  "mistral-ai-mixtral-8x22b-instruct": {
+    "model": "Mixtral 8x22B Instruct",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mixtral-8x22b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mixtral-8x22b-instruct"
+      ],
+      "together": [
+        "nim/mistralai/mixtral-8x22b-instruct-v01",
+        "mistralai/Mixtral-8x22B-Instruct-v0.1"
+      ]
+    }
+  },
+  "mistral-ai-mixtral-8x7b": {
+    "model": "Mixtral 8x7B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/mixtral-8x7b"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mixtral 8x7B Instruct (HF)",
+      "Mistral AI Mixtral 8x7B Instruct",
+      "Nousresearch Nous Hermes 2 Mixtral 8x7B DPO",
+      "Cognitive Computations Dolphin 2.6 Mixtral 8x7B"
+    ]
+  },
+  "mistral-ai-mixtral-8x7b-instruct": {
+    "model": "Mixtral 8x7B Instruct",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/mixtral-8x7b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/mixtral-8x7b-instruct"
+      ],
+      "together": [
+        "mistralai/Mixtral-8x7B-v0.1",
+        "nim/mistralai/mixtral-8x7b-instruct-v01",
+        "mistralai/Mixtral-8x7B-Instruct-v0.1"
+      ],
+      "deepinfra": [
+        "mistralai/Mixtral-8x7B-Instruct-v0.1"
+      ]
+    },
+    "other_matches": [
+      "Mistral AI Mixtral 8x7B Instruct (HF)"
+    ]
+  },
+  "mistral-ai-mixtral-8x7b-instruct-hf": {
+    "model": "Mixtral 8x7B Instruct (HF)",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/mixtral-8x7b-instruct-hf"
+      ]
+    }
+  },
+  "mistral-ai-openorca-7b": {
+    "model": "Mistral 7B OpenOrca",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/openorca-7b"
+      ]
+    },
+    "other_matches": [
+      "Open Orca Open-Orca/Mistral-7B-OpenOrca"
+    ]
+  },
+  "mistral-ai-pixtral-12b": {
+    "model": "Pixtral 12B",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/pixtral-12b"
+      ]
+    }
+  },
+  "mistral-ai-pixtral-large-2411": {
+    "model": "Pixtral Large 2411",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/pixtral-large-2411"
+      ],
+      "bedrock": [
+        "mistral.pixtral-large-2502-v1:0"
+      ]
+    }
+  },
+  "mistral-ai-snorkel-mistral-7b-pairrm-dpo": {
+    "model": "Snorkel Mistral PairRM DPO",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/snorkel-mistral-7b-pairrm-dpo"
+      ]
+    },
+    "other_matches": [
+      "Snorkelai snorkelai/Snorkel-Mistral-PairRM-DPO"
+    ]
+  },
+  "mistral-ai-voxtral-small-24b-2507": {
+    "model": "Voxtral Small 24B 2507",
+    "author": "Mistral AI",
+    "provider_slugs": {
+      "openrouter": [
+        "mistralai/voxtral-small-24b-2507"
+      ],
+      "bedrock": [
+        "mistral.voxtral-small-24b-2507",
+        "voxtral-small-1.0"
+      ]
+    }
+  },
+  "moonshotai-kimi-dev-72b": {
+    "model": "Kimi Dev 72B",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-dev-72b"
+      ]
+    }
+  },
+  "moonshotai-kimi-k2": {
+    "model": "Kimi K2 0711",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-k2:free",
+        "moonshotai/kimi-k2"
+      ],
+      "groq": [
+        "moonshotai/kimi-k2-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/kimi-k2-instruct"
+      ],
+      "together": [
+        "moonshotai/Kimi-K2-Thinking"
+      ]
+    }
+  },
+  "moonshotai-kimi-k2-0905": {
+    "model": "Kimi K2 0905 (exacto)",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-k2-0905",
+        "moonshotai/kimi-k2-0905:exacto"
+      ],
+      "groq": [
+        "moonshotai/kimi-k2-instruct-0905"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/kimi-k2-instruct-0905"
+      ],
+      "together": [
+        "moonshotai/Kimi-K2-Instruct-0905",
+        "moonshotai/Kimi-K2.5"
+      ],
+      "deepinfra": [
+        "moonshotai/Kimi-K2-Instruct-0905"
+      ]
+    }
+  },
+  "moonshotai-kimi-k2-thinking": {
+    "model": "Kimi K2 Thinking",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-k2-thinking"
+      ],
+      "bedrock": [
+        "kimi-k2-thinking",
+        "moonshot.kimi-k2-thinking"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/kimi-k2-thinking"
+      ],
+      "deepinfra": [
+        "moonshotai/Kimi-K2-Thinking"
+      ]
+    },
+    "other_matches": [
+      "Moonshotai Kimi K2 Thinking Turbo"
+    ]
+  },
+  "moonshotai-kimi-k2.5": {
+    "model": "Kimi K2.5",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-k2.5"
+      ],
+      "bedrock": [
+        "kimi-k2.5",
+        "moonshotai.kimi-k2.5"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/kimi-k2p5"
+      ],
+      "together": [
+        "moonshotai/Kimi-K2.5-fp4"
+      ],
+      "deepinfra": [
+        "moonshotai/Kimi-K2.5"
+      ]
+    },
+    "other_matches": [
+      "Moonshotai Kimi K2.5 Turbo"
+    ]
+  },
+  "moonshotai-kimi-k2.5-turbo": {
+    "model": "Kimi K2.5 Turbo",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "deepinfra": [
+        "moonshotai/Kimi-K2.5-Turbo"
+      ]
+    }
+  },
+  "morph-morph-v3-fast": {
+    "model": "Morph V3 Fast",
+    "author": "Morph",
+    "provider_slugs": {
+      "openrouter": [
+        "morph/morph-v3-fast"
+      ]
+    }
+  },
+  "morph-morph-v3-large": {
+    "model": "Morph V3 Large",
+    "author": "Morph",
+    "provider_slugs": {
+      "openrouter": [
+        "morph/morph-v3-large"
+      ]
+    }
+  },
+  "neversleep-llama-3.1-lumimaid-8b": {
+    "model": "Lumimaid v0.2 8B",
+    "author": "Neversleep",
+    "provider_slugs": {
+      "openrouter": [
+        "neversleep/llama-3.1-lumimaid-8b"
+      ]
+    }
+  },
+  "neversleep-noromaid-20b": {
+    "model": "Noromaid 20B",
+    "author": "Neversleep",
+    "provider_slugs": {
+      "openrouter": [
+        "neversleep/noromaid-20b"
+      ]
+    }
+  },
+  "nex-agi-deepseek-v3.1-nex-n1": {
+    "model": "DeepSeek V3.1 Nex N1",
+    "author": "Nex-AGI",
+    "provider_slugs": {
+      "openrouter": [
+        "nex-agi/deepseek-v3.1-nex-n1:free",
+        "nex-agi/deepseek-v3.1-nex-n1"
+      ]
+    }
+  },
+  "nousresearch-chronos-hermes-13b-v2": {
+    "model": "Chronos Hermes 13B v2",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/chronos-hermes-13b-v2"
+      ]
+    }
+  },
+  "nousresearch-deephermes-3-mistral-24b-preview": {
+    "model": "DeepHermes 3 Mistral 24B Preview",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/deephermes-3-mistral-24b-preview"
+      ]
+    }
+  },
+  "nousresearch-hermes-2-pro-llama-3-8b": {
+    "model": "Hermes 2 Pro - Llama-3 8B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/hermes-2-pro-llama-3-8b"
+      ]
+    }
+  },
+  "nousresearch-hermes-2-pro-mistral-7b": {
+    "model": "Hermes 2 Pro Mistral 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/hermes-2-pro-mistral-7b"
+      ]
+    }
+  },
+  "nousresearch-hermes-3-llama-3.1-405b": {
+    "model": "Hermes 3 405B Instruct",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/hermes-3-llama-3.1-405b:free",
+        "nousresearch/hermes-3-llama-3.1-405b"
+      ],
+      "deepinfra": [
+        "NousResearch/Hermes-3-Llama-3.1-405B"
+      ]
+    }
+  },
+  "nousresearch-hermes-3-llama-3.1-70b": {
+    "model": "Hermes 3 70B Instruct",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/hermes-3-llama-3.1-70b"
+      ],
+      "deepinfra": [
+        "NousResearch/Hermes-3-Llama-3.1-70B"
+      ]
+    }
+  },
+  "nousresearch-hermes-4-405b": {
+    "model": "Hermes 4 405B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/hermes-4-405b"
+      ]
+    },
+    "other_matches": [
+      "Nousresearch Hermes 3 405B Instruct"
+    ]
+  },
+  "nousresearch-hermes-4-70b": {
+    "model": "Hermes 4 70B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "openrouter": [
+        "nousresearch/hermes-4-70b"
+      ]
+    }
+  },
+  "nousresearch-nous-capybara-7b-v1.9": {
+    "model": "Nous Capybara 7B v1.9",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nous-capybara-7b-v1p9"
+      ]
+    }
+  },
+  "nousresearch-nous-hermes-2-mixtral-8x7b-dpo": {
+    "model": "Nous Hermes 2 Mixtral 8x7B DPO",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nous-hermes-2-mixtral-8x7b-dpo"
+      ],
+      "together": [
+        "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO"
+      ]
+    }
+  },
+  "nousresearch-nous-hermes-2-yi-34b": {
+    "model": "Nous Hermes 2 Yi 34B",
+    "author": "Nousresearch",
+    "provider_slugs": {}
+  },
+  "nousresearch-nous-hermes-llama2-13b": {
+    "model": "Nous Hermes Llama 2 13B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nous-hermes-llama2-13b"
+      ]
+    }
+  },
+  "nousresearch-nous-hermes-llama2-70b": {
+    "model": "Nous Hermes Llama 2 70B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nous-hermes-llama2-70b"
+      ]
+    }
+  },
+  "nousresearch-nous-hermes-llama2-7b": {
+    "model": "Nous Hermes Llama 2 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nous-hermes-llama2-7b"
+      ]
+    }
+  },
+  "nousresearch-openchat-3.5-0106-7b": {
+    "model": "OpenChat 3.5 0106",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/openchat-3p5-0106-7b"
+      ]
+    }
+  },
+  "nousresearch-openchat-7b": {
+    "model": "OpenChat 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {}
+  },
+  "nousresearch-openhermes-2-mistral-7b": {
+    "model": "OpenHermes 2 Mistral 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/openhermes-2-mistral-7b"
+      ]
+    },
+    "other_matches": [
+      "Nousresearch OpenHermes 2.5 Mistral 7B"
+    ]
+  },
+  "nousresearch-openhermes-2.5-mistral-7b": {
+    "model": "OpenHermes 2.5 Mistral 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/openhermes-2p5-mistral-7b"
+      ]
+    }
+  },
+  "nousresearch-toppy-m-7b": {
+    "model": "Toppy M 7B",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/toppy-m-7b"
+      ]
+    }
+  },
+  "nousresearch-zephyr-7b-beta": {
+    "model": "Zephyr 7B Beta",
+    "author": "Nousresearch",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/zephyr-7b-beta"
+      ]
+    }
+  },
+  "nvidia-llama-3.1-nemotron-70b-instruct": {
+    "model": "Llama 3.1 Nemotron 70B Instruct",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/llama-3.1-nemotron-70b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/llama-v3p1-nemotron-70b-instruct"
+      ],
+      "together": [
+        "nim/nvidia/llama-3.1-nemotron-70b-instruct",
+        "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF"
+      ],
+      "deepinfra": [
+        "nvidia/Llama-3.1-Nemotron-70B-Instruct"
+      ]
+    }
+  },
+  "nvidia-llama-3.1-nemotron-ultra-253b-v1": {
+    "model": "Llama 3.1 Nemotron Ultra 253B v1",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/llama-3.1-nemotron-ultra-253b-v1"
+      ]
+    }
+  },
+  "nvidia-llama-3.3-nemotron-super-49b-v1.5": {
+    "model": "Llama 3.3 Nemotron Super 49B V1.5",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/llama-3.3-nemotron-super-49b-v1.5"
+      ],
+      "together": [
+        "nim/nvidia/llama-3.3-nemotron-super-49b-v1"
+      ],
+      "deepinfra": [
+        "nvidia/Llama-3.3-Nemotron-Super-49B-v1.5"
+      ]
+    }
+  },
+  "nvidia-nemotron-3-nano-30b-a3b": {
+    "model": "Nemotron 3 Nano 30B A3B",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/nemotron-3-nano-30b-a3b:free",
+        "nvidia/nemotron-3-nano-30b-a3b"
+      ],
+      "bedrock": [
+        "nvidia.nemotron-nano-3-30b",
+        "nvidia-nemotron-3-nano-30b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/nemotron-nano-3-30b-a3b"
+      ],
+      "together": [
+        "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16"
+      ],
+      "deepinfra": [
+        "nvidia/Nemotron-3-Nano-30B-A3B"
+      ]
+    }
+  },
+  "nvidia-nemotron-3-super-120b-a12b": {
+    "model": "Nemotron 3 Super 120B A12B",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/nemotron-3-super-120b-a12b",
+        "nvidia/nemotron-3-super-120b-a12b:free"
+      ],
+      "bedrock": [
+        "nvidia-nemotron-3-super-120b-a12b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/nvidia-nemotron-3-super-120b-a12b-fp8"
+      ],
+      "together": [
+        "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8"
+      ]
+    },
+    "other_matches": [
+      "Nvidia Nemotron-3 Super 120B A12B"
+    ]
+  },
+  "nvidia-nemotron-nano-12b-v2-vl": {
+    "model": "Nemotron Nano 12B 2 VL",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/nemotron-nano-12b-v2-vl:free",
+        "nvidia/nemotron-nano-12b-v2-vl"
+      ],
+      "bedrock": [
+        "nvidia.nemotron-nano-12b-v2",
+        "nvidia-nemotron-nano-2-vl"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/nemotron-nano-v2-12b-vl"
+      ],
+      "deepinfra": [
+        "nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL"
+      ]
+    }
+  },
+  "nvidia-nemotron-nano-9b-v2": {
+    "model": "Nemotron Nano 9B V2",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "openrouter": [
+        "nvidia/nemotron-nano-9b-v2:free",
+        "nvidia/nemotron-nano-9b-v2"
+      ],
+      "bedrock": [
+        "nvidia.nemotron-nano-9b-v2",
+        "nvidia-nemotron-nano-2"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/nvidia-nemotron-nano-9b-v2"
+      ],
+      "together": [
+        "nvidia/NVIDIA-Nemotron-Nano-9B-v2"
+      ],
+      "deepinfra": [
+        "nvidia/NVIDIA-Nemotron-Nano-9B-v2"
+      ]
+    }
+  },
+  "nvidia-nvidia-nemotron-3-super-120b-a12b": {
+    "model": "Nemotron-3 Super 120B A12B",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "together": [
+        "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16"
+      ],
+      "deepinfra": [
+        "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B"
+      ]
+    }
+  },
+  "nvidia-nvidia-nemotron-nano-12b-v2": {
+    "model": "Nemotron Nano 12B V2",
+    "author": "Nvidia",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/nvidia-nemotron-nano-12b-v2"
+      ]
+    }
+  },
+  "open-orca-mistral-7b-openorca": {
+    "model": "Open-Orca/Mistral-7B-OpenOrca",
+    "author": "Open Orca",
+    "provider_slugs": {}
+  },
+  "openai-babbage": {
+    "model": "Babbage",
+    "author": "OpenAI",
+    "provider_slugs": {},
+    "other_matches": [
+      "OpenAI Babbage-002"
+    ]
+  },
+  "openai-chatgpt-4o-latest": {
+    "model": "ChatGPT-4o",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/chatgpt-4o-latest"
+      ]
+    }
+  },
+  "openai-codex-mini": {
+    "model": "Codex Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/codex-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.1-Codex-Mini"
+    ]
+  },
+  "openai-curie": {
+    "model": "curie",
+    "author": "OpenAI",
+    "provider_slugs": {}
+  },
+  "openai-gpt-3.5-turbo": {
+    "model": "GPT-3.5 Turbo",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-3.5-turbo"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-3.5 Turbo Instruct",
+      "OpenAI GPT-3.5 Turbo 16k",
+      "OpenAI GPT-3.5 Turbo (older v0613)",
+      "OpenAI gpt-3.5-turbo-1106"
+    ]
+  },
+  "openai-gpt-3.5-turbo-16k": {
+    "model": "GPT-3.5 Turbo 16k",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-3.5-turbo-16k"
+      ]
+    },
+    "other_matches": [
+      "OpenAI gpt-3.5-turbo-16k-0613-batch"
+    ]
+  },
+  "openai-gpt-3.5-turbo-instruct": {
+    "model": "GPT-3.5 Turbo Instruct",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-3.5-turbo-instruct"
+      ]
+    },
+    "other_matches": [
+      "OpenAI gpt-3.5-turbo-instruct-0914-batch"
+    ]
+  },
+  "openai-gpt-4": {
+    "model": "GPT-4o (2024-05-13)",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4o-2024-05-13"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-4o (2024-11-20)",
+      "OpenAI GPT-4o Audio",
+      "OpenAI GPT-4o Realtime",
+      "OpenAI GPT-4o (2024-08-06)"
+    ]
+  },
+  "openai-gpt-4-turbo": {
+    "model": "GPT-4 Turbo",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4-turbo"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-4 Turbo (older v1106)",
+      "OpenAI GPT-4 Turbo Preview",
+      "OpenAI gpt-4-turbo-2024-04-09"
+    ]
+  },
+  "openai-gpt-4.1": {
+    "model": "GPT-4.1",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4.1"
+      ]
+    },
+    "other_matches": [
+      "OpenAI gpt-4.1-nano-2025-04-14-batch",
+      "OpenAI gpt-4.1-2025-04-14-batch",
+      "OpenAI GPT-4.1 Mini",
+      "OpenAI GPT-4.1 Nano"
+    ]
+  },
+  "openai-gpt-4.1-mini": {
+    "model": "GPT-4.1 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4.1-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI gpt-4.1-mini-2025-04-14-batch"
+    ]
+  },
+  "openai-gpt-4.1-nano": {
+    "model": "GPT-4.1 Nano",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4.1-nano"
+      ]
+    },
+    "other_matches": [
+      "OpenAI gpt-4.1-nano-2025-04-14-batch"
+    ]
+  },
+  "openai-gpt-4.5-0227": {
+    "model": "Azure OpenAI",
+    "author": "OpenAI",
+    "provider_slugs": {},
+    "other_matches": [
+      "OpenAI Azure OpenAI",
+      "OpenAI Azure OpenAI",
+      "OpenAI Azure OpenAI",
+      "OpenAI Azure OpenAI"
+    ]
+  },
+  "openai-gpt-4o": {
+    "model": "GPT-4o (2024-05-13)",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4o-2024-05-13"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-4o (2024-11-20)",
+      "OpenAI GPT-4o Audio",
+      "OpenAI GPT-4o Realtime",
+      "OpenAI GPT-4o (2024-08-06)"
+    ]
+  },
+  "openai-gpt-4o-mini": {
+    "model": "GPT-4o-mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-4o-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-4o-mini (2024-07-18)",
+      "OpenAI GPT-4o-mini Search Preview"
+    ]
+  },
+  "openai-gpt-5": {
+    "model": "GPT-5.4 Nano",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.4-nano"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.4 Mini",
+      "OpenAI GPT-5.4",
+      "OpenAI GPT-5.4 Pro",
+      "OpenAI gpt-5-nano-2025-08-07"
+    ]
+  },
+  "openai-gpt-5-chat": {
+    "model": "GPT-5 Chat",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5-chat"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.2 Chat",
+      "OpenAI GPT-5.1 Chat",
+      "OpenAI GPT-5.3 Chat"
+    ]
+  },
+  "openai-gpt-5-codex": {
+    "model": "GPT-5 Codex",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5-codex"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.3 Codex",
+      "OpenAI GPT-5.2-Codex",
+      "OpenAI GPT-5.1-Codex",
+      "OpenAI GPT-5.1-Codex-Max"
+    ]
+  },
+  "openai-gpt-5-mini": {
+    "model": "GPT-5 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.4 Mini",
+      "OpenAI GPT-5 Image Mini",
+      "OpenAI GPT-5.1-Codex-Mini",
+      "OpenAI gpt-5-mini-2025-08-07"
+    ]
+  },
+  "openai-gpt-5-nano": {
+    "model": "GPT-5 Nano",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5-nano"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.4 Nano",
+      "OpenAI gpt-5-nano-2025-08-07"
+    ]
+  },
+  "openai-gpt-5-pro": {
+    "model": "GPT-5 Pro",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5-pro"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.4 Pro",
+      "OpenAI GPT-5.2 Pro"
+    ]
+  },
+  "openai-gpt-5.1": {
+    "model": "GPT-5.1",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.1"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.1-Codex-Max",
+      "OpenAI GPT-5.1 Chat",
+      "OpenAI GPT-5.1-Codex",
+      "OpenAI GPT-5.1-Codex-Mini"
+    ]
+  },
+  "openai-gpt-5.1-chat": {
+    "model": "GPT-5.1 Chat",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.1-chat"
+      ]
+    }
+  },
+  "openai-gpt-5.1-codex": {
+    "model": "GPT-5.1-Codex",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.1-codex"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.1-Codex-Max",
+      "OpenAI GPT-5.1-Codex-Mini"
+    ]
+  },
+  "openai-gpt-5.1-codex-max": {
+    "model": "GPT-5.1-Codex-Max",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.1-codex-max"
+      ]
+    }
+  },
+  "openai-gpt-5.1-codex-mini": {
+    "model": "GPT-5.1-Codex-Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.1-codex-mini"
+      ]
+    }
+  },
+  "openai-gpt-5.2": {
+    "model": "GPT-5.2",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.2"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.2-Codex",
+      "OpenAI GPT-5.2 Chat",
+      "OpenAI GPT-5.2 Pro",
+      "OpenAI gpt-5.2-2025-12-11-batch"
+    ]
+  },
+  "openai-gpt-5.2-chat": {
+    "model": "GPT-5.2 Chat",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.2-chat"
+      ]
+    }
+  },
+  "openai-gpt-5.2-codex": {
+    "model": "GPT-5.2-Codex",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.2-codex"
+      ]
+    }
+  },
+  "openai-gpt-5.2-pro": {
+    "model": "GPT-5.2 Pro",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.2-pro"
+      ]
+    }
+  },
+  "openai-gpt-5.3-chat": {
+    "model": "GPT-5.3 Chat",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.3-chat"
+      ]
+    }
+  },
+  "openai-gpt-5.3-codex": {
+    "model": "GPT-5.3 Codex",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.3-codex"
+      ]
+    }
+  },
+  "openai-gpt-5.4": {
+    "model": "GPT-5.4",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.4"
+      ]
+    },
+    "other_matches": [
+      "OpenAI GPT-5.4 Nano",
+      "OpenAI GPT-5.4 Mini",
+      "OpenAI GPT-5.4 Pro",
+      "OpenAI GPT-5.4 Image 2"
+    ]
+  },
+  "openai-gpt-5.4-mini": {
+    "model": "GPT-5.4 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.4-mini"
+      ]
+    }
+  },
+  "openai-gpt-5.4-nano": {
+    "model": "GPT-5.4 Nano",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.4-nano"
+      ]
+    }
+  },
+  "openai-gpt-5.4-pro": {
+    "model": "GPT-5.4 Pro",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-5.4-pro"
+      ]
+    }
+  },
+  "openai-gpt-oss-120b": {
+    "model": "GPT-OSS-120b",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-oss-120b:exacto",
+        "openai/gpt-oss-120b:free",
+        "openai/gpt-oss-120b"
+      ],
+      "bedrock": [
+        "openai.gpt-oss-120b-1:0"
+      ],
+      "groq": [
+        "openai/gpt-oss-120b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gpt-oss-120b"
+      ],
+      "cerebras": [
+        "gpt-oss-120b"
+      ],
+      "together": [
+        "openai/gpt-oss-120b"
+      ],
+      "deepinfra": [
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-120b-Turbo"
+      ],
+      "sambanova": [
+        "gpt-oss-120b"
+      ]
+    }
+  },
+  "openai-gpt-oss-20b": {
+    "model": "GPT-OSS-20b",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/gpt-oss-20b:free",
+        "openai/gpt-oss-20b"
+      ],
+      "bedrock": [
+        "openai.gpt-oss-20b-1:0",
+        "gpt-oss-20b"
+      ],
+      "groq": [
+        "openai/gpt-oss-20b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/gpt-oss-20b"
+      ],
+      "together": [
+        "openai/gpt-oss-20b"
+      ],
+      "deepinfra": [
+        "openai/gpt-oss-20b"
+      ]
+    }
+  },
+  "openai-o1": {
+    "model": "o1",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o1"
+      ]
+    },
+    "other_matches": [
+      "OpenAI o1-2024-12-17-batch",
+      "OpenAI o1-pro",
+      "OpenAI o1-preview-2024-09-12-batch",
+      "Sao10k L3 8B Stheno v3.2"
+    ]
+  },
+  "openai-o1-mini": {
+    "model": "o1 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {},
+    "other_matches": [
+      "OpenAI o1-mini-2024-09-12"
+    ]
+  },
+  "openai-o1-pro": {
+    "model": "o1-pro",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o1-pro"
+      ]
+    }
+  },
+  "openai-o3": {
+    "model": "o3",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o3"
+      ]
+    },
+    "other_matches": [
+      "OpenAI o3-2025-04-16",
+      "OpenAI o3 Deep Research",
+      "OpenAI o3 Pro",
+      "OpenAI o3 Mini High"
+    ]
+  },
+  "openai-o3-deep-research": {
+    "model": "o3 Deep Research",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o3-deep-research"
+      ]
+    }
+  },
+  "openai-o3-mini": {
+    "model": "o3 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o3-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI o3 Mini High"
+    ]
+  },
+  "openai-o3-mini-high": {
+    "model": "o3 Mini High",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o3-mini-high"
+      ]
+    }
+  },
+  "openai-o3-pro": {
+    "model": "o3 Pro",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o3-pro"
+      ]
+    }
+  },
+  "openai-o4-mini": {
+    "model": "o4 Mini",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o4-mini"
+      ]
+    },
+    "other_matches": [
+      "OpenAI o4 Mini Deep Research",
+      "OpenAI o4 Mini High",
+      "OpenAI o4-mini-2025-04-16-batch"
+    ]
+  },
+  "openai-o4-mini-deep-research": {
+    "model": "o4 Mini Deep Research",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o4-mini-deep-research"
+      ]
+    }
+  },
+  "openai-o4-mini-high": {
+    "model": "o4 Mini High",
+    "author": "OpenAI",
+    "provider_slugs": {
+      "openrouter": [
+        "openai/o4-mini-high"
+      ]
+    }
+  },
+  "openai-text-ada-001": {
+    "model": "text-ada-001",
+    "author": "OpenAI",
+    "provider_slugs": {}
+  },
+  "openai-text-davinci-002": {
+    "model": "text-davinci-002",
+    "author": "OpenAI",
+    "provider_slugs": {}
+  },
+  "openai-text-davinci-003": {
+    "model": "text-davinci-003",
+    "author": "OpenAI",
+    "provider_slugs": {}
+  },
+  "opengvlab-internvl3-38b": {
+    "model": "InternVL3 38B",
+    "author": "Opengvlab",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/internvl3-38b"
+      ]
+    }
+  },
+  "opengvlab-internvl3-78b": {
+    "model": "InternVL3 78B",
+    "author": "Opengvlab",
+    "provider_slugs": {
+      "openrouter": [
+        "opengvlab/internvl3-78b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/internvl3-78b"
+      ]
+    }
+  },
+  "opengvlab-internvl3-8b": {
+    "model": "InternVL3 8B",
+    "author": "Opengvlab",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/internvl3-8b"
+      ]
+    },
+    "other_matches": [
+      "Opengvlab InternVL3 38B",
+      "Opengvlab InternVL3 78B"
+    ]
+  },
+  "perplexity-sonar": {
+    "model": "Sonar",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar"
+      ]
+    },
+    "other_matches": [
+      "Perplexity Sonar Pro Search",
+      "Perplexity Sonar Reasoning Pro",
+      "Perplexity Sonar Pro",
+      "Perplexity Sonar Deep Research"
+    ]
+  },
+  "perplexity-sonar-deep-research": {
+    "model": "Sonar Deep Research",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar-deep-research"
+      ]
+    }
+  },
+  "perplexity-sonar-pro": {
+    "model": "Sonar Pro",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar-pro"
+      ]
+    },
+    "other_matches": [
+      "Perplexity Sonar Pro Search",
+      "Perplexity Sonar Reasoning Pro"
+    ]
+  },
+  "perplexity-sonar-pro-search": {
+    "model": "Sonar Pro Search",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar-pro-search"
+      ]
+    }
+  },
+  "perplexity-sonar-reasoning": {
+    "model": "Sonar Reasoning",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar-reasoning"
+      ]
+    },
+    "other_matches": [
+      "Perplexity Sonar Reasoning Pro"
+    ]
+  },
+  "perplexity-sonar-reasoning-pro": {
+    "model": "Sonar Reasoning Pro",
+    "author": "Perplexity",
+    "provider_slugs": {
+      "openrouter": [
+        "perplexity/sonar-reasoning-pro"
+      ]
+    }
+  },
+  "prime-intellect-intellect-3": {
+    "model": "INTELLECT-3",
+    "author": "Prime-intellect",
+    "provider_slugs": {
+      "openrouter": [
+        "prime-intellect/intellect-3"
+      ]
+    }
+  },
+  "qwen-code-qwen-1.5-7b": {
+    "model": "CodeQwen 1.5 7B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/code-qwen-1p5-7b"
+      ]
+    }
+  },
+  "qwen-qwen-2.5-72b-instruct": {
+    "model": "Qwen2.5 72B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-2.5-72b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-72b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-72B-Instruct",
+        "Qwen/Qwen2.5-72B-Instruct-Turbo"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen2.5-72B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 VL 72B Instruct",
+      "Qwen Qwen2.5 Math 72B Instruct"
+    ]
+  },
+  "qwen-qwen-2.5-7b-instruct": {
+    "model": "Qwen2.5 7B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-2.5-7b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-7b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-7B-Instruct",
+        "Qwen/Qwen2.5-7B-Instruct-Turbo"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5-VL 7B Instruct",
+      "Qwen Qwen2.5 Coder 7B Instruct"
+    ]
+  },
+  "qwen-qwen-2.5-coder-32b-instruct": {
+    "model": "Qwen2.5 Coder 32B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-2.5-coder-32b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-32b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-Coder-32B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 32B Instruct 128K",
+      "Qwen Qwen2.5 Coder 32B Instruct 32K RoPE",
+      "Qwen Qwen2.5 Coder 32B Instruct 64K"
+    ]
+  },
+  "qwen-qwen-2.5-vl-7b-instruct": {
+    "model": "Qwen2.5-VL 7B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-2.5-vl-7b-instruct:free",
+        "qwen/qwen-2.5-vl-7b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-vl-7b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen-max": {
+    "model": "Qwen-Max",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-max"
+      ]
+    }
+  },
+  "qwen-qwen-plus": {
+    "model": "Qwen-Plus",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-plus"
+      ]
+    }
+  },
+  "qwen-qwen-plus-2025-07-28": {
+    "model": "Qwen Plus 0728 (thinking)",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-plus-2025-07-28",
+        "qwen/qwen-plus-2025-07-28:thinking"
+      ]
+    }
+  },
+  "qwen-qwen-qwq-32b-preview": {
+    "model": "QwQ 32B Preview",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen-qwq-32b-preview"
+      ]
+    }
+  },
+  "qwen-qwen-turbo": {
+    "model": "Qwen-Turbo",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-turbo"
+      ]
+    }
+  },
+  "qwen-qwen-vl-max": {
+    "model": "Qwen VL Max",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-vl-max"
+      ],
+      "together": [
+        "Qwen/Qwen-Image"
+      ]
+    }
+  },
+  "qwen-qwen-vl-plus": {
+    "model": "Qwen VL Plus",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen-vl-plus"
+      ]
+    }
+  },
+  "qwen-qwen1.5-14b-chat": {
+    "model": "Qwen1.5 14B Chat",
+    "author": "Qwen",
+    "provider_slugs": {}
+  },
+  "qwen-qwen1.5-72b-chat": {
+    "model": "Qwen 1.5 72B Chat",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen1p5-72b-chat"
+      ]
+    }
+  },
+  "qwen-qwen1.5.0.5b": {
+    "model": "Qwen1.5 0.5B",
+    "author": "Qwen",
+    "provider_slugs": {},
+    "other_matches": [
+      "Qwen Qwen1.5 0.5B Chat"
+    ]
+  },
+  "qwen-qwen1.5.0.5b-chat": {
+    "model": "Qwen1.5 0.5B Chat",
+    "author": "Qwen",
+    "provider_slugs": {}
+  },
+  "qwen-qwen2-1.5b": {
+    "model": "Qwen2 1.5B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen2-1.5B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2 1.5B Instruct",
+      "Qwen Qwen2.5 Coder 1.5B",
+      "Qwen Qwen2.5 1.5B Instruct",
+      "Qwen Qwen2.5 Coder 1.5B Instruct"
+    ]
+  },
+  "qwen-qwen2-1.5b-instruct": {
+    "model": "Qwen2 1.5B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen2-1.5B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 1.5B Instruct",
+      "Qwen Qwen2.5 Coder 1.5B Instruct"
+    ]
+  },
+  "qwen-qwen2-72b-instruct": {
+    "model": "Qwen2 72B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2-72b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2-72B-Instruct",
+        "Qwen/Qwen2-72B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 72B Instruct",
+      "Qwen Qwen2 VL 72B Instruct",
+      "Qwen Qwen2.5 VL 72B Instruct",
+      "Qwen Qwen2.5 Math 72B Instruct"
+    ]
+  },
+  "qwen-qwen2-7b-instruct": {
+    "model": "Qwen2 7B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2-7b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2-7B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 7B Instruct",
+      "Qwen Qwen2 VL 7B Instruct",
+      "Qwen Qwen2.5-VL 7B Instruct",
+      "Qwen Qwen2.5 Coder 7B Instruct"
+    ]
+  },
+  "qwen-qwen2-vl-2b-instruct": {
+    "model": "Qwen2 VL 2B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2-vl-2b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2 VL 72B Instruct",
+      "Qwen Qwen2.5 VL 32B Instruct",
+      "Qwen Qwen2.5 VL 72B Instruct"
+    ]
+  },
+  "qwen-qwen2-vl-72b-instruct": {
+    "model": "Qwen2 VL 72B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2-vl-72b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2-VL-72B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 VL 72B Instruct"
+    ]
+  },
+  "qwen-qwen2-vl-7b-instruct": {
+    "model": "Qwen2 VL 7B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2-vl-7b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5-VL 7B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-0.5b-instruct": {
+    "model": "Qwen2.5 0.5B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-0p5b-instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 0.5B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-1.5b-instruct": {
+    "model": "Qwen2.5 1.5B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-1p5b-instruct"
+      ],
+      "together": [
+        "arize-ai/qwen-2-1.5b-instruct",
+        "Qwen/Qwen2.5-1.5B",
+        "Qwen/Qwen2.5-1.5B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 1.5B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-14b": {
+    "model": "Qwen2.5 14B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-14b"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-14B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 14B Instruct",
+      "Qwen Qwen2.5 Coder 14B",
+      "Qwen Qwen2.5 Coder 14B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-14b-instruct": {
+    "model": "Qwen2.5 14B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen-v2p5-14b-instruct",
+        "accounts/fireworks/models/qwen2p5-14b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-14B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 14B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-32b": {
+    "model": "Qwen2.5 32B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-32b"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-32B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 32B Instruct",
+      "Qwen Qwen2.5 Coder 32B",
+      "Qwen Qwen2.5 VL 32B Instruct",
+      "Qwen Qwen2.5 Coder 32B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-32b-instruct": {
+    "model": "Qwen2.5 32B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-32b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-32B-Instruct"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 VL 32B Instruct",
+      "Qwen Qwen2.5 Coder 32B Instruct",
+      "Qwen Qwen2.5 Coder 32B Instruct 64K",
+      "Qwen Qwen2.5 Coder 32B Instruct 128K"
+    ]
+  },
+  "qwen-qwen2.5-72b": {
+    "model": "Qwen2.5 72B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-72b"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-72B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 72B Instruct",
+      "Qwen Qwen2.5 VL 72B Instruct",
+      "Qwen Qwen2.5 Math 72B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-7b": {
+    "model": "Qwen2.5 7B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-7b",
+        "accounts/fireworks/models/qwen-v2p5-7b"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-7B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 7B Instruct",
+      "Qwen Qwen2.5 Coder 7B",
+      "Qwen Qwen2.5-VL 7B Instruct",
+      "Qwen Qwen2.5 Coder 7B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-0.5b": {
+    "model": "Qwen2.5 Coder 0.5B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-0p5b"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 0.5B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-0.5b-instruct": {
+    "model": "Qwen2.5 Coder 0.5B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-0p5b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-1.5b": {
+    "model": "Qwen2.5 Coder 1.5B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-1p5b"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 1.5B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-1.5b-instruct": {
+    "model": "Qwen2.5 Coder 1.5B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-1p5b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-14b": {
+    "model": "Qwen2.5 Coder 14B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-14b"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 14B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-14b-instruct": {
+    "model": "Qwen2.5 Coder 14B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-14b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-32b": {
+    "model": "Qwen2.5 Coder 32B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-32b"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 32B Instruct 128K",
+      "Qwen Qwen2.5 Coder 32B Instruct 32K RoPE",
+      "Qwen Qwen2.5 Coder 32B Instruct 64K",
+      "Qwen Qwen2.5 Coder 32B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-32b-instruct-128k": {
+    "model": "Qwen2.5 Coder 32B Instruct 128K",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-32b-instruct-128k"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-32b-instruct-32k-rope": {
+    "model": "Qwen2.5 Coder 32B Instruct 32K RoPE",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-32b-instruct-32k-rope"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-32b-instruct-64k": {
+    "model": "Qwen2.5 Coder 32B Instruct 64K",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-32b-instruct-64k"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-3b": {
+    "model": "Qwen2.5 Coder 3B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-3b"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-3B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 3B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-3b-instruct": {
+    "model": "Qwen2.5 Coder 3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-3b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-3B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-coder-7b": {
+    "model": "Qwen2.5 Coder 7B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-7b"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen2.5 Coder 7B Instruct"
+    ]
+  },
+  "qwen-qwen2.5-coder-7b-instruct": {
+    "model": "Qwen2.5 Coder 7B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen2.5-coder-7b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-coder-7b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-math-72b-instruct": {
+    "model": "Qwen2.5 Math 72B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-math-72b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-vl-32b-instruct": {
+    "model": "Qwen2.5 VL 32B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen2.5-vl-32b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-vl-32b-instruct"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen2.5-VL-32B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-vl-3b-instruct": {
+    "model": "Qwen2.5 VL 3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-vl-3b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen2.5-vl-72b-instruct": {
+    "model": "Qwen2.5 VL 72B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen2.5-vl-72b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen2p5-vl-72b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen2.5-VL-72B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-0.6b": {
+    "model": "Qwen3 0.6B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-0p6b"
+      ],
+      "together": [
+        "Qwen/Qwen3-0.6B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 0.6B Base",
+      "Qwen Qwen3 Reranker 0.6B",
+      "Qwen Qwen3 Embedding 0.6B"
+    ]
+  },
+  "qwen-qwen3-0.6b-base": {
+    "model": "Qwen3 0.6B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-0.6B-Base"
+      ]
+    }
+  },
+  "qwen-qwen3-1.7b": {
+    "model": "Qwen3 1.7B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-1p7b"
+      ],
+      "together": [
+        "Qwen/Qwen3-1.7B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 1.7B Base"
+    ]
+  },
+  "qwen-qwen3-1.7b-base": {
+    "model": "Qwen3 1.7B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-1.7B-Base"
+      ]
+    }
+  },
+  "qwen-qwen3-14b": {
+    "model": "Qwen3 14B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-14b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-14b"
+      ],
+      "together": [
+        "Qwen/Qwen3-14B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-14B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 14B Base"
+    ]
+  },
+  "qwen-qwen3-14b-base": {
+    "model": "Qwen3 14B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-14B-Base"
+      ]
+    }
+  },
+  "qwen-qwen3-235b-a22b": {
+    "model": "Qwen3 235B A22B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-235b-a22b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-235b-a22b"
+      ],
+      "together": [
+        "Qwen/Qwen3-235B-A22B-fp8"
+      ],
+      "sambanova": [
+        "Qwen3-235B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 235B A22B Thinking 2507",
+      "Qwen Qwen3 235B A22B Instruct 2507",
+      "Qwen Qwen3 VL 235B A22B Thinking",
+      "Qwen Qwen3 VL 235B A22B Instruct"
+    ]
+  },
+  "qwen-qwen3-235b-a22b-2507": {
+    "model": "Qwen3 235B A22B Instruct 2507",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-235b-a22b-2507"
+      ],
+      "bedrock": [
+        "qwen.qwen3-235b-a22b-2507-v1:0",
+        "qwen3-235b-a22b-2507"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-235b-a22b-instruct-2507"
+      ],
+      "cerebras": [
+        "qwen-3-235b-a22b-instruct-2507"
+      ],
+      "together": [
+        "Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
+        "Qwen/Qwen3-235B-A22B-Instruct-2507-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-235B-A22B-Instruct-2507"
+      ]
+    }
+  },
+  "qwen-qwen3-235b-a22b-thinking-2507": {
+    "model": "Qwen3 235B A22B Thinking 2507",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-235b-a22b-thinking-2507"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-235b-a22b-thinking-2507"
+      ],
+      "together": [
+        "Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "Qwen/Qwen3-235B-A22B-Thinking-2507-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-235B-A22B-Thinking-2507"
+      ]
+    }
+  },
+  "qwen-qwen3-30b-a3b": {
+    "model": "Qwen3 30B A3B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-30b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-30b-a3b"
+      ],
+      "together": [
+        "Qwen/Qwen3-30B-A3B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-30B-A3B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 30B A3B Thinking 2507",
+      "Qwen Qwen3 30B A3B Instruct 2507",
+      "Qwen Qwen3 30B A3B Base",
+      "Qwen Qwen3 VL 30B A3B Thinking"
+    ]
+  },
+  "qwen-qwen3-30b-a3b-base": {
+    "model": "Qwen3 30B A3B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-30B-A3B-Base"
+      ]
+    }
+  },
+  "qwen-qwen3-30b-a3b-instruct-2507": {
+    "model": "Qwen3 30B A3B Instruct 2507",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-30b-a3b-instruct-2507"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-30b-a3b-instruct-2507"
+      ],
+      "together": [
+        "Qwen/Qwen3-30B-A3B-Instruct-2507-Lora",
+        "Qwen/Qwen3-30B-A3B-Instruct-2507"
+      ]
+    }
+  },
+  "qwen-qwen3-30b-a3b-thinking-2507": {
+    "model": "Qwen3 30B A3B Thinking 2507",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-30b-a3b-thinking-2507"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-30b-a3b-thinking-2507"
+      ]
+    }
+  },
+  "qwen-qwen3-32b": {
+    "model": "Qwen3 32B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-32b"
+      ],
+      "bedrock": [
+        "qwen.qwen3-32b-v1:0",
+        "qwen3-32b"
+      ],
+      "groq": [
+        "qwen/qwen3-32b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-32b"
+      ],
+      "together": [
+        "Qwen/Qwen3-32B-FP8",
+        "Qwen/Qwen3-32B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-32B"
+      ],
+      "sambanova": [
+        "Qwen3-32B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 VL 32B Instruct"
+    ]
+  },
+  "qwen-qwen3-4b": {
+    "model": "Qwen3 4B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-4b",
+        "qwen/qwen3-4b:free"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-4b"
+      ],
+      "together": [
+        "Qwen/Qwen3-4B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 4B Instruct 2507",
+      "Qwen Qwen3 4B Base",
+      "Qwen Qwen3 14B",
+      "Qwen Qwen3 14B Base"
+    ]
+  },
+  "qwen-qwen3-4b-base": {
+    "model": "Qwen3 4B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-4B-Base"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 14B Base"
+    ]
+  },
+  "qwen-qwen3-4b-instruct-2507": {
+    "model": "Qwen3 4B Instruct 2507",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-4b-instruct-2507"
+      ],
+      "together": [
+        "Qwen/Qwen3-4B-Instruct-2507"
+      ]
+    }
+  },
+  "qwen-qwen3-8b": {
+    "model": "Qwen3 8B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-8b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-8b"
+      ],
+      "together": [
+        "Qwen/Qwen3-8B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 8B Base",
+      "Qwen Qwen3.5 0.8B",
+      "Qwen Qwen3.5 0.8B",
+      "Qwen Qwen3 Reranker 8B"
+    ]
+  },
+  "qwen-qwen3-8b-base": {
+    "model": "Qwen3 8B Base",
+    "author": "Qwen",
+    "provider_slugs": {
+      "together": [
+        "Qwen/Qwen3-8B-Base"
+      ]
+    }
+  },
+  "qwen-qwen3-coder": {
+    "model": "Qwen3 Coder 480B A35B (exacto)",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-coder:free",
+        "qwen/qwen3-coder",
+        "qwen/qwen3-coder:exacto"
+      ],
+      "bedrock": [
+        "qwen.qwen3-coder-480b-a35b-v1:0"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-coder-480b-a35b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo",
+        "Qwen/Qwen3-Coder-480B-A35B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-coder-30b-a3b-instruct": {
+    "model": "Qwen3 Coder 30B A3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-coder-30b-a3b-instruct"
+      ],
+      "bedrock": [
+        "qwen.qwen3-coder-30b-a3b-v1:0",
+        "qwen3-coder-30b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-coder-30b-a3b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-Coder-30B-A3B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-coder-480b-instruct-bf16": {
+    "model": "Qwen3 Coder 480B Instruct BF16",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-coder-480b-instruct-bf16"
+      ]
+    }
+  },
+  "qwen-qwen3-coder-flash": {
+    "model": "Qwen3 Coder Flash",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-coder-flash"
+      ]
+    }
+  },
+  "qwen-qwen3-coder-next": {
+    "model": "Qwen3 Coder Next",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-coder-next"
+      ],
+      "bedrock": [
+        "qwen3-coder-next"
+      ],
+      "together": [
+        "Qwen/Qwen3-Coder-Next-FP8"
+      ]
+    }
+  },
+  "qwen-qwen3-coder-plus": {
+    "model": "Qwen3 Coder Plus",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-coder-plus"
+      ]
+    }
+  },
+  "qwen-qwen3-max": {
+    "model": "Qwen3 Max",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-max"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-Max"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3 Max Thinking"
+    ]
+  },
+  "qwen-qwen3-max-thinking": {
+    "model": "Qwen3 Max Thinking",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-max-thinking"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-Max-Thinking"
+      ]
+    }
+  },
+  "qwen-qwen3-next-80b-a3b-instruct": {
+    "model": "Qwen3 Next 80B A3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-next-80b-a3b-instruct:free",
+        "qwen/qwen3-next-80b-a3b-instruct"
+      ],
+      "bedrock": [
+        "qwen.qwen3-next-80b-a3b",
+        "qwen3-next-80b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-next-80b-a3b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-Next-80B-A3B-Instruct",
+        "Qwen/Qwen3-Next-80B-A3B-Instruct-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-Next-80B-A3B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-next-80b-a3b-thinking": {
+    "model": "Qwen3 Next 80B A3B Thinking",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-next-80b-a3b-thinking"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-next-80b-a3b-thinking"
+      ],
+      "together": [
+        "Qwen/Qwen3-Next-80B-A3B-Thinking"
+      ]
+    }
+  },
+  "qwen-qwen3-omni-30b-a3b-instruct": {
+    "model": "Qwen3 Omni 30B A3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-omni-30b-a3b-instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-235b-a22b-instruct": {
+    "model": "Qwen3 VL 235B A22B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-235b-a22b-instruct"
+      ],
+      "bedrock": [
+        "qwen.qwen3-vl-235b-a22b",
+        "qwen3-vl-235b-a22b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-235b-a22b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-VL-235B-A22B-Instruct",
+        "Qwen/Qwen3-VL-235B-A22B-Instruct-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-VL-235B-A22B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-235b-a22b-thinking": {
+    "model": "Qwen3 VL 235B A22B Thinking",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-235b-a22b-thinking"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-235b-a22b-thinking"
+      ],
+      "together": [
+        "Qwen/Qwen3-VL-235B-A22B-Thinking-FP8"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-30b-a3b-instruct": {
+    "model": "Qwen3 VL 30B A3B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-30b-a3b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-30b-a3b-instruct"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3-VL-30B-A3B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-30b-a3b-thinking": {
+    "model": "Qwen3 VL 30B A3B Thinking",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-30b-a3b-thinking"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-30b-a3b-thinking"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-32b-instruct": {
+    "model": "Qwen3 VL 32B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-32b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-32b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-VL-32B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-8b-instruct": {
+    "model": "Qwen3 VL 8B Instruct",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-8b-instruct"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3-vl-8b-instruct"
+      ],
+      "together": [
+        "Qwen/Qwen3-VL-8B-Instruct"
+      ]
+    }
+  },
+  "qwen-qwen3-vl-8b-thinking": {
+    "model": "Qwen3 VL 8B Thinking",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3-vl-8b-thinking"
+      ]
+    }
+  },
+  "qwen-qwen3.5-0.8b": {
+    "model": "Qwen3.5 0.8B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "deepinfra": [
+        "Qwen/Qwen3.5-0.8B"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3.5 0.8B"
+    ]
+  },
+  "qwen-qwen3.5-122b-a10b": {
+    "model": "Qwen3.5-122B-A10B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-122b-a10b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3p5-122b-a10b"
+      ],
+      "together": [
+        "Qwen/Qwen3.5-122B-A10B-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.5-122B-A10B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-27b": {
+    "model": "Qwen3.5-27B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-27b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3p5-27b"
+      ],
+      "together": [
+        "Qwen/Qwen3.5-27B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.5-27B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-2b": {
+    "model": "Qwen3.5 2B (Non-reasoning)",
+    "author": "Qwen",
+    "provider_slugs": {
+      "deepinfra": [
+        "Qwen/Qwen3.5-2B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-35b-a3b": {
+    "model": "Qwen3.5-35B-A3B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-35b-a3b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3p5-35b-a3b"
+      ],
+      "together": [
+        "Qwen/Qwen3.5-35B-A3B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.5-35B-A3B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-397b-a17b": {
+    "model": "Qwen3.5 397B A17B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-397b-a17b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3p5-397b-a17b"
+      ],
+      "together": [
+        "Qwen/Qwen3.5-397B-A17B-FP8",
+        "Qwen/Qwen3.5-397B-A17B-FP4",
+        "Qwen/Qwen3.5-397B-A17B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.5-397B-A17B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-4b": {
+    "model": "Qwen3.5 4B (Non-reasoning)",
+    "author": "Qwen",
+    "provider_slugs": {
+      "deepinfra": [
+        "Qwen/Qwen3.5-4B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-9b": {
+    "model": "Qwen3.5 9B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-9b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwen3p5-9b"
+      ],
+      "together": [
+        "Qwen/Qwen3.5-9B-FP8",
+        "Qwen/Qwen3.5-9B"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.5-9B"
+      ]
+    }
+  },
+  "qwen-qwen3.5-flash": {
+    "model": "Qwen3.5-Flash",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-flash-02-23"
+      ]
+    }
+  },
+  "qwen-qwen3.5-plus": {
+    "model": "Qwen3.5 Plus",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.5-plus-02-15"
+      ]
+    },
+    "other_matches": [
+      "Qwen Qwen3.5 Omni Plus",
+      "Qwen qwen/qwen3.5-plus-20260420"
+    ]
+  },
+  "qwen-qwen3.6-35b-a3b": {
+    "model": "Qwen3.6 35B A3B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwen3.6-35b-a3b"
+      ],
+      "together": [
+        "Qwen/Qwen3.6-35B-A3B-FP8"
+      ],
+      "deepinfra": [
+        "Qwen/Qwen3.6-35B-A3B"
+      ]
+    }
+  },
+  "qwen-qwq-32b": {
+    "model": "QwQ 32B",
+    "author": "Qwen",
+    "provider_slugs": {
+      "openrouter": [
+        "qwen/qwq-32b"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/qwq-32b"
+      ],
+      "together": [
+        "Qwen/QwQ-32B-Preview",
+        "Qwen/QwQ-32B"
+      ]
+    },
+    "other_matches": [
+      "Arliai QwQ 32B RpR v1",
+      "Qwen QwQ 32B Preview"
+    ]
+  },
+  "raifle-sorcererlm-8x22b": {
+    "model": "SorcererLM 8x22B",
+    "author": "Raifle",
+    "provider_slugs": {
+      "openrouter": [
+        "raifle/sorcererlm-8x22b"
+      ]
+    }
+  },
+  "reka-reka-flash-3": {
+    "model": "Reka Flash 3",
+    "author": "Reka",
+    "provider_slugs": {
+      "openrouter": [
+        "rekaai/reka-flash-3"
+      ]
+    },
+    "other_matches": [
+      "Reka Ai Reka Flash 3 (creator_name=Reka AI)"
+    ]
+  },
+  "relace-relace-apply-3": {
+    "model": "Relace Apply 3",
+    "author": "Relace",
+    "provider_slugs": {
+      "openrouter": [
+        "relace/relace-apply-3"
+      ]
+    }
+  },
+  "relace-relace-search": {
+    "model": "Relace Search",
+    "author": "Relace",
+    "provider_slugs": {
+      "openrouter": [
+        "relace/relace-search"
+      ]
+    }
+  },
+  "sao10k-l3-euryale-70b": {
+    "model": "Llama 3 Euryale 70B v2.1",
+    "author": "Sao10k",
+    "provider_slugs": {
+      "openrouter": [
+        "sao10k/l3-euryale-70b"
+      ]
+    }
+  },
+  "sao10k-l3-lunaris-8b": {
+    "model": "Llama 3 8B Lunaris",
+    "author": "Sao10k",
+    "provider_slugs": {
+      "openrouter": [
+        "sao10k/l3-lunaris-8b"
+      ],
+      "deepinfra": [
+        "Sao10K/L3-8B-Lunaris-v1-Turbo"
+      ]
+    }
+  },
+  "sao10k-l3.1-70b-hanami-x1": {
+    "model": "Llama 3.1 70B Hanami x1",
+    "author": "Sao10k",
+    "provider_slugs": {
+      "openrouter": [
+        "sao10k/l3.1-70b-hanami-x1"
+      ]
+    }
+  },
+  "sao10k-l3.1-euryale-70b": {
+    "model": "Llama 3.1 Euryale 70B v2.2",
+    "author": "Sao10k",
+    "provider_slugs": {
+      "openrouter": [
+        "sao10k/l3.1-euryale-70b"
+      ],
+      "deepinfra": [
+        "Sao10K/L3.1-70B-Euryale-v2.2"
+      ]
+    }
+  },
+  "sao10k-l3.3-euryale-70b": {
+    "model": "Llama 3.3 Euryale 70B",
+    "author": "Sao10k",
+    "provider_slugs": {
+      "openrouter": [
+        "sao10k/l3.3-euryale-70b"
+      ],
+      "deepinfra": [
+        "Sao10K/L3.3-70B-Euryale-v2.3"
+      ]
+    }
+  },
+  "sophosympatheia-midnight-rose-70b": {
+    "model": "sophosympatheia/midnight-rose-70b",
+    "author": "Sophosympatheia",
+    "provider_slugs": {}
+  },
+  "stepfun-ai-step3": {
+    "model": "Step3",
+    "author": "Stepfun-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "stepfun-ai/step3"
+      ]
+    },
+    "other_matches": [
+      "Stepfun-ai Step3 VL 10B"
+    ]
+  },
+  "stepfun-step-3.5-flash": {
+    "model": "Step 3.5 Flash",
+    "author": "Stepfun-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "stepfun/step-3.5-flash",
+        "stepfun/step-3.5-flash:free"
+      ],
+      "deepinfra": [
+        "stepfun-ai/Step-3.5-Flash"
+      ]
+    }
+  },
+  "switchpoint-router": {
+    "model": "Switchpoint Router",
+    "author": "Switchpoint",
+    "provider_slugs": {
+      "openrouter": [
+        "switchpoint/router"
+      ]
+    }
+  },
+  "tencent-hunyuan-a13b-instruct": {
+    "model": "Hunyuan A13B Instruct",
+    "author": "Tencent",
+    "provider_slugs": {
+      "openrouter": [
+        "tencent/hunyuan-a13b-instruct"
+      ]
+    }
+  },
+  "thedrummer-cydonia-24b-v4.1": {
+    "model": "Cydonia 24B V4.1",
+    "author": "Thedrummer",
+    "provider_slugs": {
+      "openrouter": [
+        "thedrummer/cydonia-24b-v4.1"
+      ]
+    }
+  },
+  "thedrummer-rocinante-12b": {
+    "model": "Rocinante 12B",
+    "author": "Thedrummer",
+    "provider_slugs": {
+      "openrouter": [
+        "thedrummer/rocinante-12b"
+      ]
+    }
+  },
+  "thedrummer-skyfall-36b-v2": {
+    "model": "Skyfall 36B V2",
+    "author": "Thedrummer",
+    "provider_slugs": {
+      "openrouter": [
+        "thedrummer/skyfall-36b-v2"
+      ]
+    }
+  },
+  "thedrummer-unslopnemo-12b": {
+    "model": "UnslopNemo 12B",
+    "author": "Thedrummer",
+    "provider_slugs": {
+      "openrouter": [
+        "thedrummer/unslopnemo-12b"
+      ]
+    }
+  },
+  "thudm-glm-4.1v-9b-thinking": {
+    "model": "GLM 4.1V 9B Thinking",
+    "author": null,
+    "provider_slugs": {
+      "openrouter": [
+        "thudm/glm-4.1v-9b-thinking"
+      ]
+    }
+  },
+  "tngtech-deepseek-r1t-chimera": {
+    "model": "DeepSeek R1T Chimera",
+    "author": "Tngtech",
+    "provider_slugs": {
+      "openrouter": [
+        "tngtech/deepseek-r1t-chimera:free",
+        "tngtech/deepseek-r1t-chimera"
+      ]
+    },
+    "other_matches": [
+      "Tngtech DeepSeek R1T2 Chimera"
+    ]
+  },
+  "tngtech-deepseek-r1t2-chimera": {
+    "model": "DeepSeek R1T2 Chimera",
+    "author": "Tngtech",
+    "provider_slugs": {
+      "openrouter": [
+        "tngtech/deepseek-r1t2-chimera:free",
+        "tngtech/deepseek-r1t2-chimera"
+      ]
+    }
+  },
+  "tngtech-tng-r1t-chimera": {
+    "model": "R1T Chimera",
+    "author": "Tngtech",
+    "provider_slugs": {
+      "openrouter": [
+        "tngtech/tng-r1t-chimera:free",
+        "tngtech/tng-r1t-chimera"
+      ]
+    },
+    "other_matches": [
+      "Tngtech DeepSeek R1T Chimera",
+      "Tngtech DeepSeek R1T2 Chimera"
+    ]
+  },
+  "together-apriel-1.5-15b-thinker": {
+    "model": "Apriel 1.5 15B Thinker",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "ServiceNow-AI/Apriel-1.5-15b-Thinker"
+      ]
+    },
+    "other_matches": [
+      "Servicenow Apriel-v1.5-15B-Thinker (creator_name=ServiceNow)"
+    ]
+  },
+  "together-apriel-1.6-15b-thinker": {
+    "model": "Apriel 1.6 15B Thinker",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "ServiceNow-AI/Apriel-1.6-15b-Thinker"
+      ]
+    },
+    "other_matches": [
+      "Servicenow Apriel-v1.6-15B-Thinker (creator_name=ServiceNow)"
+    ]
+  },
+  "together-cogito-v1-preview-llama-70b-turbo": {
+    "model": "Cogito v1 Preview Llama 70B Turbo",
+    "author": "Deepcogito",
+    "provider_slugs": {
+      "together": [
+        "deepcogito/cogito-v1-preview-llama-70B-Turbo"
+      ]
+    }
+  },
+  "together-cwm": {
+    "model": "Facebook CWM",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "facebook/cwm"
+      ]
+    }
+  },
+  "together-deepcoder-14b-preview": {
+    "model": "DeepCoder 14B Preview",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "agentica-org/DeepCoder-14B-Preview",
+        "togethercomputer/DeepCoder-14B-Preview"
+      ]
+    }
+  },
+  "together-lfm2-24b-a2b-preview": {
+    "model": "LFM2 24B A2B Preview",
+    "author": "Liquid",
+    "provider_slugs": {
+      "together": [
+        "LiquidAI/LFM2-24B-A2B-Preview"
+      ]
+    }
+  },
+  "together-marin-8b-instruct": {
+    "model": "Marin 8B Instruct",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "marin-community/marin-8b-instruct"
+      ]
+    }
+  },
+  "together-moa-1-turbo": {
+    "model": "Together MoA-1-Turbo",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "togethercomputer/MoA-1-Turbo"
+      ]
+    }
+  },
+  "together-sarvam-m": {
+    "model": "Sarvam M",
+    "author": "Fireworks",
+    "provider_slugs": {
+      "together": [
+        "salesforce/sarvam-m",
+        "sarvamai/sarvam-m"
+      ]
+    },
+    "other_matches": [
+      "Sarvamai sarvamai/sarvam-translate",
+      "Sarvam Sarvam 30B (Reasoning) (creator_name=Sarvam)",
+      "Sarvam Sarvam 105B (Reasoning) (creator_name=Sarvam)"
+    ]
+  },
+  "together-solar-10.7b-instruct-v1.0": {
+    "model": "SOLAR 10.7B Instruct v1",
+    "author": "Upstage",
+    "provider_slugs": {
+      "together": [
+        "upstage/SOLAR-10.7B-Instruct-v1.0"
+      ]
+    }
+  },
+  "undi95-remm-slerp-l2-13b": {
+    "model": "ReMM SLERP 13B",
+    "author": "Undi95",
+    "provider_slugs": {
+      "openrouter": [
+        "undi95/remm-slerp-l2-13b"
+      ]
+    }
+  },
+  "vercel-v0-1-5-md": {
+    "model": "vercel/v0-1-5-md",
+    "author": "Vercel",
+    "provider_slugs": {}
+  },
+  "vercel-v0-1.0-md": {
+    "model": "vercel/v0-1.0-md",
+    "author": "Vercel",
+    "provider_slugs": {}
+  },
+  "vercel-v0-1.5-md": {
+    "model": "vercel/v0-1.5-md",
+    "author": "Vercel",
+    "provider_slugs": {}
+  },
+  "writer-palmyra-x5": {
+    "model": "Palmyra X5",
+    "author": "Writer",
+    "provider_slugs": {
+      "openrouter": [
+        "writer/palmyra-x5"
+      ],
+      "bedrock": [
+        "writer.palmyra-x5-v1:0"
+      ]
+    }
+  },
+  "x-ai-grok-4.20-beta": {
+    "model": "x-ai/grok-4.20-beta",
+    "author": "X Ai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-4.20-beta",
+        "x-ai/grok-4.20"
+      ]
+    }
+  },
+  "x-ai-grok-4.20-multi-agent-beta": {
+    "model": "x-ai/grok-4.20-multi-agent-beta",
+    "author": "X Ai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-4.20-multi-agent-beta",
+        "x-ai/grok-4.20-multi-agent"
+      ]
+    }
+  },
+  "xai-grok-3": {
+    "model": "Grok 3",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-3"
+      ]
+    },
+    "other_matches": [
+      "Xai Grok 3 Mini Fast",
+      "Xai Grok 3 Beta",
+      "Xai Grok 3 Mini Beta",
+      "Xai Grok 3 Mini"
+    ]
+  },
+  "xai-grok-3-beta": {
+    "model": "Grok 3 Beta",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-3-beta"
+      ]
+    },
+    "other_matches": [
+      "Xai Grok 3 Mini Beta",
+      "Xai Grok 4.20 Beta 0309 (Non-reasoning)"
+    ]
+  },
+  "xai-grok-3-fast": {
+    "model": "Grok 3 Fast",
+    "author": "Xai",
+    "provider_slugs": {},
+    "other_matches": [
+      "Xai Grok 3 Mini Fast"
+    ]
+  },
+  "xai-grok-3-mini": {
+    "model": "Grok 3 Mini",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-3-mini"
+      ]
+    },
+    "other_matches": [
+      "Xai Grok 3 Mini Fast",
+      "Xai Grok 3 Mini Beta"
+    ]
+  },
+  "xai-grok-3-mini-beta": {
+    "model": "Grok 3 Mini Beta",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-3-mini-beta"
+      ]
+    }
+  },
+  "xai-grok-4": {
+    "model": "Grok 4",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-4"
+      ]
+    },
+    "other_matches": [
+      "Xai Grok 4.20 Beta 0309 (Non-reasoning)",
+      "Xai Grok 4.1 Fast",
+      "Xai Grok 4 Fast",
+      "X Ai x-ai/grok-4.20-beta"
+    ]
+  },
+  "xai-grok-4-fast": {
+    "model": "Grok 4 Fast",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-4-fast"
+      ]
+    },
+    "other_matches": [
+      "Xai Grok 4.1 Fast"
+    ]
+  },
+  "xai-grok-4.1-fast": {
+    "model": "Grok 4.1 Fast",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-4.1-fast"
+      ]
+    }
+  },
+  "xai-grok-code-fast-1": {
+    "model": "Grok Code Fast 1",
+    "author": "Xai",
+    "provider_slugs": {
+      "openrouter": [
+        "x-ai/grok-code-fast-1"
+      ]
+    }
+  },
+  "xiaomi-mimo-v2-flash": {
+    "model": "MiMo-V2-Flash",
+    "author": "Xiaomi",
+    "provider_slugs": {
+      "openrouter": [
+        "xiaomi/mimo-v2-flash:free",
+        "xiaomi/mimo-v2-flash"
+      ]
+    }
+  },
+  "xiaomi-mimo-v2-omni": {
+    "model": "MiMo v2 Omni",
+    "author": "Xiaomi",
+    "provider_slugs": {
+      "openrouter": [
+        "xiaomi/mimo-v2-omni"
+      ]
+    },
+    "other_matches": [
+      "Xiaomi MiMo V2 Omni 0327"
+    ]
+  },
+  "xiaomi-mimo-v2-pro": {
+    "model": "MiMo v2 Pro",
+    "author": "Xiaomi",
+    "provider_slugs": {
+      "openrouter": [
+        "xiaomi/mimo-v2-pro"
+      ]
+    },
+    "other_matches": [
+      "Xiaomi MiMo v2.5 Pro"
+    ]
+  },
+  "z-ai-glm-4-32b": {
+    "model": "GLM 4 32B",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4-32b"
+      ]
+    }
+  },
+  "z-ai-glm-4.5": {
+    "model": "GLM 4.5",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.5"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p5"
+      ]
+    },
+    "other_matches": [
+      "Z-ai GLM 4.5V",
+      "Z-ai GLM 4.5 Air"
+    ]
+  },
+  "z-ai-glm-4.5-air": {
+    "model": "GLM 4.5 Air",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.5-air:free",
+        "z-ai/glm-4.5-air"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p5-air"
+      ],
+      "together": [
+        "zai-org/GLM-4.5-Air-FP8"
+      ]
+    }
+  },
+  "z-ai-glm-4.5v": {
+    "model": "GLM 4.5V",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.5v"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p5v"
+      ],
+      "together": [
+        "zai-org/GLM-4.5V"
+      ]
+    }
+  },
+  "z-ai-glm-4.6": {
+    "model": "GLM 4.6",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.6:exacto",
+        "z-ai/glm-4.6"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p6"
+      ],
+      "together": [
+        "zai-org/GLM-4.6"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-4.6"
+      ]
+    },
+    "other_matches": [
+      "Z-ai GLM 4.6V"
+    ]
+  },
+  "z-ai-glm-4.6v": {
+    "model": "GLM 4.6V",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.6v"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-4.6V"
+      ]
+    }
+  },
+  "z-ai-glm-4.7": {
+    "model": "GLM 4.7",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.7"
+      ],
+      "bedrock": [
+        "zai.glm-4.7",
+        "glm-4.7"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p7"
+      ],
+      "cerebras": [
+        "zai-glm-4.7"
+      ],
+      "together": [
+        "zai-org/GLM-4.7",
+        "zai-org/GLM-5"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-4.7"
+      ]
+    },
+    "other_matches": [
+      "Z-ai GLM-4.7-Flash"
+    ]
+  },
+  "z-ai-glm-4.7-flash": {
+    "model": "GLM-4.7-Flash",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-4.7-flash"
+      ],
+      "bedrock": [
+        "zai.glm-4.7-flash",
+        "glm-4.7-flash"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-4p7-flash"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-4.7-Flash"
+      ]
+    }
+  },
+  "z-ai-glm-5": {
+    "model": "GLM 5",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-5"
+      ],
+      "bedrock": [
+        "glm-5"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-5"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-5"
+      ]
+    },
+    "other_matches": [
+      "Z-ai GLM 5.1",
+      "Z-ai GLM 4.5",
+      "Z-ai GLM 4.5V",
+      "Z-ai GLM-5 FP4"
+    ]
+  },
+  "z-ai-glm-5-fp4": {
+    "model": "GLM-5 FP4",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "together": [
+        "zai-org/GLM-5-FP4"
+      ]
+    }
+  },
+  "z-ai-glm-5-turbo": {
+    "model": "GLM-5 Turbo",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-5-turbo"
+      ]
+    },
+    "other_matches": [
+      "Z-ai GLM-5V Turbo"
+    ]
+  },
+  "z-ai-glm-5.1": {
+    "model": "GLM 5.1",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-5.1"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/glm-5p1"
+      ],
+      "together": [
+        "zai-org/GLM-5.1"
+      ],
+      "deepinfra": [
+        "zai-org/GLM-5.1"
+      ]
+    }
+  },
+  "z-ai-glm-5v-turbo": {
+    "model": "GLM-5V Turbo",
+    "author": "Z-ai",
+    "provider_slugs": {
+      "openrouter": [
+        "z-ai/glm-5v-turbo"
+      ]
+    }
+  },
+  "zero-one-ai-yi-34b": {
+    "model": "zero-one-ai/Yi-34B",
+    "author": "Zero One Ai",
+    "provider_slugs": {}
+  }
+}
