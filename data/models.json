@@ -163,8 +163,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 49.808,
-    "time_to_first_token": 1.046,
+    "tokens_per_second": 56.316,
+    "time_to_first_token": 0.871,
     "input_per_1m": 2,
     "output_per_1m": 8,
     "author": "ai21",
@@ -188,8 +188,8 @@
       "math_hard": 60
     },
     "performance": {
-      "tokens_per_second": 49.808,
-      "time_to_first_token": 1.046
+      "tokens_per_second": 56.316,
+      "time_to_first_token": 0.871
     },
     "capabilities": {
       "supports_vision": false,
@@ -1045,8 +1045,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 53.822,
-    "time_to_first_token": 0.28,
+    "tokens_per_second": 49.515,
+    "time_to_first_token": 0.37,
     "input_per_1m": 0.2,
     "output_per_1m": 0.6,
     "author": "allenai",
@@ -1070,8 +1070,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 53.822,
-      "time_to_first_token": 0.28
+      "tokens_per_second": 49.515,
+      "time_to_first_token": 0.37
     },
     "capabilities": {
       "supports_vision": false,
@@ -1265,8 +1265,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 184.41,
-    "time_to_first_token": 0.852,
+    "tokens_per_second": 219.406,
+    "time_to_first_token": 0.853,
     "input_per_1m": 0.3,
     "output_per_1m": 2.5,
     "author": "amazon",
@@ -1290,8 +1290,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 184.41,
-      "time_to_first_token": 0.852
+      "tokens_per_second": 219.406,
+      "time_to_first_token": 0.853
     },
     "capabilities": {
       "supports_vision": true,
@@ -1324,8 +1324,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 206.417,
-    "time_to_first_token": 0.641,
+    "tokens_per_second": 194.861,
+    "time_to_first_token": 0.591,
     "input_per_1m": 0.06,
     "output_per_1m": 0.24,
     "author": "amazon",
@@ -1349,8 +1349,8 @@
       "math_hard": 76.5
     },
     "performance": {
-      "tokens_per_second": 206.417,
-      "time_to_first_token": 0.641
+      "tokens_per_second": 194.861,
+      "time_to_first_token": 0.591
     },
     "capabilities": {
       "supports_vision": true,
@@ -1381,8 +1381,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 308.589,
-    "time_to_first_token": 0.601,
+    "tokens_per_second": 324.934,
+    "time_to_first_token": 0.593,
     "input_per_1m": 0.035,
     "output_per_1m": 0.14,
     "author": "amazon",
@@ -1406,8 +1406,8 @@
       "math_hard": 70.3
     },
     "performance": {
-      "tokens_per_second": 308.589,
-      "time_to_first_token": 0.601
+      "tokens_per_second": 324.934,
+      "time_to_first_token": 0.593
     },
     "capabilities": {
       "supports_vision": false,
@@ -1437,8 +1437,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 58.313,
-    "time_to_first_token": 1.399,
+    "tokens_per_second": 44.543,
+    "time_to_first_token": 1.272,
     "input_per_1m": 2.5,
     "output_per_1m": 12.5,
     "author": "amazon",
@@ -1462,8 +1462,8 @@
       "math_hard": 83.9
     },
     "performance": {
-      "tokens_per_second": 58.313,
-      "time_to_first_token": 1.399
+      "tokens_per_second": 44.543,
+      "time_to_first_token": 1.272
     },
     "capabilities": {
       "supports_vision": true,
@@ -1659,8 +1659,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 131.09,
-    "time_to_first_token": 0.614,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
     "input_per_1m": 0.25,
     "output_per_1m": 1.25,
     "author": "anthropic",
@@ -1684,8 +1684,8 @@
       "math_hard": 39.4
     },
     "performance": {
-      "tokens_per_second": 131.09,
-      "time_to_first_token": 0.614
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": true,
@@ -2045,8 +2045,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 119.544,
-    "time_to_first_token": 0.56,
+    "tokens_per_second": 106.732,
+    "time_to_first_token": 0.643,
     "input_per_1m": 1,
     "output_per_1m": 5,
     "author": "anthropic",
@@ -2070,8 +2070,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 119.544,
-      "time_to_first_token": 0.56
+      "tokens_per_second": 106.732,
+      "time_to_first_token": 0.643
     },
     "capabilities": {
       "supports_vision": true,
@@ -2154,8 +2154,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 38.898,
-    "time_to_first_token": 1.246,
+    "tokens_per_second": 37.75,
+    "time_to_first_token": 1.272,
     "input_per_1m": 15,
     "output_per_1m": 75,
     "author": "anthropic",
@@ -2179,8 +2179,8 @@
       "math_hard": 94.1
     },
     "performance": {
-      "tokens_per_second": 38.898,
-      "time_to_first_token": 1.246
+      "tokens_per_second": 37.75,
+      "time_to_first_token": 1.272
     },
     "capabilities": {
       "supports_vision": true,
@@ -2212,8 +2212,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 39.807,
-    "time_to_first_token": 1.356,
+    "tokens_per_second": 38.13,
+    "time_to_first_token": 1.293,
     "input_per_1m": 15,
     "output_per_1m": 75,
     "author": "anthropic",
@@ -2237,8 +2237,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 39.807,
-      "time_to_first_token": 1.356
+      "tokens_per_second": 38.13,
+      "time_to_first_token": 1.293
     },
     "capabilities": {
       "supports_vision": true,
@@ -2270,8 +2270,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 64.768,
-    "time_to_first_token": 1.22,
+    "tokens_per_second": 51.631,
+    "time_to_first_token": 1.12,
     "input_per_1m": 5,
     "output_per_1m": 25,
     "author": "anthropic",
@@ -2295,8 +2295,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 64.768,
-      "time_to_first_token": 1.22
+      "tokens_per_second": 51.631,
+      "time_to_first_token": 1.12
     },
     "capabilities": {
       "supports_vision": true,
@@ -2328,8 +2328,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 51.194,
-    "time_to_first_token": 1.59,
+    "tokens_per_second": 46.192,
+    "time_to_first_token": 1.391,
     "input_per_1m": 5,
     "output_per_1m": 25,
     "author": "anthropic",
@@ -2353,8 +2353,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 51.194,
-      "time_to_first_token": 1.59
+      "tokens_per_second": 46.192,
+      "time_to_first_token": 1.391
     },
     "capabilities": {
       "supports_vision": true,
@@ -2385,8 +2385,8 @@
     "supports_vision": true,
     "supports_reasoning": null,
     "supports_tool_calls": true,
-    "tokens_per_second": 58.616,
-    "time_to_first_token": 1.507,
+    "tokens_per_second": 44.597,
+    "time_to_first_token": 1.341,
     "input_per_1m": 5,
     "output_per_1m": 25,
     "author": "anthropic",
@@ -2410,8 +2410,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 58.616,
-      "time_to_first_token": 1.507
+      "tokens_per_second": 44.597,
+      "time_to_first_token": 1.341
     },
     "capabilities": {
       "supports_vision": true,
@@ -2442,8 +2442,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 53.212,
-    "time_to_first_token": 0.84,
+    "tokens_per_second": 48.423,
+    "time_to_first_token": 0.914,
     "input_per_1m": 3,
     "output_per_1m": 15,
     "author": "anthropic",
@@ -2467,8 +2467,8 @@
       "math_hard": 93.4
     },
     "performance": {
-      "tokens_per_second": 53.212,
-      "time_to_first_token": 0.84
+      "tokens_per_second": 48.423,
+      "time_to_first_token": 0.914
     },
     "capabilities": {
       "supports_vision": true,
@@ -2500,8 +2500,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 57.775,
-    "time_to_first_token": 1.116,
+    "tokens_per_second": 48.535,
+    "time_to_first_token": 0.887,
     "input_per_1m": 3,
     "output_per_1m": 15,
     "author": "anthropic",
@@ -2525,8 +2525,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 57.775,
-      "time_to_first_token": 1.116
+      "tokens_per_second": 48.535,
+      "time_to_first_token": 0.887
     },
     "capabilities": {
       "supports_vision": true,
@@ -2558,8 +2558,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 59.246,
-    "time_to_first_token": 1.042,
+    "tokens_per_second": 54.611,
+    "time_to_first_token": 1.052,
     "input_per_1m": 3,
     "output_per_1m": 15,
     "author": "anthropic",
@@ -2583,8 +2583,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 59.246,
-      "time_to_first_token": 1.042
+      "tokens_per_second": 54.611,
+      "time_to_first_token": 1.052
     },
     "capabilities": {
       "supports_vision": true,
@@ -3220,8 +3220,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 27.645,
-    "time_to_first_token": 1.806,
+    "tokens_per_second": 22.715,
+    "time_to_first_token": 1.632,
     "input_per_1m": 0.28,
     "output_per_1m": 1.1,
     "author": "baidu",
@@ -3245,8 +3245,8 @@
       "math_hard": 93.1
     },
     "performance": {
-      "tokens_per_second": 27.645,
-      "time_to_first_token": 1.806
+      "tokens_per_second": 22.715,
+      "time_to_first_token": 1.632
     },
     "capabilities": {
       "supports_vision": false,
@@ -3622,8 +3622,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 38.025,
-    "time_to_first_token": 1.65,
+    "tokens_per_second": 42.31,
+    "time_to_first_token": 1.592,
     "input_per_1m": 0.9,
     "output_per_1m": 0.9,
     "author": "bytedance-seed",
@@ -3647,8 +3647,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 38.025,
-      "time_to_first_token": 1.65
+      "tokens_per_second": 42.31,
+      "time_to_first_token": 1.592
     },
     "capabilities": {
       "supports_vision": false,
@@ -3835,8 +3835,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 40.214,
-    "time_to_first_token": 0.471,
+    "tokens_per_second": 40.859,
+    "time_to_first_token": 0.497,
     "input_per_1m": 2.5,
     "output_per_1m": 10,
     "author": "cohere",
@@ -3860,8 +3860,8 @@
       "math_hard": 81.9
     },
     "performance": {
-      "tokens_per_second": 40.214,
-      "time_to_first_token": 0.471
+      "tokens_per_second": 40.859,
+      "time_to_first_token": 0.497
     },
     "capabilities": {
       "supports_vision": false,
@@ -4587,12 +4587,12 @@
     "model": "cogito-v2.1-671b",
     "description": "Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of frontier closed and open models. This model is trained using self play with reinforcement learning to reach state-of-the-art performance on multiple categories (instruction following, coding, longer queries and creative writing). This advanced system demonstrates significant progress toward scalable superintelligence through policy improvement.",
     "pricing": {
-      "input_per_1m": 0.9,
-      "output_per_1m": 0.9,
-      "cache_read_per_1m": 0.45,
+      "input_per_1m": 1.25,
+      "output_per_1m": 1.25,
+      "cache_read_per_1m": null,
       "cache_write_per_1m": null
     },
-    "pricing_source": "fireworks",
+    "pricing_source": "together",
     "benchmarks": {
       "intelligence": null,
       "coding": null,
@@ -4749,8 +4749,8 @@
     "supports_tool_calls": true,
     "tokens_per_second": 0,
     "time_to_first_token": 0,
-    "input_per_1m": 0.15,
-    "output_per_1m": 0.75,
+    "input_per_1m": 0.21,
+    "output_per_1m": 0.79,
     "author": "deepseek",
     "model": "deepseek-chat-v3.1",
     "description": "DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) that supports both thinking and non-thinking modes via prompt templates. It extends the DeepSeek-V3 base with a two-phase long-context training process, reaching up to 128K tokens, and uses FP8 microscaling for efficient inference. Users can control the reasoning behaviour with the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)\n\nThe model improves tool use, code generation, and reasoning efficiency, achieving performance comparable to DeepSeek-R1 on difficult benchmarks while responding more quickly. It supports structured tool calling, code agents, and search agents, making it suitable for research, coding, and agentic workflows. \n\nIt succeeds the [DeepSeek V3-0324](/deepseek/deepseek-chat-v3-0324) model and performs well on a variety of tasks.",
@@ -5279,8 +5279,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 42.219,
-    "time_to_first_token": 0.451,
+    "tokens_per_second": 43.41,
+    "time_to_first_token": 0.461,
     "input_per_1m": 0.7,
     "output_per_1m": 0.8,
     "author": "deepseek",
@@ -5304,8 +5304,8 @@
       "math_hard": 93.5
     },
     "performance": {
-      "tokens_per_second": 42.219,
-      "time_to_first_token": 0.451
+      "tokens_per_second": 43.41,
+      "time_to_first_token": 0.461
     },
     "capabilities": {
       "supports_vision": false,
@@ -5491,8 +5491,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 42.864,
-    "time_to_first_token": 0.447,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
     "input_per_1m": 0.29,
     "output_per_1m": 0.29,
     "author": "deepseek",
@@ -5516,8 +5516,8 @@
       "math_hard": 94.1
     },
     "performance": {
-      "tokens_per_second": 42.864,
-      "time_to_first_token": 0.447
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": false,
@@ -5655,8 +5655,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 28.697,
-    "time_to_first_token": 1.306,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "deepseek",
@@ -5664,11 +5664,11 @@
     "description": "DeepSeek-V3.2 is a large language model designed to harmonize high computational efficiency with strong reasoning and agentic tool-use performance. It introduces DeepSeek Sparse Attention (DSA), a fine-grained sparse attention mechanism that reduces training and inference cost while preserving quality in long-context scenarios. A scalable reinforcement learning post-training framework further improves reasoning, with reported performance in the GPT-5 class, and the model has demonstrated gold-medal results on the 2025 IMO and IOI. V3.2 also uses a large-scale agentic task synthesis pipeline to better integrate reasoning into tool-use settings, boosting compliance and generalization in interactive environments.\n\nUsers can control the reasoning behaviour with the `reasoning` `enabled` boolean. [Learn more in our docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config)",
     "pricing": {
       "input_per_1m": 0.28,
-      "output_per_1m": 0.42,
-      "cache_read_per_1m": 0.028,
+      "output_per_1m": 0.45,
+      "cache_read_per_1m": 0.13,
       "cache_write_per_1m": null
     },
-    "pricing_source": "deepseek",
+    "pricing_source": "parasail",
     "benchmarks": {
       "intelligence": 32.1,
       "coding": 34.6,
@@ -5680,8 +5680,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 28.697,
-      "time_to_first_token": 1.306
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": false,
@@ -5711,8 +5711,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 30.109,
-    "time_to_first_token": 1.285,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "deepseek",
@@ -5736,8 +5736,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 30.109,
-      "time_to_first_token": 1.285
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": false,
@@ -6761,8 +6761,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 281.775,
-    "time_to_first_token": 0.364,
+    "tokens_per_second": 251.648,
+    "time_to_first_token": 0.726,
     "input_per_1m": 0.1,
     "output_per_1m": 0.4,
     "author": "google",
@@ -6786,8 +6786,8 @@
       "math_hard": 92.6
     },
     "performance": {
-      "tokens_per_second": 281.775,
-      "time_to_first_token": 0.364
+      "tokens_per_second": 251.648,
+      "time_to_first_token": 0.726
     },
     "capabilities": {
       "supports_vision": true,
@@ -6940,8 +6940,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 126.759,
-    "time_to_first_token": 20.245,
+    "tokens_per_second": 127.058,
+    "time_to_first_token": 17.827,
     "input_per_1m": 1,
     "output_per_1m": 20,
     "author": "google",
@@ -6965,8 +6965,8 @@
       "math_hard": 96.7
     },
     "performance": {
-      "tokens_per_second": 126.759,
-      "time_to_first_token": 20.245
+      "tokens_per_second": 127.058,
+      "time_to_first_token": 17.827
     },
     "capabilities": {
       "supports_vision": true,
@@ -7119,8 +7119,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 203.02,
-    "time_to_first_token": 1.193,
+    "tokens_per_second": 177.206,
+    "time_to_first_token": 1.001,
     "input_per_1m": 0.5,
     "output_per_1m": 3,
     "author": "google",
@@ -7144,8 +7144,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 203.02,
-      "time_to_first_token": 1.193
+      "tokens_per_second": 177.206,
+      "time_to_first_token": 1.001
     },
     "capabilities": {
       "supports_vision": true,
@@ -7297,8 +7297,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 318.966,
-    "time_to_first_token": 5.335,
+    "tokens_per_second": 356.932,
+    "time_to_first_token": 4.622,
     "input_per_1m": 0.25,
     "output_per_1m": 1.5,
     "author": "google",
@@ -7322,8 +7322,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 318.966,
-      "time_to_first_token": 5.335
+      "tokens_per_second": 356.932,
+      "time_to_first_token": 4.622
     },
     "capabilities": {
       "supports_vision": true,
@@ -7357,8 +7357,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 127.413,
-    "time_to_first_token": 22.925,
+    "tokens_per_second": 132.898,
+    "time_to_first_token": 29.903,
     "input_per_1m": 2,
     "output_per_1m": 12,
     "author": "google",
@@ -7382,8 +7382,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 127.413,
-      "time_to_first_token": 22.925
+      "tokens_per_second": 132.898,
+      "time_to_first_token": 29.903
     },
     "capabilities": {
       "supports_vision": true,
@@ -7693,8 +7693,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 29.646,
-    "time_to_first_token": 3.44,
+    "tokens_per_second": 26.079,
+    "time_to_first_token": 2.627,
     "input_per_1m": 0.04,
     "output_per_1m": 0.13,
     "author": "google",
@@ -7718,8 +7718,8 @@
       "math_hard": 85.3
     },
     "performance": {
-      "tokens_per_second": 29.646,
-      "time_to_first_token": 3.44
+      "tokens_per_second": 26.079,
+      "time_to_first_token": 2.627
     },
     "capabilities": {
       "supports_vision": true,
@@ -7750,8 +7750,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 47.156,
-    "time_to_first_token": 0.661,
+    "tokens_per_second": 58.638,
+    "time_to_first_token": 0.688,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "google",
@@ -7775,8 +7775,8 @@
       "math_hard": 48.4
     },
     "performance": {
-      "tokens_per_second": 47.156,
-      "time_to_first_token": 0.661
+      "tokens_per_second": 58.638,
+      "time_to_first_token": 0.688
     },
     "capabilities": {
       "supports_vision": false,
@@ -7854,8 +7854,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 29.465,
-    "time_to_first_token": 0.748,
+    "tokens_per_second": 26.264,
+    "time_to_first_token": 0.749,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "google",
@@ -7879,8 +7879,8 @@
       "math_hard": 88.3
     },
     "performance": {
-      "tokens_per_second": 29.465,
-      "time_to_first_token": 0.748
+      "tokens_per_second": 26.264,
+      "time_to_first_token": 0.749
     },
     "capabilities": {
       "supports_vision": true,
@@ -7911,8 +7911,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 29.515,
-    "time_to_first_token": 1.03,
+    "tokens_per_second": 25.978,
+    "time_to_first_token": 1.178,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "google",
@@ -7936,8 +7936,8 @@
       "math_hard": 76.6
     },
     "performance": {
-      "tokens_per_second": 29.515,
-      "time_to_first_token": 1.03
+      "tokens_per_second": 25.978,
+      "time_to_first_token": 1.178
     },
     "capabilities": {
       "supports_vision": true,
@@ -7968,8 +7968,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 18.234,
-    "time_to_first_token": 0.371,
+    "tokens_per_second": 14.526,
+    "time_to_first_token": 0.343,
     "input_per_1m": 0.06,
     "output_per_1m": 0.12,
     "author": "google",
@@ -7993,8 +7993,8 @@
       "math_hard": 77.1
     },
     "performance": {
-      "tokens_per_second": 18.234,
-      "time_to_first_token": 0.371
+      "tokens_per_second": 14.526,
+      "time_to_first_token": 0.343
     },
     "capabilities": {
       "supports_vision": false,
@@ -8032,12 +8032,12 @@
     "model": "gemma-4-26b-a4b-it",
     "description": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B quality at a fraction of the compute cost. Supports multimodal input including text, images, and video (up to 60s at 1fps). Features a 256K token context window, native function calling, configurable thinking/reasoning mode, and structured output support. Released under Apache 2.0.",
     "pricing": {
-      "input_per_1m": 0.1,
-      "output_per_1m": 0.4,
-      "cache_read_per_1m": 0.05,
+      "input_per_1m": 0.15,
+      "output_per_1m": 0.6,
+      "cache_read_per_1m": null,
       "cache_write_per_1m": null
     },
-    "pricing_source": "parasail",
+    "pricing_source": "google",
     "benchmarks": {
       "intelligence": 27.1,
       "coding": 29.1,
@@ -8082,8 +8082,8 @@
     "supports_vision": true,
     "supports_reasoning": null,
     "supports_tool_calls": true,
-    "tokens_per_second": 34.901,
-    "time_to_first_token": 0.998,
+    "tokens_per_second": 35.36,
+    "time_to_first_token": 1.025,
     "input_per_1m": 0.13,
     "output_per_1m": 0.38,
     "author": "google",
@@ -8107,8 +8107,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 34.901,
-      "time_to_first_token": 0.998
+      "tokens_per_second": 35.36,
+      "time_to_first_token": 1.025
     },
     "capabilities": {
       "supports_vision": true,
@@ -8178,6 +8178,58 @@
       "supports_web_search": null,
       "supports_prompt_caching": null,
       "is_open": false
+    },
+    "modalities": {
+      "input": [],
+      "output": []
+    }
+  },
+  {
+    "slug": "google-gemma-4-e4b-it",
+    "author_name": "Google",
+    "model_name": "Gemma 4 E4B IT",
+    "context_length": null,
+    "supports_vision": null,
+    "supports_reasoning": null,
+    "supports_tool_calls": null,
+    "tokens_per_second": null,
+    "time_to_first_token": null,
+    "input_per_1m": null,
+    "output_per_1m": null,
+    "author": "google",
+    "model": "gemma-4-e4b-it",
+    "description": null,
+    "pricing": {
+      "input_per_1m": null,
+      "output_per_1m": null,
+      "cache_read_per_1m": null,
+      "cache_write_per_1m": null
+    },
+    "pricing_source": "together",
+    "benchmarks": {
+      "intelligence": null,
+      "coding": null,
+      "math": null,
+      "mmlu_pro": null,
+      "gpqa": null,
+      "livecodebench": null,
+      "aider": null,
+      "math_hard": null
+    },
+    "performance": {
+      "tokens_per_second": null,
+      "time_to_first_token": null
+    },
+    "capabilities": {
+      "supports_vision": null,
+      "supports_reasoning": null,
+      "supports_tool_calls": null,
+      "supports_audio_input": null,
+      "supports_audio_output": null,
+      "supports_pdf_input": null,
+      "supports_web_search": null,
+      "supports_prompt_caching": null,
+      "is_open": null
     },
     "modalities": {
       "input": [],
@@ -8620,8 +8672,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 876.188,
-    "time_to_first_token": 3.384,
+    "tokens_per_second": 1007.642,
+    "time_to_first_token": 4.028,
     "input_per_1m": 0.25,
     "output_per_1m": 0.75,
     "author": "inception",
@@ -8645,8 +8697,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 876.188,
-      "time_to_first_token": 3.384
+      "tokens_per_second": 1007.642,
+      "time_to_first_token": 4.028
     },
     "capabilities": {
       "supports_vision": false,
@@ -8714,6 +8766,62 @@
       "supports_web_search": null,
       "supports_prompt_caching": true,
       "is_open": false
+    },
+    "modalities": {
+      "input": [
+        "text"
+      ],
+      "output": [
+        "text"
+      ]
+    }
+  },
+  {
+    "slug": "inclusionai-ling-2.6-flash",
+    "author_name": "Inclusionai",
+    "model_name": "Ling 2.6 Flash",
+    "context_length": 262144,
+    "supports_vision": null,
+    "supports_reasoning": null,
+    "supports_tool_calls": true,
+    "tokens_per_second": 205.371,
+    "time_to_first_token": 0.629,
+    "input_per_1m": 0.08,
+    "output_per_1m": 0.24,
+    "author": "inclusionai",
+    "model": "ling-2.6-flash",
+    "description": "Ling-2.6-flash is an instant (instruct) model from inclusionAI with 104B total parameters and 7.4B active parameters, designed for real-world agents that require fast responses, strong execution, and high token efficiency....",
+    "pricing": {
+      "input_per_1m": 0.08,
+      "output_per_1m": 0.24,
+      "cache_read_per_1m": 0.016,
+      "cache_write_per_1m": null
+    },
+    "pricing_source": "novita",
+    "benchmarks": {
+      "intelligence": 26.2,
+      "coding": 23.2,
+      "math": null,
+      "mmlu_pro": null,
+      "gpqa": 59.3,
+      "livecodebench": null,
+      "aider": null,
+      "math_hard": null
+    },
+    "performance": {
+      "tokens_per_second": 205.371,
+      "time_to_first_token": 0.629
+    },
+    "capabilities": {
+      "supports_vision": null,
+      "supports_reasoning": null,
+      "supports_tool_calls": true,
+      "supports_audio_input": null,
+      "supports_audio_output": null,
+      "supports_pdf_input": null,
+      "supports_web_search": null,
+      "supports_prompt_caching": true,
+      "is_open": null
     },
     "modalities": {
       "input": [
@@ -8844,8 +8952,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 111.4,
-    "time_to_first_token": 1.087,
+    "tokens_per_second": 118.193,
+    "time_to_first_token": 1.218,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "kwaipilot",
@@ -8869,8 +8977,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 111.4,
-      "time_to_first_token": 1.087
+      "tokens_per_second": 118.193,
+      "time_to_first_token": 1.218
     },
     "capabilities": {
       "supports_vision": false,
@@ -8900,8 +9008,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 113.215,
-    "time_to_first_token": 1.887,
+    "tokens_per_second": 111.478,
+    "time_to_first_token": 1.888,
     "input_per_1m": 0.3,
     "output_per_1m": 1.2,
     "author": "kwaipilot",
@@ -8925,8 +9033,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 113.215,
-      "time_to_first_token": 1.887
+      "tokens_per_second": 111.478,
+      "time_to_first_token": 1.888
     },
     "capabilities": {
       "supports_vision": null,
@@ -9120,8 +9228,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 179.554,
-    "time_to_first_token": 0.257,
+    "tokens_per_second": 178.643,
+    "time_to_first_token": 0.3,
     "input_per_1m": 0.03,
     "output_per_1m": 0.12,
     "author": "liquidai",
@@ -9145,8 +9253,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 179.554,
-      "time_to_first_token": 0.257
+      "tokens_per_second": 178.643,
+      "time_to_first_token": 0.3
     },
     "capabilities": {
       "supports_vision": false,
@@ -10116,8 +10224,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 116.142,
-    "time_to_first_token": 1.911,
+    "tokens_per_second": 96.32,
+    "time_to_first_token": 12.083,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -10141,8 +10249,8 @@
       "math_hard": 5.9
     },
     "performance": {
-      "tokens_per_second": 116.142,
-      "time_to_first_token": 1.911
+      "tokens_per_second": 96.32,
+      "time_to_first_token": 12.083
     },
     "capabilities": {
       "supports_vision": false,
@@ -10220,8 +10328,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 41.174,
-    "time_to_first_token": 0.66,
+    "tokens_per_second": 44.898,
+    "time_to_first_token": 0.687,
     "input_per_1m": 0.51,
     "output_per_1m": 0.74,
     "author": "meta-llama",
@@ -10245,8 +10353,8 @@
       "math_hard": 48.3
     },
     "performance": {
-      "tokens_per_second": 41.174,
-      "time_to_first_token": 0.66
+      "tokens_per_second": 44.898,
+      "time_to_first_token": 0.687
     },
     "capabilities": {
       "supports_vision": false,
@@ -10380,8 +10488,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 82.419,
-    "time_to_first_token": 0.512,
+    "tokens_per_second": 80.533,
+    "time_to_first_token": 0.516,
     "input_per_1m": 0.03,
     "output_per_1m": 0.04,
     "author": "meta-llama",
@@ -10405,8 +10513,8 @@
       "math_hard": 49.9
     },
     "performance": {
-      "tokens_per_second": 82.419,
-      "time_to_first_token": 0.512
+      "tokens_per_second": 80.533,
+      "time_to_first_token": 0.516
     },
     "capabilities": {
       "supports_vision": false,
@@ -10544,16 +10652,16 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 31.155,
-    "time_to_first_token": 0.693,
+    "tokens_per_second": 30.648,
+    "time_to_first_token": 0.805,
     "input_per_1m": 0.9,
     "output_per_1m": 0.9,
     "author": "meta-llama",
     "model": "llama-3.1-405b-instruct",
     "description": "The highly anticipated 400B class of Llama3 is here! Clocking in at 128k context with impressive eval scores, the Meta AI team continues to push the frontier of open-source LLMs.\n\nMeta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 405B instruct-tuned version is optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models including GPT-4o and Claude 3.5 Sonnet in evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3-1/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).",
     "pricing": {
-      "input_per_1m": 5,
-      "output_per_1m": 5,
+      "input_per_1m": 3.5,
+      "output_per_1m": 3.5,
       "cache_read_per_1m": null,
       "cache_write_per_1m": null
     },
@@ -10569,8 +10677,8 @@
       "math_hard": 70.3
     },
     "performance": {
-      "tokens_per_second": 31.155,
-      "time_to_first_token": 0.693
+      "tokens_per_second": 30.648,
+      "time_to_first_token": 0.805
     },
     "capabilities": {
       "supports_vision": false,
@@ -10704,8 +10812,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 31.306,
-    "time_to_first_token": 0.767,
+    "tokens_per_second": 31.368,
+    "time_to_first_token": 0.641,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -10729,8 +10837,8 @@
       "math_hard": 64.9
     },
     "performance": {
-      "tokens_per_second": 31.306,
-      "time_to_first_token": 0.767
+      "tokens_per_second": 31.368,
+      "time_to_first_token": 0.641
     },
     "capabilities": {
       "supports_vision": false,
@@ -10812,8 +10920,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 181.471,
-    "time_to_first_token": 0.388,
+    "tokens_per_second": 169.158,
+    "time_to_first_token": 0.431,
     "input_per_1m": 0.02,
     "output_per_1m": 0.06,
     "author": "meta-llama",
@@ -10837,8 +10945,8 @@
       "math_hard": 51.9
     },
     "performance": {
-      "tokens_per_second": 181.471,
-      "time_to_first_token": 0.388
+      "tokens_per_second": 169.158,
+      "time_to_first_token": 0.431
     },
     "capabilities": {
       "supports_vision": false,
@@ -10868,8 +10976,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 87.039,
-    "time_to_first_token": 0.464,
+    "tokens_per_second": 85.94,
+    "time_to_first_token": 0.438,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -10893,8 +11001,8 @@
       "math_hard": 51.6
     },
     "performance": {
-      "tokens_per_second": 87.039,
-      "time_to_first_token": 0.464
+      "tokens_per_second": 85.94,
+      "time_to_first_token": 0.438
     },
     "capabilities": {
       "supports_vision": true,
@@ -10977,8 +11085,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 89.117,
-    "time_to_first_token": 0.589,
+    "tokens_per_second": 139.957,
+    "time_to_first_token": 0.641,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11002,8 +11110,8 @@
       "math_hard": 14
     },
     "performance": {
-      "tokens_per_second": 89.117,
-      "time_to_first_token": 0.589
+      "tokens_per_second": 139.957,
+      "time_to_first_token": 0.641
     },
     "capabilities": {
       "supports_vision": false,
@@ -11085,8 +11193,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 52.969,
-    "time_to_first_token": 0.573,
+    "tokens_per_second": 51.831,
+    "time_to_first_token": 0.638,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11110,8 +11218,8 @@
       "math_hard": 48.9
     },
     "performance": {
-      "tokens_per_second": 52.969,
-      "time_to_first_token": 0.573
+      "tokens_per_second": 51.831,
+      "time_to_first_token": 0.638
     },
     "capabilities": {
       "supports_vision": false,
@@ -11141,8 +11249,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 42.131,
-    "time_to_first_token": 0.449,
+    "tokens_per_second": 45.798,
+    "time_to_first_token": 0.56,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11166,8 +11274,8 @@
       "math_hard": 62.9
     },
     "performance": {
-      "tokens_per_second": 42.131,
-      "time_to_first_token": 0.449
+      "tokens_per_second": 45.798,
+      "time_to_first_token": 0.56
     },
     "capabilities": {
       "supports_vision": true,
@@ -11193,8 +11301,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 97.122,
-    "time_to_first_token": 0.563,
+    "tokens_per_second": 89.619,
+    "time_to_first_token": 0.583,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11218,8 +11326,8 @@
       "math_hard": 77.3
     },
     "performance": {
-      "tokens_per_second": 97.122,
-      "time_to_first_token": 0.563
+      "tokens_per_second": 89.619,
+      "time_to_first_token": 0.583
     },
     "capabilities": {
       "supports_vision": false,
@@ -11301,8 +11409,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 117.378,
-    "time_to_first_token": 0.578,
+    "tokens_per_second": 115.693,
+    "time_to_first_token": 0.698,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11326,8 +11434,8 @@
       "math_hard": 88.9
     },
     "performance": {
-      "tokens_per_second": 117.378,
-      "time_to_first_token": 0.578
+      "tokens_per_second": 115.693,
+      "time_to_first_token": 0.698
     },
     "capabilities": {
       "supports_vision": true,
@@ -11358,8 +11466,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 135.091,
-    "time_to_first_token": 0.539,
+    "tokens_per_second": 111.102,
+    "time_to_first_token": 0.499,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "meta-llama",
@@ -11383,8 +11491,8 @@
       "math_hard": 84.4
     },
     "performance": {
-      "tokens_per_second": 135.091,
-      "time_to_first_token": 0.539
+      "tokens_per_second": 111.102,
+      "time_to_first_token": 0.499
     },
     "capabilities": {
       "supports_vision": true,
@@ -11727,8 +11835,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 27.187,
-    "time_to_first_token": 0.498,
+    "tokens_per_second": 40.035,
+    "time_to_first_token": 0.52,
     "input_per_1m": 0.065,
     "output_per_1m": 0.14,
     "author": "microsoft",
@@ -11752,8 +11860,8 @@
       "math_hard": 81
     },
     "performance": {
-      "tokens_per_second": 27.187,
-      "time_to_first_token": 0.498
+      "tokens_per_second": 40.035,
+      "time_to_first_token": 0.52
     },
     "capabilities": {
       "supports_vision": false,
@@ -11783,8 +11891,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 16.351,
-    "time_to_first_token": 0.367,
+    "tokens_per_second": 16.778,
+    "time_to_first_token": 0.359,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "microsoft",
@@ -11808,8 +11916,8 @@
       "math_hard": 69.3
     },
     "performance": {
-      "tokens_per_second": 16.351,
-      "time_to_first_token": 0.367
+      "tokens_per_second": 16.778,
+      "time_to_first_token": 0.359
     },
     "capabilities": {
       "supports_vision": true,
@@ -12056,8 +12164,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 76.642,
-    "time_to_first_token": 1.442,
+    "tokens_per_second": 89.895,
+    "time_to_first_token": 1.268,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "minimax",
@@ -12081,8 +12189,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 76.642,
-      "time_to_first_token": 1.442
+      "tokens_per_second": 89.895,
+      "time_to_first_token": 1.268
     },
     "capabilities": {
       "supports_vision": false,
@@ -12168,8 +12276,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 75.571,
-    "time_to_first_token": 1.65,
+    "tokens_per_second": 90.755,
+    "time_to_first_token": 1.152,
     "input_per_1m": 0.29,
     "output_per_1m": 0.95,
     "author": "minimax",
@@ -12177,7 +12285,7 @@
     "description": "MiniMax-M2.1 is a lightweight, state-of-the-art large language model optimized for coding, agentic workflows, and modern application development. With only 10 billion activated parameters, it delivers a major jump in real-world capability while maintaining exceptional latency, scalability, and cost efficiency.\n\nCompared to its predecessor, M2.1 delivers cleaner, more concise outputs and faster perceived response times. It shows leading multilingual coding performance across major systems and application languages, achieving 49.4% on Multi-SWE-Bench and 72.5% on SWE-Bench Multilingual, and serves as a versatile agent “brain” for IDEs, coding tools, and general-purpose assistance.\n\nTo avoid degrading this model's performance, MiniMax highly recommends preserving reasoning between turns. Learn more about using reasoning_details to pass back reasoning in our [docs](https://openrouter.ai/docs/use-cases/reasoning-tokens#preserving-reasoning-blocks).",
     "pricing": {
       "input_per_1m": 0.3,
-      "output_per_1m": 1.2,
+      "output_per_1m": 2.4,
       "cache_read_per_1m": 0.03,
       "cache_write_per_1m": null
     },
@@ -12193,8 +12301,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 75.571,
-      "time_to_first_token": 1.65
+      "tokens_per_second": 90.755,
+      "time_to_first_token": 1.152
     },
     "capabilities": {
       "supports_vision": false,
@@ -12224,17 +12332,17 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 65.636,
-    "time_to_first_token": 1.291,
+    "tokens_per_second": 80.159,
+    "time_to_first_token": 1.142,
     "input_per_1m": 0.15,
     "output_per_1m": 1.2,
     "author": "minimax",
     "model": "minimax-m2.5",
     "description": "MiniMax-M2.5 is a SOTA large language model designed for real-world productivity. Trained in a diverse range of complex real-world digital working environments, M2.5 builds upon the coding expertise of M2.1 to extend into general office work, reaching fluency in generating and operating Word, Excel, and Powerpoint files, context switching between diverse software environments, and working across different agent and human teams. Scoring 80.2% on SWE-Bench Verified, 51.3% on Multi-SWE-Bench, and 76.3% on BrowseComp, M2.5 is also more token efficient than previous generations, having been trained to optimize its actions and output through planning.",
     "pricing": {
-      "input_per_1m": 0.3,
-      "output_per_1m": 1.2,
-      "cache_read_per_1m": 0.03,
+      "input_per_1m": 0.6,
+      "output_per_1m": 2.4,
+      "cache_read_per_1m": 0.06,
       "cache_write_per_1m": null
     },
     "pricing_source": "minimax",
@@ -12249,8 +12357,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 65.636,
-      "time_to_first_token": 1.291
+      "tokens_per_second": 80.159,
+      "time_to_first_token": 1.142
     },
     "capabilities": {
       "supports_vision": false,
@@ -12280,8 +12388,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": true,
-    "tokens_per_second": 45.945,
-    "time_to_first_token": 1.748,
+    "tokens_per_second": 44.728,
+    "time_to_first_token": 1.449,
     "input_per_1m": 0.3,
     "output_per_1m": 1.2,
     "author": "minimax",
@@ -12305,8 +12413,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 45.945,
-      "time_to_first_token": 1.748
+      "tokens_per_second": 44.728,
+      "time_to_first_token": 1.449
     },
     "capabilities": {
       "supports_vision": null,
@@ -12392,8 +12500,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 74.033,
-    "time_to_first_token": 0.676,
+    "tokens_per_second": 75.638,
+    "time_to_first_token": 0.806,
     "input_per_1m": 0.4,
     "output_per_1m": 2,
     "author": "mistral-ai",
@@ -12417,8 +12525,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 74.033,
-      "time_to_first_token": 0.676
+      "tokens_per_second": 75.638,
+      "time_to_first_token": 0.806
     },
     "capabilities": {
       "supports_vision": false,
@@ -12448,8 +12556,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 145.549,
-    "time_to_first_token": 0.454,
+    "tokens_per_second": 95.673,
+    "time_to_first_token": 0.497,
     "input_per_1m": 0.4,
     "output_per_1m": 2,
     "author": "mistral-ai",
@@ -12473,8 +12581,8 @@
       "math_hard": 70.7
     },
     "performance": {
-      "tokens_per_second": 145.549,
-      "time_to_first_token": 0.454
+      "tokens_per_second": 95.673,
+      "time_to_first_token": 0.497
     },
     "capabilities": {
       "supports_vision": false,
@@ -12504,8 +12612,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 209.484,
-    "time_to_first_token": 0.394,
+    "tokens_per_second": 192.967,
+    "time_to_first_token": 0.37,
     "input_per_1m": 0.07,
     "output_per_1m": 0.28,
     "author": "mistral-ai",
@@ -12529,8 +12637,8 @@
       "math_hard": 63.5
     },
     "performance": {
-      "tokens_per_second": 209.484,
-      "time_to_first_token": 0.394
+      "tokens_per_second": 192.967,
+      "time_to_first_token": 0.37
     },
     "capabilities": {
       "supports_vision": false,
@@ -12664,8 +12772,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 92.672,
-    "time_to_first_token": 0.335,
+    "tokens_per_second": 125.107,
+    "time_to_first_token": 0.337,
     "input_per_1m": 0.2,
     "output_per_1m": 0.2,
     "author": "mistral-ai",
@@ -12689,8 +12797,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 92.672,
-      "time_to_first_token": 0.335
+      "tokens_per_second": 125.107,
+      "time_to_first_token": 0.337
     },
     "capabilities": {
       "supports_vision": true,
@@ -12721,8 +12829,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 298.776,
-    "time_to_first_token": 0.284,
+    "tokens_per_second": 287.583,
+    "time_to_first_token": 0.288,
     "input_per_1m": 0.04,
     "output_per_1m": 0.04,
     "author": "mistral-ai",
@@ -12746,8 +12854,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 298.776,
-      "time_to_first_token": 0.284
+      "tokens_per_second": 287.583,
+      "time_to_first_token": 0.288
     },
     "capabilities": {
       "supports_vision": false,
@@ -12882,8 +12990,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 191.3,
-    "time_to_first_token": 0.301,
+    "tokens_per_second": 153.555,
+    "time_to_first_token": 0.327,
     "input_per_1m": 0.15,
     "output_per_1m": 0.15,
     "author": "mistral-ai",
@@ -12907,8 +13015,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 191.3,
-      "time_to_first_token": 0.301
+      "tokens_per_second": 153.555,
+      "time_to_first_token": 0.327
     },
     "capabilities": {
       "supports_vision": true,
@@ -12991,8 +13099,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 190.611,
-    "time_to_first_token": 0.304,
+    "tokens_per_second": 143.198,
+    "time_to_first_token": 0.328,
     "input_per_1m": 0.059,
     "output_per_1m": 0.059,
     "author": "mistral-ai",
@@ -13016,8 +13124,8 @@
       "math_hard": 12.1
     },
     "performance": {
-      "tokens_per_second": 190.611,
-      "time_to_first_token": 0.304
+      "tokens_per_second": 143.198,
+      "time_to_first_token": 0.328
     },
     "capabilities": {
       "supports_vision": false,
@@ -13367,8 +13475,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 41.273,
-    "time_to_first_token": 0.528,
+    "tokens_per_second": 34.733,
+    "time_to_first_token": 0.746,
     "input_per_1m": 2,
     "output_per_1m": 6,
     "author": "mistral-ai",
@@ -13392,8 +13500,8 @@
       "math_hard": 73.6
     },
     "performance": {
-      "tokens_per_second": 41.273,
-      "time_to_first_token": 0.528
+      "tokens_per_second": 34.733,
+      "time_to_first_token": 0.746
     },
     "capabilities": {
       "supports_vision": false,
@@ -13480,8 +13588,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 69.239,
-    "time_to_first_token": 0.437,
+    "tokens_per_second": 56.84,
+    "time_to_first_token": 0.42,
     "input_per_1m": 0.4,
     "output_per_1m": 2,
     "author": "mistral-ai",
@@ -13505,8 +13613,8 @@
       "math_hard": 90.7
     },
     "performance": {
-      "tokens_per_second": 69.239,
-      "time_to_first_token": 0.437
+      "tokens_per_second": 56.84,
+      "time_to_first_token": 0.42
     },
     "capabilities": {
       "supports_vision": true,
@@ -13537,8 +13645,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 61.864,
-    "time_to_first_token": 0.454,
+    "tokens_per_second": 56.299,
+    "time_to_first_token": 0.493,
     "input_per_1m": 0.4,
     "output_per_1m": 2,
     "author": "mistral-ai",
@@ -13562,8 +13670,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 61.864,
-      "time_to_first_token": 0.454
+      "tokens_per_second": 56.299,
+      "time_to_first_token": 0.493
     },
     "capabilities": {
       "supports_vision": true,
@@ -13706,8 +13814,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 155.699,
-    "time_to_first_token": 0.514,
+    "tokens_per_second": 133.479,
+    "time_to_first_token": 0.535,
     "input_per_1m": 0.1,
     "output_per_1m": 0.3,
     "author": "mistral-ai",
@@ -13731,8 +13839,8 @@
       "math_hard": 56.3
     },
     "performance": {
-      "tokens_per_second": 155.699,
-      "time_to_first_token": 0.514
+      "tokens_per_second": 133.479,
+      "time_to_first_token": 0.535
     },
     "capabilities": {
       "supports_vision": false,
@@ -13758,8 +13866,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 156.842,
-    "time_to_first_token": 0.532,
+    "tokens_per_second": 139.542,
+    "time_to_first_token": 0.655,
     "input_per_1m": 0.05,
     "output_per_1m": 0.08,
     "author": "mistral-ai",
@@ -13783,8 +13891,8 @@
       "math_hard": 71.5
     },
     "performance": {
-      "tokens_per_second": 156.842,
-      "time_to_first_token": 0.532
+      "tokens_per_second": 139.542,
+      "time_to_first_token": 0.655
     },
     "capabilities": {
       "supports_vision": false,
@@ -13866,8 +13974,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 153.173,
-    "time_to_first_token": 0.528,
+    "tokens_per_second": 140.769,
+    "time_to_first_token": 0.509,
     "input_per_1m": 0.1,
     "output_per_1m": 0.3,
     "author": "mistral-ai",
@@ -13891,8 +13999,8 @@
       "math_hard": 70.7
     },
     "performance": {
-      "tokens_per_second": 153.173,
-      "time_to_first_token": 0.528
+      "tokens_per_second": 140.769,
+      "time_to_first_token": 0.509
     },
     "capabilities": {
       "supports_vision": true,
@@ -13923,8 +14031,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 129.413,
-    "time_to_first_token": 0.335,
+    "tokens_per_second": 155.578,
+    "time_to_first_token": 0.359,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "mistral-ai",
@@ -13948,8 +14056,8 @@
       "math_hard": 88.3
     },
     "performance": {
-      "tokens_per_second": 129.413,
-      "time_to_first_token": 0.335
+      "tokens_per_second": 155.578,
+      "time_to_first_token": 0.359
     },
     "capabilities": {
       "supports_vision": true,
@@ -14460,8 +14568,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 50.217,
-    "time_to_first_token": 0.503,
+    "tokens_per_second": 55.493,
+    "time_to_first_token": 0.544,
     "input_per_1m": 2,
     "output_per_1m": 6,
     "author": "mistral-ai",
@@ -14485,8 +14593,8 @@
       "math_hard": 71.4
     },
     "performance": {
-      "tokens_per_second": 50.217,
-      "time_to_first_token": 0.503
+      "tokens_per_second": 55.493,
+      "time_to_first_token": 0.544
     },
     "capabilities": {
       "supports_vision": true,
@@ -14678,8 +14786,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 33.067,
-    "time_to_first_token": 1.383,
+    "tokens_per_second": 32.786,
+    "time_to_first_token": 1.183,
     "input_per_1m": 0.55,
     "output_per_1m": 2.2,
     "author": "moonshotai",
@@ -14703,8 +14811,8 @@
       "math_hard": 97.1
     },
     "performance": {
-      "tokens_per_second": 33.067,
-      "time_to_first_token": 1.383
+      "tokens_per_second": 32.786,
+      "time_to_first_token": 1.183
     },
     "capabilities": {
       "supports_vision": false,
@@ -14734,8 +14842,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 19.665,
-    "time_to_first_token": 3.526,
+    "tokens_per_second": 12.539,
+    "time_to_first_token": 2.03,
     "input_per_1m": 0.4,
     "output_per_1m": 2,
     "author": "moonshotai",
@@ -14759,8 +14867,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 19.665,
-      "time_to_first_token": 3.526
+      "tokens_per_second": 12.539,
+      "time_to_first_token": 2.03
     },
     "capabilities": {
       "supports_vision": false,
@@ -14846,8 +14954,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 33.094,
-    "time_to_first_token": 1.302,
+    "tokens_per_second": 32.706,
+    "time_to_first_token": 1.389,
     "input_per_1m": 0.44,
     "output_per_1m": 2,
     "author": "moonshotai",
@@ -14871,8 +14979,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 33.094,
-      "time_to_first_token": 1.302
+      "tokens_per_second": 32.706,
+      "time_to_first_token": 1.389
     },
     "capabilities": {
       "supports_vision": true,
@@ -14945,6 +15053,63 @@
     "modalities": {
       "input": [],
       "output": []
+    }
+  },
+  {
+    "slug": "moonshotai-kimi-k2.6",
+    "author_name": "Moonshotai",
+    "model_name": "Kimi K2.6",
+    "context_length": 256000,
+    "supports_vision": true,
+    "supports_reasoning": null,
+    "supports_tool_calls": true,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
+    "input_per_1m": 0.7448,
+    "output_per_1m": 4.655,
+    "author": "moonshotai",
+    "model": "kimi-k2.6",
+    "description": "Kimi K2.6 is Moonshot AI's next-generation multimodal model, designed for long-horizon coding, coding-driven UI/UX generation, and multi-agent orchestration. It handles complex end-to-end coding tasks across Python, Rust, and Go, and...",
+    "pricing": {
+      "input_per_1m": 0.8,
+      "output_per_1m": 3.5,
+      "cache_read_per_1m": 0.2,
+      "cache_write_per_1m": null
+    },
+    "pricing_source": "parasail",
+    "benchmarks": {
+      "intelligence": 53.9,
+      "coding": 47.1,
+      "math": null,
+      "mmlu_pro": null,
+      "gpqa": 91.1,
+      "livecodebench": null,
+      "aider": null,
+      "math_hard": null
+    },
+    "performance": {
+      "tokens_per_second": null,
+      "time_to_first_token": null
+    },
+    "capabilities": {
+      "supports_vision": true,
+      "supports_reasoning": null,
+      "supports_tool_calls": true,
+      "supports_audio_input": null,
+      "supports_audio_output": null,
+      "supports_pdf_input": null,
+      "supports_web_search": null,
+      "supports_prompt_caching": true,
+      "is_open": null
+    },
+    "modalities": {
+      "input": [
+        "text",
+        "image"
+      ],
+      "output": [
+        "text"
+      ]
     }
   },
   {
@@ -15503,8 +15668,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 28.24,
-    "time_to_first_token": 0.442,
+    "tokens_per_second": 27.913,
+    "time_to_first_token": 0.402,
     "input_per_1m": 0.3,
     "output_per_1m": 0.3,
     "author": "nousresearch",
@@ -15528,8 +15693,8 @@
       "math_hard": 53.8
     },
     "performance": {
-      "tokens_per_second": 28.24,
-      "time_to_first_token": 0.442
+      "tokens_per_second": 27.913,
+      "time_to_first_token": 0.402
     },
     "capabilities": {
       "supports_vision": false,
@@ -15559,8 +15724,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 33.893,
-    "time_to_first_token": 0.757,
+    "tokens_per_second": 35.519,
+    "time_to_first_token": 0.739,
     "input_per_1m": 1,
     "output_per_1m": 3,
     "author": "nousresearch",
@@ -15584,8 +15749,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 33.893,
-      "time_to_first_token": 0.757
+      "tokens_per_second": 35.519,
+      "time_to_first_token": 0.739
     },
     "capabilities": {
       "supports_vision": false,
@@ -15615,8 +15780,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 73.714,
-    "time_to_first_token": 0.581,
+    "tokens_per_second": 85.17,
+    "time_to_first_token": 0.636,
     "input_per_1m": 0.13,
     "output_per_1m": 0.4,
     "author": "nousresearch",
@@ -15640,8 +15805,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 73.714,
-      "time_to_first_token": 0.581
+      "tokens_per_second": 85.17,
+      "time_to_first_token": 0.636
     },
     "capabilities": {
       "supports_vision": false,
@@ -16295,8 +16460,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 46.143,
-    "time_to_first_token": 0.315,
+    "tokens_per_second": 36.412,
+    "time_to_first_token": 0.337,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "nvidia",
@@ -16320,8 +16485,8 @@
       "math_hard": 73.3
     },
     "performance": {
-      "tokens_per_second": 46.143,
-      "time_to_first_token": 0.315
+      "tokens_per_second": 36.412,
+      "time_to_first_token": 0.337
     },
     "capabilities": {
       "supports_vision": false,
@@ -16459,8 +16624,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 74.938,
-    "time_to_first_token": 0.268,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "nvidia",
@@ -16484,8 +16649,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 74.938,
-      "time_to_first_token": 0.268
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": false,
@@ -16567,8 +16732,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 180.073,
-    "time_to_first_token": 0.736,
+    "tokens_per_second": 143.582,
+    "time_to_first_token": 0.61,
     "input_per_1m": 0.2,
     "output_per_1m": 0.6,
     "author": "nvidia",
@@ -16592,8 +16757,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 180.073,
-      "time_to_first_token": 0.736
+      "tokens_per_second": 143.582,
+      "time_to_first_token": 0.61
     },
     "capabilities": {
       "supports_vision": true,
@@ -16625,8 +16790,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 137.589,
-    "time_to_first_token": 0.685,
+    "tokens_per_second": 152.726,
+    "time_to_first_token": 0.639,
     "input_per_1m": 0.04,
     "output_per_1m": 0.16,
     "author": "nvidia",
@@ -16650,8 +16815,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 137.589,
-      "time_to_first_token": 0.685
+      "tokens_per_second": 152.726,
+      "time_to_first_token": 0.639
     },
     "capabilities": {
       "supports_vision": false,
@@ -16681,8 +16846,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 153.605,
-    "time_to_first_token": 1.02,
+    "tokens_per_second": 165.999,
+    "time_to_first_token": 1.001,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "nvidia",
@@ -16706,8 +16871,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 153.605,
-      "time_to_first_token": 1.02
+      "tokens_per_second": 165.999,
+      "time_to_first_token": 1.001
     },
     "capabilities": {
       "supports_vision": null,
@@ -16943,8 +17108,8 @@
     "supports_tool_calls": true,
     "tokens_per_second": null,
     "time_to_first_token": null,
-    "input_per_1m": 0.75,
-    "output_per_1m": 3,
+    "input_per_1m": 1.5,
+    "output_per_1m": 6,
     "author": "openai",
     "model": "codex-mini",
     "description": null,
@@ -17006,8 +17171,8 @@
     "model": "curie",
     "description": null,
     "pricing": {
-      "input_per_1m": 1,
-      "output_per_1m": 1,
+      "input_per_1m": 2,
+      "output_per_1m": 2,
       "cache_read_per_1m": null,
       "cache_write_per_1m": null
     },
@@ -17050,10 +17215,10 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 94.285,
-    "time_to_first_token": 0.489,
-    "input_per_1m": 0.5,
-    "output_per_1m": 1.5,
+    "tokens_per_second": 92.898,
+    "time_to_first_token": 0.423,
+    "input_per_1m": 0.25,
+    "output_per_1m": 0.75,
     "author": "openai",
     "model": "gpt-3.5-turbo",
     "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
@@ -17075,8 +17240,8 @@
       "math_hard": 44.1
     },
     "performance": {
-      "tokens_per_second": 94.285,
-      "time_to_first_token": 0.489
+      "tokens_per_second": 92.898,
+      "time_to_first_token": 0.423
     },
     "capabilities": {
       "supports_vision": false,
@@ -17218,8 +17383,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 30.424,
-    "time_to_first_token": 0.779,
+    "tokens_per_second": 34.232,
+    "time_to_first_token": 0.72,
     "input_per_1m": 30,
     "output_per_1m": 60,
     "author": "openai",
@@ -17243,8 +17408,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 30.424,
-      "time_to_first_token": 0.779
+      "tokens_per_second": 34.232,
+      "time_to_first_token": 0.72
     },
     "capabilities": {
       "supports_vision": false,
@@ -17274,10 +17439,10 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 31.634,
-    "time_to_first_token": 1.072,
-    "input_per_1m": 10,
-    "output_per_1m": 30,
+    "tokens_per_second": 33.903,
+    "time_to_first_token": 1.016,
+    "input_per_1m": 5,
+    "output_per_1m": 15,
     "author": "openai",
     "model": "gpt-4-turbo",
     "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to December 2023.",
@@ -17299,8 +17464,8 @@
       "math_hard": 73.7
     },
     "performance": {
-      "tokens_per_second": 31.634,
-      "time_to_first_token": 1.072
+      "tokens_per_second": 33.903,
+      "time_to_first_token": 1.016
     },
     "capabilities": {
       "supports_vision": true,
@@ -17331,8 +17496,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 104.505,
-    "time_to_first_token": 0.59,
+    "tokens_per_second": 103.347,
+    "time_to_first_token": 0.643,
     "input_per_1m": 2,
     "output_per_1m": 8,
     "author": "openai",
@@ -17356,8 +17521,8 @@
       "math_hard": 91.3
     },
     "performance": {
-      "tokens_per_second": 104.505,
-      "time_to_first_token": 0.59
+      "tokens_per_second": 103.347,
+      "time_to_first_token": 0.643
     },
     "capabilities": {
       "supports_vision": true,
@@ -17389,10 +17554,10 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 76.942,
-    "time_to_first_token": 0.552,
-    "input_per_1m": 0.2,
-    "output_per_1m": 0.8,
+    "tokens_per_second": 78.43,
+    "time_to_first_token": 0.538,
+    "input_per_1m": 0.4,
+    "output_per_1m": 1.6,
     "author": "openai",
     "model": "gpt-4.1-mini",
     "description": "GPT-4.1 Mini is a mid-sized model delivering performance competitive with GPT-4o at substantially lower latency and cost. It retains a 1 million token context window and scores 45.1% on hard instruction evals, 35.8% on MultiChallenge, and 84.1% on IFEval. Mini also shows strong coding ability (e.g., 31.6% on Aider’s polyglot diff benchmark) and vision understanding, making it suitable for interactive applications with tight performance constraints.",
@@ -17414,8 +17579,8 @@
       "math_hard": 92.5
     },
     "performance": {
-      "tokens_per_second": 76.942,
-      "time_to_first_token": 0.552
+      "tokens_per_second": 78.43,
+      "time_to_first_token": 0.538
     },
     "capabilities": {
       "supports_vision": true,
@@ -17447,10 +17612,10 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 192.163,
-    "time_to_first_token": 0.455,
-    "input_per_1m": 0.1,
-    "output_per_1m": 0.4,
+    "tokens_per_second": 136.861,
+    "time_to_first_token": 0.397,
+    "input_per_1m": 0.05,
+    "output_per_1m": 0.2,
     "author": "openai",
     "model": "gpt-4.1-nano",
     "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million token context window, and scores 80.1% on MMLU, 50.3% on GPQA, and 9.8% on Aider polyglot coding – even higher than GPT‑4o mini. It’s ideal for tasks like classification or autocompletion.",
@@ -17472,8 +17637,8 @@
       "math_hard": 84.8
     },
     "performance": {
-      "tokens_per_second": 192.163,
-      "time_to_first_token": 0.455
+      "tokens_per_second": 136.861,
+      "time_to_first_token": 0.397
     },
     "capabilities": {
       "supports_vision": true,
@@ -17615,8 +17780,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 68.452,
-    "time_to_first_token": 0.536,
+    "tokens_per_second": 55.418,
+    "time_to_first_token": 0.526,
     "input_per_1m": 0.15,
     "output_per_1m": 0.6,
     "author": "openai",
@@ -17640,8 +17805,8 @@
       "math_hard": 78.9
     },
     "performance": {
-      "tokens_per_second": 68.452,
-      "time_to_first_token": 0.536
+      "tokens_per_second": 55.418,
+      "time_to_first_token": 0.526
     },
     "capabilities": {
       "supports_vision": true,
@@ -17673,10 +17838,10 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 72.851,
-    "time_to_first_token": 1.075,
-    "input_per_1m": 0.625,
-    "output_per_1m": 5,
+    "tokens_per_second": 77.056,
+    "time_to_first_token": 1.057,
+    "input_per_1m": 1.25,
+    "output_per_1m": 10,
     "author": "openai",
     "model": "gpt-5",
     "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction following, and accuracy in high-stakes use cases. It supports test-time routing features and advanced prompt understanding, including user-specified intent like \"think hard about this.\" Improvements include reductions in hallucination, sycophancy, and better performance in coding, writing, and health-related tasks.",
@@ -17698,8 +17863,8 @@
       "math_hard": 86.1
     },
     "performance": {
-      "tokens_per_second": 72.851,
-      "time_to_first_token": 1.075
+      "tokens_per_second": 77.056,
+      "time_to_first_token": 1.057
     },
     "capabilities": {
       "supports_vision": true,
@@ -17731,8 +17896,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 159.227,
-    "time_to_first_token": 0.68,
+    "tokens_per_second": 152.335,
+    "time_to_first_token": 0.627,
     "input_per_1m": 1.25,
     "output_per_1m": 10,
     "author": "openai",
@@ -17756,8 +17921,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 159.227,
-      "time_to_first_token": 0.68
+      "tokens_per_second": 152.335,
+      "time_to_first_token": 0.627
     },
     "capabilities": {
       "supports_vision": true,
@@ -17789,8 +17954,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 200.217,
-    "time_to_first_token": 9.111,
+    "tokens_per_second": 192.204,
+    "time_to_first_token": 9.599,
     "input_per_1m": 1.25,
     "output_per_1m": 10,
     "author": "openai",
@@ -17814,8 +17979,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 200.217,
-      "time_to_first_token": 9.111
+      "tokens_per_second": 192.204,
+      "time_to_first_token": 9.599
     },
     "capabilities": {
       "supports_vision": true,
@@ -17846,10 +18011,10 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 68.96,
-    "time_to_first_token": 23.983,
-    "input_per_1m": 0.25,
-    "output_per_1m": 2,
+    "tokens_per_second": 83.049,
+    "time_to_first_token": 21.564,
+    "input_per_1m": 0.125,
+    "output_per_1m": 1,
     "author": "openai",
     "model": "gpt-5-mini",
     "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency and cost. GPT-5 Mini is the successor to OpenAI's o4-mini model.",
@@ -17871,8 +18036,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 68.96,
-      "time_to_first_token": 23.983
+      "tokens_per_second": 83.049,
+      "time_to_first_token": 21.564
     },
     "capabilities": {
       "supports_vision": true,
@@ -17904,8 +18069,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 137.835,
-    "time_to_first_token": 0.932,
+    "tokens_per_second": 149.861,
+    "time_to_first_token": 0.717,
     "input_per_1m": 0.05,
     "output_per_1m": 0.4,
     "author": "openai",
@@ -17929,8 +18094,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 137.835,
-      "time_to_first_token": 0.932
+      "tokens_per_second": 149.861,
+      "time_to_first_token": 0.717
     },
     "capabilities": {
       "supports_vision": true,
@@ -18020,8 +18185,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 95.049,
-    "time_to_first_token": 0.829,
+    "tokens_per_second": 113.276,
+    "time_to_first_token": 0.804,
     "input_per_1m": 1.25,
     "output_per_1m": 10,
     "author": "openai",
@@ -18045,8 +18210,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 95.049,
-      "time_to_first_token": 0.829
+      "tokens_per_second": 113.276,
+      "time_to_first_token": 0.804
     },
     "capabilities": {
       "supports_vision": true,
@@ -18136,8 +18301,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 176.674,
-    "time_to_first_token": 6.611,
+    "tokens_per_second": 182.559,
+    "time_to_first_token": 5.784,
     "input_per_1m": 1.25,
     "output_per_1m": 10,
     "author": "openai",
@@ -18161,8 +18326,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 176.674,
-      "time_to_first_token": 6.611
+      "tokens_per_second": 182.559,
+      "time_to_first_token": 5.784
     },
     "capabilities": {
       "supports_vision": true,
@@ -18250,8 +18415,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 196.336,
-    "time_to_first_token": 5.793,
+    "tokens_per_second": 215.415,
+    "time_to_first_token": 2.857,
     "input_per_1m": 0.25,
     "output_per_1m": 2,
     "author": "openai",
@@ -18275,8 +18440,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 196.336,
-      "time_to_first_token": 5.793
+      "tokens_per_second": 215.415,
+      "time_to_first_token": 2.857
     },
     "capabilities": {
       "supports_vision": true,
@@ -18307,10 +18472,10 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 61.877,
-    "time_to_first_token": 0.661,
-    "input_per_1m": 1.75,
-    "output_per_1m": 14,
+    "tokens_per_second": 57.844,
+    "time_to_first_token": 0.61,
+    "input_per_1m": 0.875,
+    "output_per_1m": 7,
     "author": "openai",
     "model": "gpt-5.2",
     "description": "GPT-5.2 is the latest frontier-grade model in the GPT-5 series, offering stronger agentic and long context perfomance compared to GPT-5.1. It uses adaptive reasoning to allocate computation dynamically, responding quickly to simple queries while spending more depth on complex tasks.\n\nBuilt for broad task coverage, GPT-5.2 delivers consistent gains across math, coding, sciende, and tool calling workloads, with more coherent long-form answers and improved tool-use reliability.",
@@ -18332,8 +18497,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 61.877,
-      "time_to_first_token": 0.661
+      "tokens_per_second": 57.844,
+      "time_to_first_token": 0.61
     },
     "capabilities": {
       "supports_vision": true,
@@ -18367,8 +18532,8 @@
     "supports_tool_calls": true,
     "tokens_per_second": null,
     "time_to_first_token": null,
-    "input_per_1m": 1.75,
-    "output_per_1m": 14,
+    "input_per_1m": 0.875,
+    "output_per_1m": 7,
     "author": "openai",
     "model": "gpt-5.2-chat",
     "description": "GPT-5.2 Chat (AKA Instant) is the fast, lightweight member of the 5.2 family, optimized for low-latency chat while retaining strong general intelligence. It uses adaptive reasoning to selectively “think” on harder queries, improving accuracy on math, coding, and multi-step tasks without slowing down typical conversations. The model is warmer and more conversational by default, with better instruction following and more stable short-form reasoning. GPT-5.2 Chat is designed for high-throughput, interactive workloads where responsiveness and consistency matter more than deep deliberation.",
@@ -18423,8 +18588,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 104.007,
-    "time_to_first_token": 5.842,
+    "tokens_per_second": 88.655,
+    "time_to_first_token": 6.277,
     "input_per_1m": 1.75,
     "output_per_1m": 14,
     "author": "openai",
@@ -18448,8 +18613,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 104.007,
-      "time_to_first_token": 5.842
+      "tokens_per_second": 88.655,
+      "time_to_first_token": 6.277
     },
     "capabilities": {
       "supports_vision": true,
@@ -18480,8 +18645,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 67.443,
-    "time_to_first_token": 95.953,
+    "tokens_per_second": 81.94,
+    "time_to_first_token": 110.65,
     "input_per_1m": 10.5,
     "output_per_1m": 84,
     "author": "openai",
@@ -18505,8 +18670,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 67.443,
-      "time_to_first_token": 95.953
+      "tokens_per_second": 81.94,
+      "time_to_first_token": 110.65
     },
     "capabilities": {
       "supports_vision": true,
@@ -18596,8 +18761,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 76.517,
-    "time_to_first_token": 59.894,
+    "tokens_per_second": 95.716,
+    "time_to_first_token": 75.384,
     "input_per_1m": 1.75,
     "output_per_1m": 14,
     "author": "openai",
@@ -18621,8 +18786,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 76.517,
-      "time_to_first_token": 59.894
+      "tokens_per_second": 95.716,
+      "time_to_first_token": 75.384
     },
     "capabilities": {
       "supports_vision": true,
@@ -18653,8 +18818,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 60.825,
-    "time_to_first_token": 0.673,
+    "tokens_per_second": 64.889,
+    "time_to_first_token": 0.588,
     "input_per_1m": 2.5,
     "output_per_1m": 15,
     "author": "openai",
@@ -18678,8 +18843,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 60.825,
-      "time_to_first_token": 0.673
+      "tokens_per_second": 64.889,
+      "time_to_first_token": 0.588
     },
     "capabilities": {
       "supports_vision": true,
@@ -18711,8 +18876,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 162.157,
-    "time_to_first_token": 0.548,
+    "tokens_per_second": 157.474,
+    "time_to_first_token": 0.549,
     "input_per_1m": 0.75,
     "output_per_1m": 4.5,
     "author": "openai",
@@ -18736,8 +18901,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 162.157,
-      "time_to_first_token": 0.548
+      "tokens_per_second": 157.474,
+      "time_to_first_token": 0.549
     },
     "capabilities": {
       "supports_vision": null,
@@ -18763,8 +18928,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 159.439,
-    "time_to_first_token": 0.547,
+    "tokens_per_second": 155.841,
+    "time_to_first_token": 0.556,
     "input_per_1m": 0.2,
     "output_per_1m": 1.25,
     "author": "openai",
@@ -18788,8 +18953,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 159.439,
-      "time_to_first_token": 0.547
+      "tokens_per_second": 155.841,
+      "time_to_first_token": 0.556
     },
     "capabilities": {
       "supports_vision": null,
@@ -18873,10 +19038,10 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 217.682,
-    "time_to_first_token": 0.523,
-    "input_per_1m": 0.05,
-    "output_per_1m": 0.45,
+    "tokens_per_second": 210.622,
+    "time_to_first_token": 0.48,
+    "input_per_1m": 0.039,
+    "output_per_1m": 0.19,
     "author": "openai",
     "model": "gpt-oss-120b",
     "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases. It activates 5.1B parameters per forward pass and is optimized to run on a single H100 GPU with native MXFP4 quantization. The model supports configurable reasoning depth, full chain-of-thought access, and native tool use, including function calling, browsing, and structured output generation.",
@@ -18898,8 +19063,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 217.682,
-      "time_to_first_token": 0.523
+      "tokens_per_second": 210.622,
+      "time_to_first_token": 0.48
     },
     "capabilities": {
       "supports_vision": true,
@@ -18929,8 +19094,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 255.962,
-    "time_to_first_token": 0.362,
+    "tokens_per_second": 273.642,
+    "time_to_first_token": 0.372,
     "input_per_1m": 0.03,
     "output_per_1m": 0.14,
     "author": "openai",
@@ -18954,8 +19119,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 255.962,
-      "time_to_first_token": 0.362
+      "tokens_per_second": 273.642,
+      "time_to_first_token": 0.372
     },
     "capabilities": {
       "supports_vision": true,
@@ -18985,8 +19150,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 94.424,
-    "time_to_first_token": 26.42,
+    "tokens_per_second": 101.044,
+    "time_to_first_token": 20.051,
     "input_per_1m": 15,
     "output_per_1m": 60,
     "author": "openai",
@@ -19010,8 +19175,8 @@
       "math_hard": 97
     },
     "performance": {
-      "tokens_per_second": 94.424,
-      "time_to_first_token": 26.42
+      "tokens_per_second": 101.044,
+      "time_to_first_token": 20.051
     },
     "capabilities": {
       "supports_vision": true,
@@ -19153,8 +19318,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 84.915,
-    "time_to_first_token": 9.276,
+    "tokens_per_second": 95.419,
+    "time_to_first_token": 12.598,
     "input_per_1m": 2,
     "output_per_1m": 8,
     "author": "openai",
@@ -19178,8 +19343,8 @@
       "math_hard": 99.2
     },
     "performance": {
-      "tokens_per_second": 84.915,
-      "time_to_first_token": 9.276
+      "tokens_per_second": 95.419,
+      "time_to_first_token": 12.598
     },
     "capabilities": {
       "supports_vision": true,
@@ -19269,10 +19434,10 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 133.062,
-    "time_to_first_token": 7.093,
-    "input_per_1m": 1.1,
-    "output_per_1m": 4.4,
+    "tokens_per_second": 147.347,
+    "time_to_first_token": 8.601,
+    "input_per_1m": 0.55,
+    "output_per_1m": 2.2,
     "author": "openai",
     "model": "o3-mini",
     "description": "OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding.\n\nThis model supports the `reasoning_effort` parameter, which can be set to \"high\", \"medium\", or \"low\" to control the thinking time of the model. The default is \"medium\". OpenRouter also offers the model slug `openai/o3-mini-high` to default the parameter to \"high\".\n\nThe model features three adjustable reasoning effort levels and supports key developer capabilities including function calling, structured outputs, and streaming, though it does not include vision processing capabilities.\n\nThe model demonstrates significant improvements over its predecessor, with expert testers preferring its responses 56% of the time and noting a 39% reduction in major errors on complex questions. With medium reasoning effort settings, o3-mini matches the performance of the larger o1 model on challenging reasoning evaluations like AIME and GPQA, while maintaining lower latency and cost.",
@@ -19294,8 +19459,8 @@
       "math_hard": 97.3
     },
     "performance": {
-      "tokens_per_second": 133.062,
-      "time_to_first_token": 7.093
+      "tokens_per_second": 147.347,
+      "time_to_first_token": 8.601
     },
     "capabilities": {
       "supports_vision": false,
@@ -19326,8 +19491,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 134.552,
-    "time_to_first_token": 25.043,
+    "tokens_per_second": 163.834,
+    "time_to_first_token": 23.375,
     "input_per_1m": 1.1,
     "output_per_1m": 4.4,
     "author": "openai",
@@ -19351,8 +19516,8 @@
       "math_hard": 98.5
     },
     "performance": {
-      "tokens_per_second": 134.552,
-      "time_to_first_token": 25.043
+      "tokens_per_second": 163.834,
+      "time_to_first_token": 23.375
     },
     "capabilities": {
       "supports_vision": false,
@@ -19383,8 +19548,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 17.101,
-    "time_to_first_token": 102.643,
+    "tokens_per_second": 16.872,
+    "time_to_first_token": 99.232,
     "input_per_1m": 20,
     "output_per_1m": 80,
     "author": "openai",
@@ -19408,8 +19573,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 17.101,
-      "time_to_first_token": 102.643
+      "tokens_per_second": 16.872,
+      "time_to_first_token": 99.232
     },
     "capabilities": {
       "supports_vision": true,
@@ -19441,8 +19606,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 113.512,
-    "time_to_first_token": 22.556,
+    "tokens_per_second": 133.352,
+    "time_to_first_token": 20.458,
     "input_per_1m": 0.55,
     "output_per_1m": 2.2,
     "author": "openai",
@@ -19466,8 +19631,8 @@
       "math_hard": 98.9
     },
     "performance": {
-      "tokens_per_second": 113.512,
-      "time_to_first_token": 22.556
+      "tokens_per_second": 133.352,
+      "time_to_first_token": 20.458
     },
     "capabilities": {
       "supports_vision": true,
@@ -20371,10 +20536,10 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 54.789,
-    "time_to_first_token": 1.244,
-    "input_per_1m": 0.12,
-    "output_per_1m": 0.39,
+    "tokens_per_second": 53.339,
+    "time_to_first_token": 1.113,
+    "input_per_1m": 0.36,
+    "output_per_1m": 0.4,
     "author": "qwen",
     "model": "qwen-2.5-72b-instruct",
     "description": "Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improvements upon Qwen2:\n\n- Significantly more knowledge and has greatly improved capabilities in coding and mathematics, thanks to our specialized expert models in these domains.\n\n- Significant improvements in instruction following, generating long texts (over 8K tokens), understanding structured data (e.g, tables), and generating structured outputs especially JSON. More resilient to the diversity of system prompts, enhancing role-play implementation and condition-setting for chatbots.\n\n- Long-context Support up to 128K tokens and can generate up to 8K tokens.\n\n- Multilingual support for over 29 languages, including Chinese, English, French, Spanish, Portuguese, German, Italian, Russian, Japanese, Korean, Vietnamese, Thai, Arabic, and more.\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
@@ -20396,8 +20561,8 @@
       "math_hard": 85.8
     },
     "performance": {
-      "tokens_per_second": 54.789,
-      "time_to_first_token": 1.244
+      "tokens_per_second": 53.339,
+      "time_to_first_token": 1.113
     },
     "capabilities": {
       "supports_vision": false,
@@ -20596,8 +20761,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 46.868,
-    "time_to_first_token": 1.147,
+    "tokens_per_second": 46.627,
+    "time_to_first_token": 1.116,
     "input_per_1m": 1.04,
     "output_per_1m": 4.16,
     "author": "qwen",
@@ -20621,8 +20786,8 @@
       "math_hard": 83.5
     },
     "performance": {
-      "tokens_per_second": 46.868,
-      "time_to_first_token": 1.147
+      "tokens_per_second": 46.627,
+      "time_to_first_token": 1.116
     },
     "capabilities": {
       "supports_vision": false,
@@ -20816,8 +20981,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 66.668,
-    "time_to_first_token": 1.22,
+    "tokens_per_second": 72.505,
+    "time_to_first_token": 0.997,
     "input_per_1m": 0.0325,
     "output_per_1m": 0.13,
     "author": "qwen",
@@ -20841,8 +21006,8 @@
       "math_hard": 80.5
     },
     "performance": {
-      "tokens_per_second": 66.668,
-      "time_to_first_token": 1.22
+      "tokens_per_second": 72.505,
+      "time_to_first_token": 0.997
     },
     "capabilities": {
       "supports_vision": false,
@@ -23028,8 +23193,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": false,
-    "tokens_per_second": 140.69,
-    "time_to_first_token": 0.903,
+    "tokens_per_second": 136.671,
+    "time_to_first_token": 1.024,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -23053,8 +23218,8 @@
       "math_hard": 71.7
     },
     "performance": {
-      "tokens_per_second": 140.69,
-      "time_to_first_token": 0.903
+      "tokens_per_second": 136.671,
+      "time_to_first_token": 1.024
     },
     "capabilities": {
       "supports_vision": false,
@@ -23132,8 +23297,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 65.924,
-    "time_to_first_token": 1.012,
+    "tokens_per_second": 62.474,
+    "time_to_first_token": 1.031,
     "input_per_1m": 0.06,
     "output_per_1m": 0.24,
     "author": "qwen",
@@ -23157,8 +23322,8 @@
       "math_hard": 87.1
     },
     "performance": {
-      "tokens_per_second": 65.924,
-      "time_to_first_token": 1.012
+      "tokens_per_second": 62.474,
+      "time_to_first_token": 1.031
     },
     "capabilities": {
       "supports_vision": false,
@@ -23240,8 +23405,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 61.324,
-    "time_to_first_token": 1.197,
+    "tokens_per_second": 61.083,
+    "time_to_first_token": 1.162,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -23265,8 +23430,8 @@
       "math_hard": 90.2
     },
     "performance": {
-      "tokens_per_second": 61.324,
-      "time_to_first_token": 1.197
+      "tokens_per_second": 61.083,
+      "time_to_first_token": 1.162
     },
     "capabilities": {
       "supports_vision": false,
@@ -23296,8 +23461,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 71.509,
-    "time_to_first_token": 1.085,
+    "tokens_per_second": 64.654,
+    "time_to_first_token": 1.1,
     "input_per_1m": 0.071,
     "output_per_1m": 0.1,
     "author": "qwen",
@@ -23321,8 +23486,8 @@
       "math_hard": 98
     },
     "performance": {
-      "tokens_per_second": 71.509,
-      "time_to_first_token": 1.085
+      "tokens_per_second": 64.654,
+      "time_to_first_token": 1.1
     },
     "capabilities": {
       "supports_vision": false,
@@ -23408,8 +23573,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 66.993,
-    "time_to_first_token": 1.196,
+    "tokens_per_second": 78.195,
+    "time_to_first_token": 1.053,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -23433,8 +23598,8 @@
       "math_hard": 86.3
     },
     "performance": {
-      "tokens_per_second": 66.993,
-      "time_to_first_token": 1.196
+      "tokens_per_second": 78.195,
+      "time_to_first_token": 1.053
     },
     "capabilities": {
       "supports_vision": false,
@@ -23516,8 +23681,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 82.542,
-    "time_to_first_token": 1.159,
+    "tokens_per_second": 74.661,
+    "time_to_first_token": 1.211,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -23541,8 +23706,8 @@
       "math_hard": 97.5
     },
     "performance": {
-      "tokens_per_second": 82.542,
-      "time_to_first_token": 1.159
+      "tokens_per_second": 74.661,
+      "time_to_first_token": 1.211
     },
     "capabilities": {
       "supports_vision": false,
@@ -23628,8 +23793,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 100.587,
-    "time_to_first_token": 1.161,
+    "tokens_per_second": 101.94,
+    "time_to_first_token": 1.055,
     "input_per_1m": 0.08,
     "output_per_1m": 0.24,
     "author": "qwen",
@@ -23653,8 +23818,8 @@
       "math_hard": 86.9
     },
     "performance": {
-      "tokens_per_second": 100.587,
-      "time_to_first_token": 1.161
+      "tokens_per_second": 101.94,
+      "time_to_first_token": 1.055
     },
     "capabilities": {
       "supports_vision": false,
@@ -23684,8 +23849,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 105.17,
-    "time_to_first_token": 0.937,
+    "tokens_per_second": 102.661,
+    "time_to_first_token": 0.974,
     "input_per_1m": 0.2,
     "output_per_1m": 0.2,
     "author": "qwen",
@@ -23709,8 +23874,8 @@
       "math_hard": 84.3
     },
     "performance": {
-      "tokens_per_second": 105.17,
-      "time_to_first_token": 0.937
+      "tokens_per_second": 102.661,
+      "time_to_first_token": 0.974
     },
     "capabilities": {
       "supports_vision": false,
@@ -23844,8 +24009,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 93.758,
-    "time_to_first_token": 0.962,
+    "tokens_per_second": 90.028,
+    "time_to_first_token": 1.007,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -23869,8 +24034,8 @@
       "math_hard": 82.8
     },
     "performance": {
-      "tokens_per_second": 93.758,
-      "time_to_first_token": 0.962
+      "tokens_per_second": 90.028,
+      "time_to_first_token": 1.007
     },
     "capabilities": {
       "supports_vision": false,
@@ -23952,10 +24117,10 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 62.621,
-    "time_to_first_token": 1.694,
+    "tokens_per_second": 70.67,
+    "time_to_first_token": 1.54,
     "input_per_1m": 0.22,
-    "output_per_1m": 1,
+    "output_per_1m": 1.8,
     "author": "qwen",
     "model": "qwen3-coder",
     "description": "Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation model developed by the Qwen team. It is optimized for agentic coding tasks such as function calling, tool use, and long-context reasoning over repositories. The model features 480 billion total parameters, with 35 billion active per forward pass (8 out of 160 experts).\n\nPricing for the Alibaba endpoints varies by context length. Once a request is greater than 128k input tokens, the higher pricing is used.",
@@ -23977,8 +24142,8 @@
       "math_hard": 94.2
     },
     "performance": {
-      "tokens_per_second": 62.621,
-      "time_to_first_token": 1.694
+      "tokens_per_second": 70.67,
+      "time_to_first_token": 1.54
     },
     "capabilities": {
       "supports_vision": false,
@@ -24008,8 +24173,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 112.823,
-    "time_to_first_token": 1.48,
+    "tokens_per_second": 110.023,
+    "time_to_first_token": 1.452,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -24033,8 +24198,8 @@
       "math_hard": 89.3
     },
     "performance": {
-      "tokens_per_second": 112.823,
-      "time_to_first_token": 1.48
+      "tokens_per_second": 110.023,
+      "time_to_first_token": 1.452
     },
     "capabilities": {
       "supports_vision": false,
@@ -24172,8 +24337,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 162.484,
-    "time_to_first_token": 0.818,
+    "tokens_per_second": 156.499,
+    "time_to_first_token": 0.943,
     "input_per_1m": 0.15,
     "output_per_1m": 0.8,
     "author": "qwen",
@@ -24197,8 +24362,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 162.484,
-      "time_to_first_token": 0.818
+      "tokens_per_second": 156.499,
+      "time_to_first_token": 0.943
     },
     "capabilities": {
       "supports_vision": false,
@@ -24284,8 +24449,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 44.481,
-    "time_to_first_token": 1.823,
+    "tokens_per_second": 44.584,
+    "time_to_first_token": 1.761,
     "input_per_1m": 0.78,
     "output_per_1m": 3.9,
     "author": "qwen",
@@ -24309,8 +24474,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 44.481,
-      "time_to_first_token": 1.823
+      "tokens_per_second": 44.584,
+      "time_to_first_token": 1.761
     },
     "capabilities": {
       "supports_vision": false,
@@ -24340,8 +24505,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 42.878,
-    "time_to_first_token": 1.719,
+    "tokens_per_second": 44.968,
+    "time_to_first_token": 1.762,
     "input_per_1m": 0.78,
     "output_per_1m": 3.9,
     "author": "qwen",
@@ -24365,8 +24530,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 42.878,
-      "time_to_first_token": 1.719
+      "tokens_per_second": 44.968,
+      "time_to_first_token": 1.762
     },
     "capabilities": {
       "supports_vision": false,
@@ -24396,8 +24561,8 @@
     "supports_vision": false,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 166.094,
-    "time_to_first_token": 1.011,
+    "tokens_per_second": 170.471,
+    "time_to_first_token": 1.009,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -24421,8 +24586,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 166.094,
-      "time_to_first_token": 1.011
+      "tokens_per_second": 170.471,
+      "time_to_first_token": 1.009
     },
     "capabilities": {
       "supports_vision": false,
@@ -24508,8 +24673,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 106.902,
-    "time_to_first_token": 1.035,
+    "tokens_per_second": 105.378,
+    "time_to_first_token": 0.89,
     "input_per_1m": 0.9,
     "output_per_1m": 0.9,
     "author": "qwen",
@@ -24533,8 +24698,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 106.902,
-      "time_to_first_token": 1.035
+      "tokens_per_second": 105.378,
+      "time_to_first_token": 0.89
     },
     "capabilities": {
       "supports_vision": true,
@@ -24560,8 +24725,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 53.999,
-    "time_to_first_token": 1.202,
+    "tokens_per_second": 48.121,
+    "time_to_first_token": 1.103,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -24585,8 +24750,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 53.999,
-      "time_to_first_token": 1.202
+      "tokens_per_second": 48.121,
+      "time_to_first_token": 1.103
     },
     "capabilities": {
       "supports_vision": true,
@@ -24674,8 +24839,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 124.613,
-    "time_to_first_token": 1.002,
+    "tokens_per_second": 122.227,
+    "time_to_first_token": 0.989,
     "input_per_1m": 0.13,
     "output_per_1m": 0.52,
     "author": "qwen",
@@ -24699,8 +24864,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 124.613,
-      "time_to_first_token": 1.002
+      "tokens_per_second": 122.227,
+      "time_to_first_token": 0.989
     },
     "capabilities": {
       "supports_vision": true,
@@ -24788,8 +24953,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 83.904,
-    "time_to_first_token": 1.211,
+    "tokens_per_second": 80.668,
+    "time_to_first_token": 1.251,
     "input_per_1m": 0.104,
     "output_per_1m": 0.416,
     "author": "qwen",
@@ -24813,8 +24978,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 83.904,
-      "time_to_first_token": 1.211
+      "tokens_per_second": 80.668,
+      "time_to_first_token": 1.251
     },
     "capabilities": {
       "supports_vision": true,
@@ -24845,8 +25010,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 147.503,
-    "time_to_first_token": 0.983,
+    "tokens_per_second": 144.09,
+    "time_to_first_token": 0.944,
     "input_per_1m": 0.08,
     "output_per_1m": 0.5,
     "author": "qwen",
@@ -24870,8 +25035,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 147.503,
-      "time_to_first_token": 0.983
+      "tokens_per_second": 144.09,
+      "time_to_first_token": 0.944
     },
     "capabilities": {
       "supports_vision": true,
@@ -24959,10 +25124,10 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 258.979,
-    "time_to_first_token": 0.299,
-    "input_per_1m": 0.01,
-    "output_per_1m": 0.05,
+    "tokens_per_second": 277.362,
+    "time_to_first_token": 0.473,
+    "input_per_1m": null,
+    "output_per_1m": null,
     "author": "qwen",
     "model": "qwen3.5-0.8b",
     "description": null,
@@ -24984,8 +25149,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 258.979,
-      "time_to_first_token": 0.299
+      "tokens_per_second": 277.362,
+      "time_to_first_token": 0.473
     },
     "capabilities": {
       "supports_vision": null,
@@ -25011,10 +25176,10 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 148.742,
-    "time_to_first_token": 1.044,
-    "input_per_1m": 0.26,
-    "output_per_1m": 2.08,
+    "tokens_per_second": 147.116,
+    "time_to_first_token": 1.028,
+    "input_per_1m": null,
+    "output_per_1m": null,
     "author": "qwen",
     "model": "qwen3.5-122b-a10b",
     "description": "The Qwen3.5 122B-A10B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency. In terms of overall performance, this model is second only to Qwen3.5-397B-A17B. Its text capabilities significantly outperform those of Qwen3-235B-2507, and its visual capabilities surpass those of Qwen3-VL-235B.",
@@ -25036,8 +25201,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 148.742,
-      "time_to_first_token": 1.044
+      "tokens_per_second": 147.116,
+      "time_to_first_token": 1.028
     },
     "capabilities": {
       "supports_vision": true,
@@ -25069,8 +25234,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 91.841,
-    "time_to_first_token": 1.415,
+    "tokens_per_second": 91.49,
+    "time_to_first_token": 1.392,
     "input_per_1m": 0.195,
     "output_per_1m": 1.56,
     "author": "qwen",
@@ -25094,8 +25259,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 91.841,
-      "time_to_first_token": 1.415
+      "tokens_per_second": 91.49,
+      "time_to_first_token": 1.392
     },
     "capabilities": {
       "supports_vision": true,
@@ -25127,10 +25292,10 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 233.93,
-    "time_to_first_token": 0.26,
-    "input_per_1m": 0.02,
-    "output_per_1m": 0.1,
+    "tokens_per_second": 231.81,
+    "time_to_first_token": 0.501,
+    "input_per_1m": null,
+    "output_per_1m": null,
     "author": "qwen",
     "model": "qwen3.5-2b",
     "description": null,
@@ -25152,8 +25317,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 233.93,
-      "time_to_first_token": 0.26
+      "tokens_per_second": 231.81,
+      "time_to_first_token": 0.501
     },
     "capabilities": {
       "supports_vision": null,
@@ -25179,8 +25344,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 143.848,
-    "time_to_first_token": 1.106,
+    "tokens_per_second": 132.843,
+    "time_to_first_token": 1.091,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "qwen",
@@ -25189,7 +25354,7 @@
     "pricing": {
       "input_per_1m": 0.2,
       "output_per_1m": 1,
-      "cache_read_per_1m": 0.1,
+      "cache_read_per_1m": 0.05,
       "cache_write_per_1m": null
     },
     "pricing_source": "parasail",
@@ -25204,8 +25369,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 143.848,
-      "time_to_first_token": 1.106
+      "tokens_per_second": 132.843,
+      "time_to_first_token": 1.091
     },
     "capabilities": {
       "supports_vision": true,
@@ -25237,8 +25402,8 @@
     "supports_vision": true,
     "supports_reasoning": false,
     "supports_tool_calls": true,
-    "tokens_per_second": 50.327,
-    "time_to_first_token": 1.582,
+    "tokens_per_second": 52.138,
+    "time_to_first_token": 1.44,
     "input_per_1m": 0.39,
     "output_per_1m": 2.34,
     "author": "qwen",
@@ -25262,8 +25427,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 50.327,
-      "time_to_first_token": 1.582
+      "tokens_per_second": 52.138,
+      "time_to_first_token": 1.44
     },
     "capabilities": {
       "supports_vision": true,
@@ -25295,10 +25460,10 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 174.99,
-    "time_to_first_token": 0.292,
-    "input_per_1m": 0.03,
-    "output_per_1m": 0.15,
+    "tokens_per_second": 201.399,
+    "time_to_first_token": 0.46,
+    "input_per_1m": null,
+    "output_per_1m": null,
     "author": "qwen",
     "model": "qwen3.5-4b",
     "description": null,
@@ -25320,8 +25485,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 174.99,
-      "time_to_first_token": 0.292
+      "tokens_per_second": 201.399,
+      "time_to_first_token": 0.46
     },
     "capabilities": {
       "supports_vision": null,
@@ -25349,8 +25514,8 @@
     "supports_tool_calls": true,
     "tokens_per_second": 0,
     "time_to_first_token": 0,
-    "input_per_1m": 0.04,
-    "output_per_1m": 0.2,
+    "input_per_1m": 0.1,
+    "output_per_1m": 0.15,
     "author": "qwen",
     "model": "qwen3.5-9b",
     "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture. It uses a unified vision-language design with early fusion of multimodal tokens, allowing the model to process and reason across text and images within the same context.",
@@ -25517,24 +25682,24 @@
     "slug": "qwen-qwen3.6-35b-a3b",
     "author_name": "Qwen",
     "model_name": "Qwen3.6 35B A3B",
-    "context_length": null,
-    "supports_vision": null,
+    "context_length": 262144,
+    "supports_vision": true,
     "supports_reasoning": null,
     "supports_tool_calls": null,
-    "tokens_per_second": 197.199,
-    "time_to_first_token": 1.438,
-    "input_per_1m": 0.2,
-    "output_per_1m": 1,
+    "tokens_per_second": 187.848,
+    "time_to_first_token": 1.423,
+    "input_per_1m": null,
+    "output_per_1m": null,
     "author": "qwen",
     "model": "qwen3.6-35b-a3b",
-    "description": null,
+    "description": "Qwen3.6-35B-A3B is an open-weight multimodal model from Alibaba Cloud with 35 billion total parameters and 3 billion active parameters per token. It uses a hybrid sparse mixture-of-experts architecture combining Gated...",
     "pricing": {
       "input_per_1m": 0.2,
       "output_per_1m": 1,
-      "cache_read_per_1m": null,
+      "cache_read_per_1m": 0.05,
       "cache_write_per_1m": null
     },
-    "pricing_source": "deepinfra",
+    "pricing_source": "parasail",
     "benchmarks": {
       "intelligence": 31.5,
       "coding": 17.6,
@@ -25546,23 +25711,29 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 197.199,
-      "time_to_first_token": 1.438
+      "tokens_per_second": 187.848,
+      "time_to_first_token": 1.423
     },
     "capabilities": {
-      "supports_vision": null,
+      "supports_vision": true,
       "supports_reasoning": null,
       "supports_tool_calls": null,
       "supports_audio_input": null,
       "supports_audio_output": null,
       "supports_pdf_input": null,
       "supports_web_search": null,
-      "supports_prompt_caching": null,
+      "supports_prompt_caching": true,
       "is_open": true
     },
     "modalities": {
-      "input": [],
-      "output": []
+      "input": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output": [
+        "text"
+      ]
     }
   },
   {
@@ -25573,10 +25744,10 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 43.244,
-    "time_to_first_token": 0.445,
-    "input_per_1m": 0.15,
-    "output_per_1m": 0.58,
+    "tokens_per_second": 0,
+    "time_to_first_token": 0,
+    "input_per_1m": 0.9,
+    "output_per_1m": 0.9,
     "author": "qwen",
     "model": "qwq-32b",
     "description": "QwQ is the reasoning model of the Qwen series. Compared with conventional instruction-tuned models, QwQ, which is capable of thinking and reasoning, can achieve significantly enhanced performance in downstream tasks, especially hard problems. QwQ-32B is the medium-sized reasoning model, which is capable of achieving competitive performance against state-of-the-art reasoning models, e.g., DeepSeek-R1, o1-mini.",
@@ -25598,8 +25769,8 @@
       "math_hard": 91
     },
     "performance": {
-      "tokens_per_second": 43.244,
-      "time_to_first_token": 0.445
+      "tokens_per_second": null,
+      "time_to_first_token": null
     },
     "capabilities": {
       "supports_vision": false,
@@ -26237,8 +26408,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 161.059,
-    "time_to_first_token": 0.866,
+    "tokens_per_second": 123.604,
+    "time_to_first_token": 1.078,
     "input_per_1m": 0.1,
     "output_per_1m": 0.3,
     "author": "stepfun-ai",
@@ -26247,10 +26418,10 @@
     "pricing": {
       "input_per_1m": 0.1,
       "output_per_1m": 0.3,
-      "cache_read_per_1m": null,
+      "cache_read_per_1m": 0.02,
       "cache_write_per_1m": null
     },
-    "pricing_source": "siliconflow",
+    "pricing_source": "parasail",
     "benchmarks": {
       "intelligence": 37.8,
       "coding": 31.6,
@@ -26262,8 +26433,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 161.059,
-      "time_to_first_token": 0.866
+      "tokens_per_second": 123.604,
+      "time_to_first_token": 1.078
     },
     "capabilities": {
       "supports_vision": false,
@@ -27791,15 +27962,15 @@
     "supports_tool_calls": true,
     "tokens_per_second": null,
     "time_to_first_token": null,
-    "input_per_1m": 3,
-    "output_per_1m": 15,
+    "input_per_1m": 5,
+    "output_per_1m": 25,
     "author": "xai",
     "model": "grok-3-beta",
     "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\nExcels in structured tasks and benchmarks like GPQA, LCB, and MMLU-Pro where it outperforms Grok 3 Mini even on high thinking. \n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
     "pricing": {
-      "input_per_1m": 3,
-      "output_per_1m": 15,
-      "cache_read_per_1m": 0.75,
+      "input_per_1m": 5,
+      "output_per_1m": 25,
+      "cache_read_per_1m": 1.25,
       "cache_write_per_1m": null
     },
     "pricing_source": "xai",
@@ -27897,8 +28068,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 215.731,
-    "time_to_first_token": 0.355,
+    "tokens_per_second": 210.154,
+    "time_to_first_token": 0.391,
     "input_per_1m": 0.25,
     "output_per_1m": 1.27,
     "author": "xai",
@@ -27922,8 +28093,8 @@
       "math_hard": 99.2
     },
     "performance": {
-      "tokens_per_second": 215.731,
-      "time_to_first_token": 0.355
+      "tokens_per_second": 210.154,
+      "time_to_first_token": 0.391
     },
     "capabilities": {
       "supports_vision": false,
@@ -28009,8 +28180,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 60.349,
-    "time_to_first_token": 9.499,
+    "tokens_per_second": 55.815,
+    "time_to_first_token": 6.932,
     "input_per_1m": 3,
     "output_per_1m": 15,
     "author": "xai",
@@ -28034,8 +28205,8 @@
       "math_hard": 99
     },
     "performance": {
-      "tokens_per_second": 60.349,
-      "time_to_first_token": 9.499
+      "tokens_per_second": 55.815,
+      "time_to_first_token": 6.932
     },
     "capabilities": {
       "supports_vision": true,
@@ -28066,8 +28237,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 184.237,
-    "time_to_first_token": 0.358,
+    "tokens_per_second": 112.853,
+    "time_to_first_token": 0.368,
     "input_per_1m": 0.2,
     "output_per_1m": 0.5,
     "author": "xai",
@@ -28091,8 +28262,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 184.237,
-      "time_to_first_token": 0.358
+      "tokens_per_second": 112.853,
+      "time_to_first_token": 0.368
     },
     "capabilities": {
       "supports_vision": true,
@@ -28123,8 +28294,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 131.203,
-    "time_to_first_token": 0.402,
+    "tokens_per_second": 125.614,
+    "time_to_first_token": 0.446,
     "input_per_1m": 0.2,
     "output_per_1m": 0.5,
     "author": "xai",
@@ -28148,8 +28319,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 131.203,
-      "time_to_first_token": 0.402
+      "tokens_per_second": 125.614,
+      "time_to_first_token": 0.446
     },
     "capabilities": {
       "supports_vision": true,
@@ -28180,8 +28351,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 166.119,
-    "time_to_first_token": 4.221,
+    "tokens_per_second": 133.753,
+    "time_to_first_token": 4.364,
     "input_per_1m": 0.2,
     "output_per_1m": 1.5,
     "author": "xai",
@@ -28205,8 +28376,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 166.119,
-      "time_to_first_token": 4.221
+      "tokens_per_second": 133.753,
+      "time_to_first_token": 4.364
     },
     "capabilities": {
       "supports_vision": false,
@@ -28236,8 +28407,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 125.039,
-    "time_to_first_token": 1.446,
+    "tokens_per_second": 118.383,
+    "time_to_first_token": 1.603,
     "input_per_1m": 0.09,
     "output_per_1m": 0.29,
     "author": "xiaomi",
@@ -28261,8 +28432,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 125.039,
-      "time_to_first_token": 1.446
+      "tokens_per_second": 118.383,
+      "time_to_first_token": 1.603
     },
     "capabilities": {
       "supports_vision": false,
@@ -28396,6 +28567,114 @@
     }
   },
   {
+    "slug": "xiaomi-mimo-v2.5",
+    "author_name": "Xiaomi",
+    "model_name": "MiMo v2.5",
+    "context_length": null,
+    "supports_vision": null,
+    "supports_reasoning": null,
+    "supports_tool_calls": null,
+    "tokens_per_second": null,
+    "time_to_first_token": null,
+    "input_per_1m": 0.4,
+    "output_per_1m": 2,
+    "author": "xiaomi",
+    "model": "mimo-v2.5",
+    "description": null,
+    "pricing": {
+      "input_per_1m": 0.4,
+      "output_per_1m": 2,
+      "cache_read_per_1m": 0.08,
+      "cache_write_per_1m": null
+    },
+    "pricing_source": "xiaomi",
+    "benchmarks": {
+      "intelligence": null,
+      "coding": null,
+      "math": null,
+      "mmlu_pro": null,
+      "gpqa": null,
+      "livecodebench": null,
+      "aider": null,
+      "math_hard": null
+    },
+    "performance": {
+      "tokens_per_second": null,
+      "time_to_first_token": null
+    },
+    "capabilities": {
+      "supports_vision": null,
+      "supports_reasoning": null,
+      "supports_tool_calls": null,
+      "supports_audio_input": null,
+      "supports_audio_output": null,
+      "supports_pdf_input": null,
+      "supports_web_search": null,
+      "supports_prompt_caching": null,
+      "is_open": null
+    },
+    "modalities": {
+      "input": [],
+      "output": []
+    }
+  },
+  {
+    "slug": "xiaomi-mimo-v2.5-pro",
+    "author_name": "Xiaomi",
+    "model_name": "MiMo v2.5 Pro",
+    "context_length": 1048576,
+    "supports_vision": null,
+    "supports_reasoning": null,
+    "supports_tool_calls": true,
+    "tokens_per_second": 64.555,
+    "time_to_first_token": 1.873,
+    "input_per_1m": 1,
+    "output_per_1m": 3,
+    "author": "xiaomi",
+    "model": "mimo-v2.5-pro",
+    "description": "MiMo-V2.5-Pro is Xiaomi’s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
+    "pricing": {
+      "input_per_1m": 1,
+      "output_per_1m": 3,
+      "cache_read_per_1m": 0.2,
+      "cache_write_per_1m": null
+    },
+    "pricing_source": "xiaomi",
+    "benchmarks": {
+      "intelligence": 53.8,
+      "coding": 45.5,
+      "math": null,
+      "mmlu_pro": null,
+      "gpqa": 86.6,
+      "livecodebench": null,
+      "aider": null,
+      "math_hard": null
+    },
+    "performance": {
+      "tokens_per_second": 64.555,
+      "time_to_first_token": 1.873
+    },
+    "capabilities": {
+      "supports_vision": null,
+      "supports_reasoning": null,
+      "supports_tool_calls": true,
+      "supports_audio_input": null,
+      "supports_audio_output": null,
+      "supports_pdf_input": null,
+      "supports_web_search": null,
+      "supports_prompt_caching": true,
+      "is_open": false
+    },
+    "modalities": {
+      "input": [
+        "text"
+      ],
+      "output": [
+        "text"
+      ]
+    }
+  },
+  {
     "slug": "z-ai-glm-4-32b",
     "author_name": "Z-ai",
     "model_name": "GLM 4 32B",
@@ -28515,8 +28794,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 40.378,
-    "time_to_first_token": 1.26,
+    "tokens_per_second": 72.307,
+    "time_to_first_token": 1.4,
     "input_per_1m": 0.13,
     "output_per_1m": 0.85,
     "author": "z-ai",
@@ -28540,8 +28819,8 @@
       "math_hard": 96.5
     },
     "performance": {
-      "tokens_per_second": 40.378,
-      "time_to_first_token": 1.26
+      "tokens_per_second": 72.307,
+      "time_to_first_token": 1.4
     },
     "capabilities": {
       "supports_vision": false,
@@ -28571,8 +28850,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 39.739,
-    "time_to_first_token": 35.352,
+    "tokens_per_second": 41.239,
+    "time_to_first_token": 32.156,
     "input_per_1m": null,
     "output_per_1m": null,
     "author": "z-ai",
@@ -28596,8 +28875,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 39.739,
-      "time_to_first_token": 35.352
+      "tokens_per_second": 41.239,
+      "time_to_first_token": 32.156
     },
     "capabilities": {
       "supports_vision": true,
@@ -28628,8 +28907,8 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 45.001,
-    "time_to_first_token": 0.989,
+    "tokens_per_second": 32.808,
+    "time_to_first_token": 1.107,
     "input_per_1m": 0.39,
     "output_per_1m": 1.9,
     "author": "z-ai",
@@ -28653,8 +28932,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 45.001,
-      "time_to_first_token": 0.989
+      "tokens_per_second": 32.808,
+      "time_to_first_token": 1.107
     },
     "capabilities": {
       "supports_vision": false,
@@ -28684,8 +28963,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 23.088,
-    "time_to_first_token": 3.467,
+    "tokens_per_second": 29.655,
+    "time_to_first_token": 5.07,
     "input_per_1m": 0.3,
     "output_per_1m": 0.9,
     "author": "z-ai",
@@ -28709,8 +28988,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 23.088,
-      "time_to_first_token": 3.467
+      "tokens_per_second": 29.655,
+      "time_to_first_token": 5.07
     },
     "capabilities": {
       "supports_vision": true,
@@ -28742,9 +29021,9 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 101.852,
-    "time_to_first_token": 0.667,
-    "input_per_1m": 0.39,
+    "tokens_per_second": 69.494,
+    "time_to_first_token": 0.885,
+    "input_per_1m": 0.4,
     "output_per_1m": 1.75,
     "author": "z-ai",
     "model": "glm-4.7",
@@ -28767,8 +29046,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 101.852,
-      "time_to_first_token": 0.667
+      "tokens_per_second": 69.494,
+      "time_to_first_token": 0.885
     },
     "capabilities": {
       "supports_vision": false,
@@ -28798,8 +29077,8 @@
     "supports_vision": true,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 95.775,
-    "time_to_first_token": 0.896,
+    "tokens_per_second": 105.639,
+    "time_to_first_token": 1.344,
     "input_per_1m": 0.06,
     "output_per_1m": 0.4,
     "author": "z-ai",
@@ -28823,8 +29102,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 95.775,
-      "time_to_first_token": 0.896
+      "tokens_per_second": 105.639,
+      "time_to_first_token": 1.344
     },
     "capabilities": {
       "supports_vision": true,
@@ -28854,9 +29133,9 @@
     "supports_vision": false,
     "supports_reasoning": true,
     "supports_tool_calls": true,
-    "tokens_per_second": 51.693,
-    "time_to_first_token": 1.429,
-    "input_per_1m": 0.65,
+    "tokens_per_second": 58.705,
+    "time_to_first_token": 1.539,
+    "input_per_1m": 0.6,
     "output_per_1m": 2.08,
     "author": "z-ai",
     "model": "glm-5",
@@ -28879,8 +29158,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 51.693,
-      "time_to_first_token": 1.429
+      "tokens_per_second": 58.705,
+      "time_to_first_token": 1.539
     },
     "capabilities": {
       "supports_vision": false,
@@ -29018,8 +29297,8 @@
     "supports_vision": null,
     "supports_reasoning": null,
     "supports_tool_calls": true,
-    "tokens_per_second": 42.819,
-    "time_to_first_token": 2.327,
+    "tokens_per_second": 45.33,
+    "time_to_first_token": 1.114,
     "input_per_1m": 1.05,
     "output_per_1m": 3.5,
     "author": "z-ai",
@@ -29043,8 +29322,8 @@
       "math_hard": null
     },
     "performance": {
-      "tokens_per_second": 42.819,
-      "time_to_first_token": 2.327
+      "tokens_per_second": 45.33,
+      "time_to_first_token": 1.114
     },
     "capabilities": {
       "supports_vision": null,

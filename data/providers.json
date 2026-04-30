@@ -10,19 +10,19 @@
     "model_count": 52
   },
   {
-    "author": "meta-llama",
-    "author_name": "Meta-llama",
-    "model_count": 42
-  },
-  {
     "author": "mistral-ai",
     "author_name": "Mistral AI",
     "model_count": 42
   },
   {
+    "author": "meta-llama",
+    "author_name": "Meta-llama",
+    "model_count": 42
+  },
+  {
     "author": "google",
     "author_name": "Google",
-    "model_count": 39
+    "model_count": 40
   },
   {
     "author": "deepseek",
@@ -55,8 +55,8 @@
     "model_count": 10
   },
   {
-    "author": "nvidia",
-    "author_name": "Nvidia",
+    "author": "allenai",
+    "author_name": "Allenai",
     "model_count": 9
   },
   {
@@ -65,13 +65,13 @@
     "model_count": 9
   },
   {
-    "author": "allenai",
-    "author_name": "Allenai",
+    "author": "nvidia",
+    "author_name": "Nvidia",
     "model_count": 9
   },
   {
-    "author": "arcee-ai",
-    "author_name": "Arcee AI",
+    "author": "microsoft",
+    "author_name": "Microsoft",
     "model_count": 7
   },
   {
@@ -80,8 +80,13 @@
     "model_count": 7
   },
   {
-    "author": "microsoft",
-    "author_name": "Microsoft",
+    "author": "moonshotai",
+    "author_name": "Moonshotai",
+    "model_count": 7
+  },
+  {
+    "author": "arcee-ai",
+    "author_name": "Arcee AI",
     "model_count": 7
   },
   {
@@ -95,13 +100,8 @@
     "model_count": 6
   },
   {
-    "author": "moonshotai",
-    "author_name": "Moonshotai",
-    "model_count": 6
-  },
-  {
-    "author": "baidu",
-    "author_name": "Baidu",
+    "author": "sao10k",
+    "author_name": "Sao10k",
     "model_count": 5
   },
   {
@@ -110,13 +110,18 @@
     "model_count": 5
   },
   {
-    "author": "sao10k",
-    "author_name": "Sao10k",
+    "author": "baidu",
+    "author_name": "Baidu",
     "model_count": 5
   },
   {
     "author": "ai21",
     "author_name": "Ai21",
+    "model_count": 5
+  },
+  {
+    "author": "xiaomi",
+    "author_name": "Xiaomi",
     "model_count": 5
   },
   {
@@ -145,16 +150,6 @@
     "model_count": 3
   },
   {
-    "author": "opengvlab",
-    "author_name": "Opengvlab",
-    "model_count": 3
-  },
-  {
-    "author": "xiaomi",
-    "author_name": "Xiaomi",
-    "model_count": 3
-  },
-  {
     "author": "vercel",
     "author_name": "Vercel",
     "model_count": 3
@@ -163,6 +158,16 @@
     "author": "inception",
     "author_name": "Inception",
     "model_count": 3
+  },
+  {
+    "author": "opengvlab",
+    "author_name": "Opengvlab",
+    "model_count": 3
+  },
+  {
+    "author": "morph",
+    "author_name": "Morph",
+    "model_count": 2
   },
   {
     "author": "inflection",
@@ -190,11 +195,6 @@
     "model_count": 2
   },
   {
-    "author": "cognitivecomputations",
-    "author_name": "Cognitive Computations",
-    "model_count": 2
-  },
-  {
     "author": "x-ai",
     "author_name": "X Ai",
     "model_count": 2
@@ -205,13 +205,13 @@
     "model_count": 2
   },
   {
-    "author": "stepfun-ai",
-    "author_name": "Stepfun-ai",
+    "author": "cognitivecomputations",
+    "author_name": "Cognitive Computations",
     "model_count": 2
   },
   {
-    "author": "morph",
-    "author_name": "Morph",
+    "author": "stepfun-ai",
+    "author_name": "Stepfun-ai",
     "model_count": 2
   },
   {
@@ -307,6 +307,11 @@
   {
     "author": "writer",
     "author_name": "Writer",
+    "model_count": 1
+  },
+  {
+    "author": "inclusionai",
+    "author_name": "Inclusionai",
     "model_count": 1
   },
   {

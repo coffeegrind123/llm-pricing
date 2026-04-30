@@ -1916,6 +1916,15 @@
       ]
     }
   },
+  "google-gemma-4-e4b-it": {
+    "model": "Gemma 4 E4B IT",
+    "author": "Google",
+    "provider_slugs": {
+      "together": [
+        "google/gemma-4-E4B-it"
+      ]
+    }
+  },
   "google-gemma-7b": {
     "model": "Gemma 7B",
     "author": "Google",
@@ -2021,6 +2030,16 @@
     "provider_slugs": {
       "openrouter": [
         "inception/mercury-coder"
+      ]
+    }
+  },
+  "inclusionai-ling-2.6-flash": {
+    "model": "Ling 2.6 Flash",
+    "author": "Inclusionai",
+    "provider_slugs": {
+      "openrouter": [
+        "inclusionai/ling-2.6-flash:free",
+        "inclusionai/ling-2.6-flash"
       ]
     }
   },
@@ -3634,6 +3653,24 @@
     "provider_slugs": {
       "deepinfra": [
         "moonshotai/Kimi-K2.5-Turbo"
+      ]
+    }
+  },
+  "moonshotai-kimi-k2.6": {
+    "model": "Kimi K2.6",
+    "author": "Moonshotai",
+    "provider_slugs": {
+      "openrouter": [
+        "moonshotai/kimi-k2.6"
+      ],
+      "fireworks": [
+        "accounts/fireworks/models/kimi-k2p6"
+      ],
+      "together": [
+        "moonshotai/Kimi-K2.6"
+      ],
+      "deepinfra": [
+        "moonshotai/Kimi-K2.6"
       ]
     }
   },
@@ -6655,6 +6692,28 @@
     "other_matches": [
       "Xiaomi MiMo v2.5 Pro"
     ]
+  },
+  "xiaomi-mimo-v2.5": {
+    "model": "MiMo v2.5",
+    "author": "Xiaomi",
+    "provider_slugs": {
+      "openrouter": [
+        "xiaomi/mimo-v2.5"
+      ]
+    },
+    "other_matches": [
+      "Xiaomi MiMo v2.5 Pro",
+      "Xiaomi MiMo-V2.5 (creator_name=Xiaomi)"
+    ]
+  },
+  "xiaomi-mimo-v2.5-pro": {
+    "model": "MiMo v2.5 Pro",
+    "author": "Xiaomi",
+    "provider_slugs": {
+      "openrouter": [
+        "xiaomi/mimo-v2.5-pro"
+      ]
+    }
   },
   "z-ai-glm-4-32b": {
     "model": "GLM 4 32B",

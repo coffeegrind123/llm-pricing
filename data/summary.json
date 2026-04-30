@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-29T08:14:44.234Z",
+  "fetched_at": "2026-04-30T08:20:42.835Z",
   "source": "https://api.pricepertoken.com/mcp/mcp",
-  "model_count": 533,
-  "priced_model_count": 480,
-  "provider_count": 72,
+  "model_count": 538,
+  "priced_model_count": 484,
+  "provider_count": 73,
   "coding_benchmark_top5": [
     {
       "name": "Gemini 3.1 Pro Preview",
@@ -11,14 +11,14 @@
       "author": "Google"
     },
     {
-      "name": "Claude Opus 4.7",
-      "score": 53.1,
-      "author": "Anthropic"
-    },
-    {
       "name": "GPT-5.3 Codex",
       "score": 53.1,
       "author": "OpenAI"
+    },
+    {
+      "name": "Claude Opus 4.7",
+      "score": 53.1,
+      "author": "Anthropic"
     },
     {
       "name": "GPT-5.2 Pro",
@@ -113,5 +113,5 @@
       "context_length": 60000
     }
   ],
-  "provider_slug_match_count": 532
+  "provider_slug_match_count": 537
 }
