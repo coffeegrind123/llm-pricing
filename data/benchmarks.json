@@ -56,17 +56,6 @@
       "benchmark_mmlu_pro": null
     },
     {
-      "slug": "moonshotai-kimi-k2.6",
-      "author_name": "Moonshotai",
-      "model_name": "Kimi K2.6",
-      "benchmark_coding": 47.1,
-      "benchmark_intelligence": 53.9,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
       "slug": "google-gemini-2.5-pro-preview",
       "author_name": "Google",
       "model_name": "Gemini 2.5 Pro Preview 06-05",
@@ -83,17 +72,6 @@
       "model_name": "KAT Coder Pro V2",
       "benchmark_coding": 45.6,
       "benchmark_intelligence": 43.8,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
-      "slug": "xiaomi-mimo-v2.5-pro",
-      "author_name": "Xiaomi",
-      "model_name": "MiMo v2.5 Pro",
-      "benchmark_coding": 45.5,
-      "benchmark_intelligence": 53.8,
       "benchmark_math": null,
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
@@ -232,6 +210,17 @@
       "benchmark_mmlu_pro": 85.3
     },
     {
+      "slug": "moonshotai-kimi-k2.6",
+      "author_name": "Moonshotai",
+      "model_name": "Kimi K2.6",
+      "benchmark_coding": 38.4,
+      "benchmark_intelligence": 43,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
+    },
+    {
       "slug": "deepseek-deepseek-v3.2-speciale",
       "author_name": "Deepseek",
       "model_name": "DeepSeek V3.2 Speciale",
@@ -270,6 +259,17 @@
       "model_name": "Qwen3.5 397B A17B",
       "benchmark_coding": 37.4,
       "benchmark_intelligence": 40.1,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
+    },
+    {
+      "slug": "xiaomi-mimo-v2.5-pro",
+      "author_name": "Xiaomi",
+      "model_name": "MiMo v2.5 Pro",
+      "benchmark_coding": 36.8,
+      "benchmark_intelligence": 35.6,
       "benchmark_math": null,
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
@@ -441,22 +441,22 @@
       "benchmark_mmlu_pro": 86.2
     },
     {
-      "slug": "qwen-qwen3.5-122b-a10b",
-      "author_name": "Qwen",
-      "model_name": "Qwen3.5-122B-A10B",
+      "slug": "stepfun-step-3.5-flash",
+      "author_name": "Stepfun-ai",
+      "model_name": "Step 3.5 Flash",
       "benchmark_coding": 31.6,
-      "benchmark_intelligence": 35.9,
+      "benchmark_intelligence": 37.8,
       "benchmark_math": null,
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
       "benchmark_mmlu_pro": null
     },
     {
-      "slug": "stepfun-step-3.5-flash",
-      "author_name": "Stepfun-ai",
-      "model_name": "Step 3.5 Flash",
+      "slug": "qwen-qwen3.5-122b-a10b",
+      "author_name": "Qwen",
+      "model_name": "Qwen3.5-122B-A10B",
       "benchmark_coding": 31.6,
-      "benchmark_intelligence": 37.8,
+      "benchmark_intelligence": 35.9,
       "benchmark_math": null,
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
@@ -793,17 +793,6 @@
       "benchmark_mmlu_pro": null
     },
     {
-      "slug": "google-gemini-2.5-flash-preview-09-2025",
-      "author_name": "Google",
-      "model_name": "Gemini 2.5 Flash Preview 09-2025",
-      "benchmark_coding": 22.1,
-      "benchmark_intelligence": 25.7,
-      "benchmark_math": 56.7,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 62.5,
-      "benchmark_mmlu_pro": 83.6
-    },
-    {
       "slug": "qwen-qwen3-235b-a22b-2507",
       "author_name": "Qwen",
       "model_name": "Qwen3 235B A22B Instruct 2507",
@@ -813,6 +802,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 52.4,
       "benchmark_mmlu_pro": 82.8
+    },
+    {
+      "slug": "google-gemini-2.5-flash-preview-09-2025",
+      "author_name": "Google",
+      "model_name": "Gemini 2.5 Flash Preview 09-2025",
+      "benchmark_coding": 22.1,
+      "benchmark_intelligence": 25.7,
+      "benchmark_math": 56.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 62.5,
+      "benchmark_mmlu_pro": 83.6
     },
     {
       "slug": "moonshotai-kimi-k2",
@@ -881,17 +881,6 @@
       "benchmark_mmlu_pro": 84.1
     },
     {
-      "slug": "xai-grok-4.1-fast",
-      "author_name": "Xai",
-      "model_name": "Grok 4.1 Fast",
-      "benchmark_coding": 19.5,
-      "benchmark_intelligence": 23.6,
-      "benchmark_math": 34.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 39.9,
-      "benchmark_mmlu_pro": 74.3
-    },
-    {
       "slug": "anthropic-claude-3-opus",
       "author_name": "Anthropic",
       "model_name": "Claude 3 Opus",
@@ -901,6 +890,17 @@
       "benchmark_aider": 68.4,
       "benchmark_livecodebench": 27.9,
       "benchmark_mmlu_pro": 69.6
+    },
+    {
+      "slug": "xai-grok-4.1-fast",
+      "author_name": "Xai",
+      "model_name": "Grok 4.1 Fast",
+      "benchmark_coding": 19.5,
+      "benchmark_intelligence": 23.6,
+      "benchmark_math": 34.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 39.9,
+      "benchmark_mmlu_pro": 74.3
     },
     {
       "slug": "qwen-qwen3-coder-30b-a3b-instruct",
@@ -1068,17 +1068,6 @@
       "benchmark_mmlu_pro": 75.3
     },
     {
-      "slug": "deepseek-deepseek-r1",
-      "author_name": "Deepseek",
-      "model_name": "R1",
-      "benchmark_coding": 15.9,
-      "benchmark_intelligence": 18.8,
-      "benchmark_math": 68,
-      "benchmark_aider": 64,
-      "benchmark_livecodebench": 61.7,
-      "benchmark_mmlu_pro": 84.4
-    },
-    {
       "slug": "mistral-ai-devstral-medium",
       "author_name": "Mistral AI",
       "model_name": "Devstral Medium",
@@ -1088,6 +1077,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 33.7,
       "benchmark_mmlu_pro": 70.8
+    },
+    {
+      "slug": "deepseek-deepseek-r1",
+      "author_name": "Deepseek",
+      "model_name": "R1",
+      "benchmark_coding": 15.9,
+      "benchmark_intelligence": 18.8,
+      "benchmark_math": 68,
+      "benchmark_aider": 64,
+      "benchmark_livecodebench": 61.7,
+      "benchmark_mmlu_pro": 84.4
     },
     {
       "slug": "nvidia-nemotron-3-nano-30b-a3b",
@@ -1101,17 +1101,6 @@
       "benchmark_mmlu_pro": 57.9
     },
     {
-      "slug": "qwen-qwen3-vl-32b-instruct",
-      "author_name": "Qwen",
-      "model_name": "Qwen3 VL 32B Instruct",
-      "benchmark_coding": 15.6,
-      "benchmark_intelligence": 17.2,
-      "benchmark_math": 68.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 51.4,
-      "benchmark_mmlu_pro": 79.1
-    },
-    {
       "slug": "meta-llama-llama-4-maverick",
       "author_name": "Meta-llama",
       "model_name": "Llama 4 Maverick",
@@ -1121,6 +1110,17 @@
       "benchmark_aider": 15.6,
       "benchmark_livecodebench": 39.7,
       "benchmark_mmlu_pro": 80.9
+    },
+    {
+      "slug": "qwen-qwen3-vl-32b-instruct",
+      "author_name": "Qwen",
+      "model_name": "Qwen3 VL 32B Instruct",
+      "benchmark_coding": 15.6,
+      "benchmark_intelligence": 17.2,
+      "benchmark_math": 68.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 51.4,
+      "benchmark_mmlu_pro": 79.1
     },
     {
       "slug": "openai-gpt-oss-120b",
@@ -1145,17 +1145,6 @@
       "benchmark_mmlu_pro": 81.9
     },
     {
-      "slug": "meta-llama-llama-3.1-405b-instruct",
-      "author_name": "Meta-llama",
-      "model_name": "Llama 3.1 405B Instruct",
-      "benchmark_coding": 14.5,
-      "benchmark_intelligence": 17.4,
-      "benchmark_math": 3,
-      "benchmark_aider": 66.2,
-      "benchmark_livecodebench": 30.5,
-      "benchmark_mmlu_pro": 73.2
-    },
-    {
       "slug": "google-gemini-2.5-flash-lite-preview-09-2025",
       "author_name": "Google",
       "model_name": "Gemini 2.5 Flash Lite Preview 09-2025",
@@ -1165,6 +1154,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 64.1,
       "benchmark_mmlu_pro": 79.6
+    },
+    {
+      "slug": "meta-llama-llama-3.1-405b-instruct",
+      "author_name": "Meta-llama",
+      "model_name": "Llama 3.1 405B Instruct",
+      "benchmark_coding": 14.5,
+      "benchmark_intelligence": 17.4,
+      "benchmark_math": 3,
+      "benchmark_aider": 66.2,
+      "benchmark_livecodebench": 30.5,
+      "benchmark_mmlu_pro": 73.2
     },
     {
       "slug": "baidu-ernie-4.5-300b-a47b",
@@ -1310,17 +1310,6 @@
       "benchmark_mmlu_pro": 76
     },
     {
-      "slug": "qwen-qwen3-30b-a3b",
-      "author_name": "Qwen",
-      "model_name": "Qwen3 30B A3B",
-      "benchmark_coding": 13.3,
-      "benchmark_intelligence": 12.5,
-      "benchmark_math": 21.7,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 32.2,
-      "benchmark_mmlu_pro": 71
-    },
-    {
       "slug": "mistral-ai-mistral-small-3.2-24b-instruct",
       "author_name": "Mistral AI",
       "model_name": "Mistral Small 3.2 24B",
@@ -1330,6 +1319,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 27.5,
       "benchmark_mmlu_pro": 68.1
+    },
+    {
+      "slug": "qwen-qwen3-30b-a3b",
+      "author_name": "Qwen",
+      "model_name": "Qwen3 30B A3B",
+      "benchmark_coding": 13.3,
+      "benchmark_intelligence": 12.5,
+      "benchmark_math": 21.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 32.2,
+      "benchmark_mmlu_pro": 71
     },
     {
       "slug": "openai-gpt-4",
@@ -1420,17 +1420,6 @@
       "benchmark_mmlu_pro": 79.5
     },
     {
-      "slug": "openai-gpt-4.1-nano",
-      "author_name": "OpenAI",
-      "model_name": "GPT-4.1 Nano",
-      "benchmark_coding": 11.2,
-      "benchmark_intelligence": 13,
-      "benchmark_math": 24,
-      "benchmark_aider": 8.9,
-      "benchmark_livecodebench": 32.6,
-      "benchmark_mmlu_pro": 65.7
-    },
-    {
       "slug": "microsoft-phi-4",
       "author_name": "Microsoft",
       "model_name": "Phi 4",
@@ -1440,6 +1429,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 23.1,
       "benchmark_mmlu_pro": 71.4
+    },
+    {
+      "slug": "openai-gpt-4.1-nano",
+      "author_name": "OpenAI",
+      "model_name": "GPT-4.1 Nano",
+      "benchmark_coding": 11.2,
+      "benchmark_intelligence": 13,
+      "benchmark_math": 24,
+      "benchmark_aider": 8.9,
+      "benchmark_livecodebench": 32.6,
+      "benchmark_mmlu_pro": 65.7
     },
     {
       "slug": "z-ai-glm-4.6v",
@@ -1453,17 +1453,6 @@
       "benchmark_mmlu_pro": 75.2
     },
     {
-      "slug": "amazon-nova-pro-v1",
-      "author_name": "Amazon",
-      "model_name": "Nova Pro 1.0",
-      "benchmark_coding": 11,
-      "benchmark_intelligence": 13.5,
-      "benchmark_math": 7,
-      "benchmark_aider": 54.1,
-      "benchmark_livecodebench": 23.3,
-      "benchmark_mmlu_pro": 69.1
-    },
-    {
       "slug": "z-ai-glm-4.7-flash",
       "author_name": "Z-ai",
       "model_name": "GLM-4.7-Flash",
@@ -1473,6 +1462,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
       "benchmark_mmlu_pro": null
+    },
+    {
+      "slug": "amazon-nova-pro-v1",
+      "author_name": "Amazon",
+      "model_name": "Nova Pro 1.0",
+      "benchmark_coding": 11,
+      "benchmark_intelligence": 13.5,
+      "benchmark_math": 7,
+      "benchmark_aider": 54.1,
+      "benchmark_livecodebench": 23.3,
+      "benchmark_mmlu_pro": 69.1
     },
     {
       "slug": "mistral-ai-ministral-14b-2512",
@@ -1519,6 +1519,17 @@
       "benchmark_mmlu_pro": 75.1
     },
     {
+      "slug": "meta-llama-llama-3.3-70b-instruct",
+      "author_name": "Meta-llama",
+      "model_name": "Llama 3.3 70B Instruct",
+      "benchmark_coding": 10.7,
+      "benchmark_intelligence": 14.5,
+      "benchmark_math": 7.7,
+      "benchmark_aider": 59.4,
+      "benchmark_livecodebench": 28.8,
+      "benchmark_mmlu_pro": 71.3
+    },
+    {
       "slug": "anthropic-claude-3.5-haiku",
       "author_name": "Anthropic",
       "model_name": "Claude 3.5 Haiku",
@@ -1539,17 +1550,6 @@
       "benchmark_aider": 57.9,
       "benchmark_livecodebench": null,
       "benchmark_mmlu_pro": 46.2
-    },
-    {
-      "slug": "meta-llama-llama-3.3-70b-instruct",
-      "author_name": "Meta-llama",
-      "model_name": "Llama 3.3 70B Instruct",
-      "benchmark_coding": 10.7,
-      "benchmark_intelligence": 14.5,
-      "benchmark_math": 7.7,
-      "benchmark_aider": 59.4,
-      "benchmark_livecodebench": 28.8,
-      "benchmark_mmlu_pro": 71.3
     },
     {
       "slug": "allenai-olmo-3-32b-think",
@@ -1629,17 +1629,6 @@
       "benchmark_mmlu_pro": 57.7
     },
     {
-      "slug": "deepseek-deepseek-r1-0528-qwen3-8b",
-      "author_name": "Deepseek",
-      "model_name": "DeepSeek R1 0528 Qwen3 8B",
-      "benchmark_coding": 7.8,
-      "benchmark_intelligence": 16.4,
-      "benchmark_math": 63.7,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 51.3,
-      "benchmark_mmlu_pro": 73.9
-    },
-    {
       "slug": "anthropic-claude-instant",
       "author_name": "Anthropic",
       "model_name": "Claude Instant",
@@ -1649,6 +1638,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 10.9,
       "benchmark_mmlu_pro": 43.4
+    },
+    {
+      "slug": "deepseek-deepseek-r1-0528-qwen3-8b",
+      "author_name": "Deepseek",
+      "model_name": "DeepSeek R1 0528 Qwen3 8B",
+      "benchmark_coding": 7.8,
+      "benchmark_intelligence": 16.4,
+      "benchmark_math": 63.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 51.3,
+      "benchmark_mmlu_pro": 73.9
     },
     {
       "slug": "allenai-olmo-3-7b-think",
@@ -1959,17 +1959,6 @@
       "benchmark_mmlu_pro": 51.1
     },
     {
-      "slug": "qwen-qwen3-1.7b",
-      "author_name": "Qwen",
-      "model_name": "Qwen3 1.7B",
-      "benchmark_coding": 2.3,
-      "benchmark_intelligence": 6.8,
-      "benchmark_math": 7.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 12.6,
-      "benchmark_mmlu_pro": 41.1
-    },
-    {
       "slug": "liquid-lfm2-8b-a1b",
       "author_name": "Liquid",
       "model_name": "LiquidAI/LFM2-8B-A1B",
@@ -1979,6 +1968,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 15.1,
       "benchmark_mmlu_pro": 50.5
+    },
+    {
+      "slug": "qwen-qwen3-1.7b",
+      "author_name": "Qwen",
+      "model_name": "Qwen3 1.7B",
+      "benchmark_coding": 2.3,
+      "benchmark_intelligence": 6.8,
+      "benchmark_math": 7.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 12.6,
+      "benchmark_mmlu_pro": 41.1
     },
     {
       "slug": "qwen-qwen3.5-0.8b",
@@ -3514,28 +3514,6 @@
       "benchmark_mmlu_pro": null
     },
     {
-      "slug": "moonshotai-kimi-k2.6",
-      "author_name": "Moonshotai",
-      "model_name": "Kimi K2.6",
-      "benchmark_coding": 47.1,
-      "benchmark_intelligence": 53.9,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
-      "slug": "xiaomi-mimo-v2.5-pro",
-      "author_name": "Xiaomi",
-      "model_name": "MiMo v2.5 Pro",
-      "benchmark_coding": 45.5,
-      "benchmark_intelligence": 53.8,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
       "slug": "openai-gpt-5.3-codex",
       "author_name": "OpenAI",
       "model_name": "GPT-5.3 Codex",
@@ -3688,6 +3666,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 73.8,
       "benchmark_mmlu_pro": 88.9
+    },
+    {
+      "slug": "moonshotai-kimi-k2.6",
+      "author_name": "Moonshotai",
+      "model_name": "Kimi K2.6",
+      "benchmark_coding": 38.4,
+      "benchmark_intelligence": 43,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
     },
     {
       "slug": "z-ai-glm-5v-turbo",
@@ -3910,17 +3899,6 @@
       "benchmark_mmlu_pro": null
     },
     {
-      "slug": "nvidia-nvidia-nemotron-3-super-120b-a12b",
-      "author_name": "Nvidia",
-      "model_name": "Nemotron-3 Super 120B A12B",
-      "benchmark_coding": 31.2,
-      "benchmark_intelligence": 36,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
       "slug": "kwaipilot-kat-coder-pro",
       "author_name": "Kwaipilot",
       "model_name": "KAT-Coder-Pro V1",
@@ -3932,11 +3910,33 @@
       "benchmark_mmlu_pro": 81.3
     },
     {
+      "slug": "nvidia-nvidia-nemotron-3-super-120b-a12b",
+      "author_name": "Nvidia",
+      "model_name": "Nemotron-3 Super 120B A12B",
+      "benchmark_coding": 31.2,
+      "benchmark_intelligence": 36,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
+    },
+    {
       "slug": "qwen-qwen3.5-122b-a10b",
       "author_name": "Qwen",
       "model_name": "Qwen3.5-122B-A10B",
       "benchmark_coding": 31.6,
       "benchmark_intelligence": 35.9,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
+    },
+    {
+      "slug": "xiaomi-mimo-v2.5-pro",
+      "author_name": "Xiaomi",
+      "model_name": "MiMo v2.5 Pro",
+      "benchmark_coding": 36.8,
+      "benchmark_intelligence": 35.6,
       "benchmark_math": null,
       "benchmark_aider": null,
       "benchmark_livecodebench": null,
@@ -4108,17 +4108,6 @@
       "benchmark_mmlu_pro": 82.4
     },
     {
-      "slug": "deepseek-deepseek-v3.2",
-      "author_name": "Deepseek",
-      "model_name": "DeepSeek V3.2",
-      "benchmark_coding": 34.6,
-      "benchmark_intelligence": 32.1,
-      "benchmark_math": 59,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 59.3,
-      "benchmark_mmlu_pro": 83.7
-    },
-    {
       "slug": "xai-grok-3-mini",
       "author_name": "Xai",
       "model_name": "Grok 3 Mini",
@@ -4128,6 +4117,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 69.6,
       "benchmark_mmlu_pro": 82.8
+    },
+    {
+      "slug": "deepseek-deepseek-v3.2",
+      "author_name": "Deepseek",
+      "model_name": "DeepSeek V3.2",
+      "benchmark_coding": 34.6,
+      "benchmark_intelligence": 32.1,
+      "benchmark_math": 59,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 59.3,
+      "benchmark_mmlu_pro": 83.7
     },
     {
       "slug": "google-gemma-2-9b-it",
@@ -4185,17 +4185,6 @@
       "benchmark_mmlu_pro": 81.9
     },
     {
-      "slug": "anthropic-claude-3.7-sonnet",
-      "author_name": "Anthropic",
-      "model_name": "Claude 3.7 Sonnet",
-      "benchmark_coding": 26.7,
-      "benchmark_intelligence": 30.8,
-      "benchmark_math": 21,
-      "benchmark_aider": 64.9,
-      "benchmark_livecodebench": 39.4,
-      "benchmark_mmlu_pro": 80.3
-    },
-    {
       "slug": "openai-o1",
       "author_name": "OpenAI",
       "model_name": "o1",
@@ -4205,6 +4194,17 @@
       "benchmark_aider": 84.2,
       "benchmark_livecodebench": 67.9,
       "benchmark_mmlu_pro": 84.1
+    },
+    {
+      "slug": "anthropic-claude-3.7-sonnet",
+      "author_name": "Anthropic",
+      "model_name": "Claude 3.7 Sonnet",
+      "benchmark_coding": 26.7,
+      "benchmark_intelligence": 30.8,
+      "benchmark_math": 21,
+      "benchmark_aider": 64.9,
+      "benchmark_livecodebench": 39.4,
+      "benchmark_mmlu_pro": 80.3
     },
     {
       "slug": "qwen-qwen3.5-35b-a3b",
@@ -4482,17 +4482,6 @@
       "benchmark_mmlu_pro": 30.97
     },
     {
-      "slug": "bytedance-seed-seed-oss-36b-instruct",
-      "author_name": "Bytedance-seed",
-      "model_name": "Seed OSS 36B Instruct",
-      "benchmark_coding": 16.7,
-      "benchmark_intelligence": 25.2,
-      "benchmark_math": 84.7,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 76.5,
-      "benchmark_mmlu_pro": 81.5
-    },
-    {
       "slug": "openai-o3-mini-high",
       "author_name": "OpenAI",
       "model_name": "o3 Mini High",
@@ -4502,6 +4491,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 73.4,
       "benchmark_mmlu_pro": 80.2
+    },
+    {
+      "slug": "bytedance-seed-seed-oss-36b-instruct",
+      "author_name": "Bytedance-seed",
+      "model_name": "Seed OSS 36B Instruct",
+      "benchmark_coding": 16.7,
+      "benchmark_intelligence": 25.2,
+      "benchmark_math": 84.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 76.5,
+      "benchmark_mmlu_pro": 81.5
     },
     {
       "slug": "qwen-qwen3-235b-a22b-2507",
@@ -4746,17 +4746,6 @@
       "benchmark_mmlu_pro": 80.8
     },
     {
-      "slug": "openai-gpt-oss-20b",
-      "author_name": "OpenAI",
-      "model_name": "GPT-OSS-20b",
-      "benchmark_coding": 14.4,
-      "benchmark_intelligence": 20.8,
-      "benchmark_math": 62.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 65.2,
-      "benchmark_mmlu_pro": 71.8
-    },
-    {
       "slug": "qwen-qwen3-vl-235b-a22b-instruct",
       "author_name": "Qwen",
       "model_name": "Qwen3 VL 235B A22B Instruct",
@@ -4766,6 +4755,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 59.4,
       "benchmark_mmlu_pro": 82.3
+    },
+    {
+      "slug": "openai-gpt-oss-20b",
+      "author_name": "OpenAI",
+      "model_name": "GPT-OSS-20b",
+      "benchmark_coding": 14.4,
+      "benchmark_intelligence": 20.8,
+      "benchmark_math": 62.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 65.2,
+      "benchmark_mmlu_pro": 71.8
     },
     {
       "slug": "openai-o1-mini",
@@ -4845,17 +4845,6 @@
       "benchmark_mmlu_pro": 75.3
     },
     {
-      "slug": "mistral-ai-mistral-medium-3",
-      "author_name": "Mistral AI",
-      "model_name": "Mistral Medium 3",
-      "benchmark_coding": 13.6,
-      "benchmark_intelligence": 18.8,
-      "benchmark_math": 30.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 40,
-      "benchmark_mmlu_pro": 76
-    },
-    {
       "slug": "deepseek-deepseek-r1",
       "author_name": "Deepseek",
       "model_name": "R1",
@@ -4865,6 +4854,17 @@
       "benchmark_aider": 64,
       "benchmark_livecodebench": 61.7,
       "benchmark_mmlu_pro": 84.4
+    },
+    {
+      "slug": "mistral-ai-mistral-medium-3",
+      "author_name": "Mistral AI",
+      "model_name": "Mistral Medium 3",
+      "benchmark_coding": 13.6,
+      "benchmark_intelligence": 18.8,
+      "benchmark_math": 30.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 40,
+      "benchmark_mmlu_pro": 76
     },
     {
       "slug": "mistral-ai-devstral-medium",
@@ -4922,17 +4922,6 @@
       "benchmark_mmlu_pro": 80.9
     },
     {
-      "slug": "mistral-ai-devstral-small-2505",
-      "author_name": "Mistral AI",
-      "model_name": "Devstral Small 2505",
-      "benchmark_coding": 12.2,
-      "benchmark_intelligence": 18,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 25.8,
-      "benchmark_mmlu_pro": 63.2
-    },
-    {
       "slug": "anthropic-claude-3-opus",
       "author_name": "Anthropic",
       "model_name": "Claude 3 Opus",
@@ -4953,6 +4942,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 34.6,
       "benchmark_mmlu_pro": 74.3
+    },
+    {
+      "slug": "mistral-ai-devstral-small-2505",
+      "author_name": "Mistral AI",
+      "model_name": "Devstral Small 2505",
+      "benchmark_coding": 12.2,
+      "benchmark_intelligence": 18,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 25.8,
+      "benchmark_mmlu_pro": 63.2
     },
     {
       "slug": "perplexity-sonar-reasoning",
@@ -5285,17 +5285,6 @@
       "benchmark_mmlu_pro": 72.7
     },
     {
-      "slug": "google-gemini-2.0-flash-lite-001",
-      "author_name": "Google",
-      "model_name": "Gemini 2.0 Flash Lite",
-      "benchmark_coding": null,
-      "benchmark_intelligence": 14.5,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 17.9,
-      "benchmark_mmlu_pro": null
-    },
-    {
       "slug": "mistral-ai-mistral-small-3.1-24b-instruct",
       "author_name": "Mistral AI",
       "model_name": "Mistral Small 3.1 24B",
@@ -5305,6 +5294,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 21.2,
       "benchmark_mmlu_pro": 65.9
+    },
+    {
+      "slug": "google-gemini-2.0-flash-lite-001",
+      "author_name": "Google",
+      "model_name": "Gemini 2.0 Flash Lite",
+      "benchmark_coding": null,
+      "benchmark_intelligence": 14.5,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 17.9,
+      "benchmark_mmlu_pro": null
     },
     {
       "slug": "nvidia-llama-3.3-nemotron-super-49b-v1.5",
@@ -5384,6 +5384,17 @@
       "benchmark_mmlu_pro": 69.4
     },
     {
+      "slug": "meta-llama-llama-4-scout",
+      "author_name": "Meta-llama",
+      "model_name": "Llama 4 Scout",
+      "benchmark_coding": 6.7,
+      "benchmark_intelligence": 13.5,
+      "benchmark_math": 14,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 29.9,
+      "benchmark_mmlu_pro": 75.2
+    },
+    {
       "slug": "cohere-command-a",
       "author_name": "Cohere",
       "model_name": "Command A",
@@ -5406,17 +5417,6 @@
       "benchmark_mmlu_pro": 69.1
     },
     {
-      "slug": "meta-llama-llama-4-scout",
-      "author_name": "Meta-llama",
-      "model_name": "Llama 4 Scout",
-      "benchmark_coding": 6.7,
-      "benchmark_intelligence": 13.5,
-      "benchmark_math": 14,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 29.9,
-      "benchmark_mmlu_pro": 75.2
-    },
-    {
       "slug": "nvidia-llama-3.1-nemotron-70b-instruct",
       "author_name": "Nvidia",
       "model_name": "Llama 3.1 Nemotron 70B Instruct",
@@ -5426,28 +5426,6 @@
       "benchmark_aider": 54.9,
       "benchmark_livecodebench": 16.9,
       "benchmark_mmlu_pro": 69
-    },
-    {
-      "slug": "qwen-qwen2.5-vl-32b-instruct",
-      "author_name": "Qwen",
-      "model_name": "Qwen2.5 VL 32B Instruct",
-      "benchmark_coding": null,
-      "benchmark_intelligence": 13.2,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 24.8,
-      "benchmark_mmlu_pro": 69.7
-    },
-    {
-      "slug": "nvidia-nemotron-nano-9b-v2",
-      "author_name": "Nvidia",
-      "model_name": "Nemotron Nano 9B V2",
-      "benchmark_coding": 7.5,
-      "benchmark_intelligence": 13.2,
-      "benchmark_math": 62.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 70.1,
-      "benchmark_mmlu_pro": 73.9
     },
     {
       "slug": "nvidia-nemotron-3-nano-30b-a3b",
@@ -5461,15 +5439,26 @@
       "benchmark_mmlu_pro": 57.9
     },
     {
-      "slug": "mistral-ai-mistral-large-2407",
-      "author_name": "Mistral AI",
-      "model_name": "Mistral Large 2407",
+      "slug": "nvidia-nemotron-nano-9b-v2",
+      "author_name": "Nvidia",
+      "model_name": "Nemotron Nano 9B V2",
+      "benchmark_coding": 7.5,
+      "benchmark_intelligence": 13.2,
+      "benchmark_math": 62.3,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 70.1,
+      "benchmark_mmlu_pro": 73.9
+    },
+    {
+      "slug": "qwen-qwen2.5-vl-32b-instruct",
+      "author_name": "Qwen",
+      "model_name": "Qwen2.5 VL 32B Instruct",
       "benchmark_coding": null,
-      "benchmark_intelligence": 13,
-      "benchmark_math": 0,
-      "benchmark_aider": 60.2,
-      "benchmark_livecodebench": 26.7,
-      "benchmark_mmlu_pro": 68.3
+      "benchmark_intelligence": 13.2,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 24.8,
+      "benchmark_mmlu_pro": 69.7
     },
     {
       "slug": "openai-gpt-4.1-nano",
@@ -5481,6 +5470,17 @@
       "benchmark_aider": 8.9,
       "benchmark_livecodebench": 32.6,
       "benchmark_mmlu_pro": 65.7
+    },
+    {
+      "slug": "mistral-ai-mistral-large-2407",
+      "author_name": "Mistral AI",
+      "model_name": "Mistral Large 2407",
+      "benchmark_coding": null,
+      "benchmark_intelligence": 13,
+      "benchmark_math": 0,
+      "benchmark_aider": 60.2,
+      "benchmark_livecodebench": 26.7,
+      "benchmark_mmlu_pro": 68.3
     },
     {
       "slug": "qwen-qwen-2.5-coder-32b-instruct",
@@ -5527,26 +5527,15 @@
       "benchmark_mmlu_pro": 15.72
     },
     {
-      "slug": "mistral-ai-mistral-small-24b-instruct-2501",
-      "author_name": "Mistral AI",
-      "model_name": "Mistral Small 24B Instruct 2501",
-      "benchmark_coding": null,
+      "slug": "amazon-nova-lite-v1",
+      "author_name": "Amazon",
+      "model_name": "Nova Lite 1.0",
+      "benchmark_coding": 5.1,
       "benchmark_intelligence": 12.7,
-      "benchmark_math": 4.3,
+      "benchmark_math": 7,
       "benchmark_aider": null,
-      "benchmark_livecodebench": 25.2,
-      "benchmark_mmlu_pro": 65.2
-    },
-    {
-      "slug": "google-gemini-2.5-flash-lite",
-      "author_name": "Google",
-      "model_name": "Gemini 2.5 Flash Lite",
-      "benchmark_coding": 7.4,
-      "benchmark_intelligence": 12.7,
-      "benchmark_math": 35.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 40,
-      "benchmark_mmlu_pro": 72.4
+      "benchmark_livecodebench": 16.7,
+      "benchmark_mmlu_pro": 59
     },
     {
       "slug": "z-ai-glm-4.5v",
@@ -5560,26 +5549,26 @@
       "benchmark_mmlu_pro": 75.1
     },
     {
-      "slug": "amazon-nova-lite-v1",
-      "author_name": "Amazon",
-      "model_name": "Nova Lite 1.0",
-      "benchmark_coding": 5.1,
+      "slug": "google-gemini-2.5-flash-lite",
+      "author_name": "Google",
+      "model_name": "Gemini 2.5 Flash Lite",
+      "benchmark_coding": 7.4,
       "benchmark_intelligence": 12.7,
-      "benchmark_math": 7,
+      "benchmark_math": 35.3,
       "benchmark_aider": null,
-      "benchmark_livecodebench": 16.7,
-      "benchmark_mmlu_pro": 59
+      "benchmark_livecodebench": 40,
+      "benchmark_mmlu_pro": 72.4
     },
     {
-      "slug": "nousresearch-hermes-4-70b",
-      "author_name": "Nousresearch",
-      "model_name": "Hermes 4 70B",
-      "benchmark_coding": 9.2,
-      "benchmark_intelligence": 12.6,
-      "benchmark_math": 11.3,
+      "slug": "mistral-ai-mistral-small-24b-instruct-2501",
+      "author_name": "Mistral AI",
+      "model_name": "Mistral Small 24B Instruct 2501",
+      "benchmark_coding": null,
+      "benchmark_intelligence": 12.7,
+      "benchmark_math": 4.3,
       "benchmark_aider": null,
-      "benchmark_livecodebench": 26.9,
-      "benchmark_mmlu_pro": 66.4
+      "benchmark_livecodebench": 25.2,
+      "benchmark_mmlu_pro": 65.2
     },
     {
       "slug": "openai-gpt-4o-mini",
@@ -5593,15 +5582,15 @@
       "benchmark_mmlu_pro": 64.8
     },
     {
-      "slug": "qwen-qwen3-30b-a3b",
-      "author_name": "Qwen",
-      "model_name": "Qwen3 30B A3B",
-      "benchmark_coding": 13.3,
-      "benchmark_intelligence": 12.5,
-      "benchmark_math": 21.7,
+      "slug": "nousresearch-hermes-4-70b",
+      "author_name": "Nousresearch",
+      "model_name": "Hermes 4 70B",
+      "benchmark_coding": 9.2,
+      "benchmark_intelligence": 12.6,
+      "benchmark_math": 11.3,
       "benchmark_aider": null,
-      "benchmark_livecodebench": 32.2,
-      "benchmark_mmlu_pro": 71
+      "benchmark_livecodebench": 26.9,
+      "benchmark_mmlu_pro": 66.4
     },
     {
       "slug": "meta-llama-llama-3.1-70b-instruct",
@@ -5626,6 +5615,17 @@
       "benchmark_mmlu_pro": 58.6
     },
     {
+      "slug": "qwen-qwen3-30b-a3b",
+      "author_name": "Qwen",
+      "model_name": "Qwen3 30B A3B",
+      "benchmark_coding": 13.3,
+      "benchmark_intelligence": 12.5,
+      "benchmark_math": 21.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 32.2,
+      "benchmark_mmlu_pro": 71
+    },
+    {
       "slug": "anthropic-claude-3-haiku",
       "author_name": "Anthropic",
       "model_name": "Claude 3 Haiku",
@@ -5648,6 +5648,17 @@
       "benchmark_mmlu_pro": null
     },
     {
+      "slug": "allenai-olmo-3-32b-think",
+      "author_name": "Allenai",
+      "model_name": "Olmo 3 32B Think",
+      "benchmark_coding": 10.5,
+      "benchmark_intelligence": 12.1,
+      "benchmark_math": 73.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 67.2,
+      "benchmark_mmlu_pro": 75.9
+    },
+    {
       "slug": "mistral-ai-mistral-saba",
       "author_name": "Mistral AI",
       "model_name": "Saba",
@@ -5668,17 +5679,6 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 23.3,
       "benchmark_mmlu_pro": 54.3
-    },
-    {
-      "slug": "allenai-olmo-3-32b-think",
-      "author_name": "Allenai",
-      "model_name": "Olmo 3 32B Think",
-      "benchmark_coding": 10.5,
-      "benchmark_intelligence": 12.1,
-      "benchmark_math": 73.7,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 67.2,
-      "benchmark_mmlu_pro": 75.9
     },
     {
       "slug": "qwen-qwen-turbo",
@@ -5802,17 +5802,6 @@
       "benchmark_mmlu_pro": 57.1
     },
     {
-      "slug": "liquidai-lfm2-24b-a2b",
-      "author_name": "Liquidai",
-      "model_name": "LiquidAI/LFM2-24B-A2B",
-      "benchmark_coding": 3.6,
-      "benchmark_intelligence": 10.5,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
-    },
-    {
       "slug": "google-gemini-1.5-flash",
       "author_name": "Google",
       "model_name": "Gemini 1.5 Flash",
@@ -5822,6 +5811,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 19.6,
       "benchmark_mmlu_pro": 57.4
+    },
+    {
+      "slug": "liquidai-lfm2-24b-a2b",
+      "author_name": "Liquidai",
+      "model_name": "LiquidAI/LFM2-24B-A2B",
+      "benchmark_coding": 3.6,
+      "benchmark_intelligence": 10.5,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
     },
     {
       "slug": "microsoft-phi-4",
@@ -5835,15 +5835,15 @@
       "benchmark_mmlu_pro": 71.4
     },
     {
-      "slug": "google-gemma-3-27b-it",
-      "author_name": "Google",
-      "model_name": "Gemma 3 27B",
-      "benchmark_coding": 9.6,
+      "slug": "anthropic-claude-3-sonnet",
+      "author_name": "Anthropic",
+      "model_name": "Claude 3 Sonnet",
+      "benchmark_coding": null,
       "benchmark_intelligence": 10.3,
-      "benchmark_math": 20.7,
-      "benchmark_aider": 4.9,
-      "benchmark_livecodebench": 13.7,
-      "benchmark_mmlu_pro": 66.9
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 17.5,
+      "benchmark_mmlu_pro": 57.9
     },
     {
       "slug": "amazon-nova-micro-v1",
@@ -5857,15 +5857,15 @@
       "benchmark_mmlu_pro": 53.1
     },
     {
-      "slug": "anthropic-claude-3-sonnet",
-      "author_name": "Anthropic",
-      "model_name": "Claude 3 Sonnet",
-      "benchmark_coding": null,
+      "slug": "google-gemma-3-27b-it",
+      "author_name": "Google",
+      "model_name": "Gemma 3 27B",
+      "benchmark_coding": 9.6,
       "benchmark_intelligence": 10.3,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 17.5,
-      "benchmark_mmlu_pro": 57.9
+      "benchmark_math": 20.7,
+      "benchmark_aider": 4.9,
+      "benchmark_livecodebench": 13.7,
+      "benchmark_mmlu_pro": 66.9
     },
     {
       "slug": "mistral-ai-mistral-small",
@@ -5890,17 +5890,6 @@
       "benchmark_mmlu_pro": 64.9
     },
     {
-      "slug": "qwen-qwen2.5-coder-7b-instruct",
-      "author_name": "Qwen",
-      "model_name": "Qwen2.5 Coder 7B Instruct",
-      "benchmark_coding": null,
-      "benchmark_intelligence": 10,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 12.6,
-      "benchmark_mmlu_pro": 47.3
-    },
-    {
       "slug": "microsoft-phi-4-multimodal-instruct",
       "author_name": "Microsoft",
       "model_name": "Phi 4 Multimodal Instruct",
@@ -5912,15 +5901,15 @@
       "benchmark_mmlu_pro": 48.5
     },
     {
-      "slug": "qwen-qwen3.5-0.8b",
+      "slug": "qwen-qwen2.5-coder-7b-instruct",
       "author_name": "Qwen",
-      "model_name": "Qwen3.5 0.8B",
-      "benchmark_coding": 1,
-      "benchmark_intelligence": 9.9,
+      "model_name": "Qwen2.5 Coder 7B Instruct",
+      "benchmark_coding": null,
+      "benchmark_intelligence": 10,
       "benchmark_math": null,
       "benchmark_aider": null,
-      "benchmark_livecodebench": null,
-      "benchmark_mmlu_pro": null
+      "benchmark_livecodebench": 12.6,
+      "benchmark_mmlu_pro": 47.3
     },
     {
       "slug": "mistral-ai-mistral-large",
@@ -5934,6 +5923,17 @@
       "benchmark_mmlu_pro": 51.5
     },
     {
+      "slug": "qwen-qwen3.5-0.8b",
+      "author_name": "Qwen",
+      "model_name": "Qwen3.5 0.8B",
+      "benchmark_coding": 1,
+      "benchmark_intelligence": 9.9,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": null,
+      "benchmark_mmlu_pro": null
+    },
+    {
       "slug": "mistral-ai-mixtral-8x22b-instruct",
       "author_name": "Mistral AI",
       "model_name": "Mixtral 8x22B Instruct",
@@ -5945,17 +5945,6 @@
       "benchmark_mmlu_pro": 53.7
     },
     {
-      "slug": "meta-llama-llama-2-7b-chat",
-      "author_name": "Meta-llama",
-      "model_name": "Llama 2 7B Chat",
-      "benchmark_coding": null,
-      "benchmark_intelligence": 9.7,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 0.2,
-      "benchmark_mmlu_pro": 16.4
-    },
-    {
       "slug": "meta-llama-llama-3.2-3b-instruct",
       "author_name": "Meta-llama",
       "model_name": "Llama 3.2 3B Instruct",
@@ -5965,6 +5954,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 8.3,
       "benchmark_mmlu_pro": 34.7
+    },
+    {
+      "slug": "meta-llama-llama-2-7b-chat",
+      "author_name": "Meta-llama",
+      "model_name": "Llama 2 7B Chat",
+      "benchmark_coding": null,
+      "benchmark_intelligence": 9.7,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 0.2,
+      "benchmark_mmlu_pro": 16.4
     },
     {
       "slug": "allenai-olmo-3-7b-think",
@@ -6055,17 +6055,6 @@
       "benchmark_mmlu_pro": 43.1
     },
     {
-      "slug": "together-sarvam-m",
-      "author_name": "Fireworks",
-      "model_name": "Sarvam M",
-      "benchmark_coding": 7.5,
-      "benchmark_intelligence": 8.4,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 29.5,
-      "benchmark_mmlu_pro": 69.6
-    },
-    {
       "slug": "meta-llama-llama-2-13b-chat",
       "author_name": "Meta-llama",
       "model_name": "Llama 2 13B Chat",
@@ -6086,6 +6075,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 9.8,
       "benchmark_mmlu_pro": 40.6
+    },
+    {
+      "slug": "together-sarvam-m",
+      "author_name": "Fireworks",
+      "model_name": "Sarvam M",
+      "benchmark_coding": 7.5,
+      "benchmark_intelligence": 8.4,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 29.5,
+      "benchmark_mmlu_pro": 69.6
     },
     {
       "slug": "nousresearch-openchat-3.5-0106-7b",
@@ -6132,17 +6132,6 @@
       "benchmark_mmlu_pro": 38.7
     },
     {
-      "slug": "anthropic-claude-instant",
-      "author_name": "Anthropic",
-      "model_name": "Claude Instant",
-      "benchmark_coding": 7.8,
-      "benchmark_intelligence": 7.4,
-      "benchmark_math": null,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 10.9,
-      "benchmark_mmlu_pro": 43.4
-    },
-    {
       "slug": "mistral-ai-mistral-7b-instruct",
       "author_name": "Mistral AI",
       "model_name": "Mistral 7B Instruct",
@@ -6152,6 +6141,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 4.6,
       "benchmark_mmlu_pro": 24.5
+    },
+    {
+      "slug": "anthropic-claude-instant",
+      "author_name": "Anthropic",
+      "model_name": "Claude Instant",
+      "benchmark_coding": 7.8,
+      "benchmark_intelligence": 7.4,
+      "benchmark_math": null,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 10.9,
+      "benchmark_mmlu_pro": 43.4
     },
     {
       "slug": "allenai-molmo-2-8b",
@@ -6187,17 +6187,6 @@
       "benchmark_mmlu_pro": 41.1
     },
     {
-      "slug": "google-gemma-3n-e4b-it",
-      "author_name": "Google",
-      "model_name": "Gemma 3n 4B",
-      "benchmark_coding": 4.2,
-      "benchmark_intelligence": 6.4,
-      "benchmark_math": 14.3,
-      "benchmark_aider": null,
-      "benchmark_livecodebench": 14.6,
-      "benchmark_mmlu_pro": 48.8
-    },
-    {
       "slug": "meta-llama-llama-3-8b-instruct",
       "author_name": "Meta-llama",
       "model_name": "Llama 3 8B Instruct",
@@ -6209,15 +6198,15 @@
       "benchmark_mmlu_pro": 40.5
     },
     {
-      "slug": "google-gemma-3-4b-it",
+      "slug": "google-gemma-3n-e4b-it",
       "author_name": "Google",
-      "model_name": "Gemma 3 4B",
-      "benchmark_coding": 2.9,
-      "benchmark_intelligence": 6.3,
-      "benchmark_math": 12.7,
+      "model_name": "Gemma 3n 4B",
+      "benchmark_coding": 4.2,
+      "benchmark_intelligence": 6.4,
+      "benchmark_math": 14.3,
       "benchmark_aider": null,
-      "benchmark_livecodebench": 11.2,
-      "benchmark_mmlu_pro": 41.7
+      "benchmark_livecodebench": 14.6,
+      "benchmark_mmlu_pro": 48.8
     },
     {
       "slug": "meta-llama-llama-3.2-1b-instruct",
@@ -6229,6 +6218,17 @@
       "benchmark_aider": null,
       "benchmark_livecodebench": 1.9,
       "benchmark_mmlu_pro": 20
+    },
+    {
+      "slug": "google-gemma-3-4b-it",
+      "author_name": "Google",
+      "model_name": "Gemma 3 4B",
+      "benchmark_coding": 2.9,
+      "benchmark_intelligence": 6.3,
+      "benchmark_math": 12.7,
+      "benchmark_aider": null,
+      "benchmark_livecodebench": 11.2,
+      "benchmark_mmlu_pro": 41.7
     },
     {
       "slug": "google-gemma-3-1b-it",

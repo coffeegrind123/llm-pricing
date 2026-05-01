@@ -45,18 +45,18 @@
     "model_count": 13
   },
   {
-    "author": "fireworks",
-    "author_name": "Fireworks",
-    "model_count": 10
-  },
-  {
     "author": "deepcogito",
     "author_name": "Deepcogito",
     "model_count": 10
   },
   {
-    "author": "allenai",
-    "author_name": "Allenai",
+    "author": "fireworks",
+    "author_name": "Fireworks",
+    "model_count": 10
+  },
+  {
+    "author": "nvidia",
+    "author_name": "Nvidia",
     "model_count": 9
   },
   {
@@ -65,23 +65,13 @@
     "model_count": 9
   },
   {
-    "author": "nvidia",
-    "author_name": "Nvidia",
+    "author": "allenai",
+    "author_name": "Allenai",
     "model_count": 9
-  },
-  {
-    "author": "microsoft",
-    "author_name": "Microsoft",
-    "model_count": 7
   },
   {
     "author": "minimax",
     "author_name": "Minimax",
-    "model_count": 7
-  },
-  {
-    "author": "moonshotai",
-    "author_name": "Moonshotai",
     "model_count": 7
   },
   {
@@ -90,9 +80,14 @@
     "model_count": 7
   },
   {
-    "author": "perplexity",
-    "author_name": "Perplexity",
-    "model_count": 6
+    "author": "microsoft",
+    "author_name": "Microsoft",
+    "model_count": 7
+  },
+  {
+    "author": "moonshotai",
+    "author_name": "Moonshotai",
+    "model_count": 7
   },
   {
     "author": "cohere",
@@ -100,8 +95,18 @@
     "model_count": 6
   },
   {
-    "author": "sao10k",
-    "author_name": "Sao10k",
+    "author": "perplexity",
+    "author_name": "Perplexity",
+    "model_count": 6
+  },
+  {
+    "author": "amazon",
+    "author_name": "Amazon",
+    "model_count": 5
+  },
+  {
+    "author": "ai21",
+    "author_name": "Ai21",
     "model_count": 5
   },
   {
@@ -115,18 +120,13 @@
     "model_count": 5
   },
   {
-    "author": "ai21",
-    "author_name": "Ai21",
+    "author": "sao10k",
+    "author_name": "Sao10k",
     "model_count": 5
   },
   {
     "author": "xiaomi",
     "author_name": "Xiaomi",
-    "model_count": 5
-  },
-  {
-    "author": "amazon",
-    "author_name": "Amazon",
     "model_count": 5
   },
   {
@@ -150,8 +150,8 @@
     "model_count": 3
   },
   {
-    "author": "vercel",
-    "author_name": "Vercel",
+    "author": "opengvlab",
+    "author_name": "Opengvlab",
     "model_count": 3
   },
   {
@@ -160,8 +160,8 @@
     "model_count": 3
   },
   {
-    "author": "opengvlab",
-    "author_name": "Opengvlab",
+    "author": "vercel",
+    "author_name": "Vercel",
     "model_count": 3
   },
   {
@@ -170,8 +170,38 @@
     "model_count": 2
   },
   {
+    "author": "cognitivecomputations",
+    "author_name": "Cognitive Computations",
+    "model_count": 2
+  },
+  {
+    "author": "ai21-labs",
+    "author_name": "Ai21 Labs",
+    "model_count": 2
+  },
+  {
+    "author": "x-ai",
+    "author_name": "X Ai",
+    "model_count": 2
+  },
+  {
+    "author": "stepfun-ai",
+    "author_name": "Stepfun-ai",
+    "model_count": 2
+  },
+  {
     "author": "inflection",
     "author_name": "Inflection",
+    "model_count": 2
+  },
+  {
+    "author": "kwaipilot",
+    "author_name": "Kwaipilot",
+    "model_count": 2
+  },
+  {
+    "author": "relace",
+    "author_name": "Relace",
     "model_count": 2
   },
   {
@@ -185,83 +215,8 @@
     "model_count": 2
   },
   {
-    "author": "relace",
-    "author_name": "Relace",
-    "model_count": 2
-  },
-  {
-    "author": "kwaipilot",
-    "author_name": "Kwaipilot",
-    "model_count": 2
-  },
-  {
-    "author": "x-ai",
-    "author_name": "X Ai",
-    "model_count": 2
-  },
-  {
-    "author": "ai21-labs",
-    "author_name": "Ai21 Labs",
-    "model_count": 2
-  },
-  {
-    "author": "cognitivecomputations",
-    "author_name": "Cognitive Computations",
-    "model_count": 2
-  },
-  {
-    "author": "stepfun-ai",
-    "author_name": "Stepfun-ai",
-    "model_count": 2
-  },
-  {
-    "author": "tencent",
-    "author_name": "Tencent",
-    "model_count": 1
-  },
-  {
-    "author": "upstage",
-    "author_name": "Upstage",
-    "model_count": 1
-  },
-  {
-    "author": "sophosympatheia",
-    "author_name": "Sophosympatheia",
-    "model_count": 1
-  },
-  {
-    "author": "prime-intellect",
-    "author_name": "Prime-intellect",
-    "model_count": 1
-  },
-  {
-    "author": "nex-agi",
-    "author_name": "Nex-AGI",
-    "model_count": 1
-  },
-  {
-    "author": "reka",
-    "author_name": "Reka",
-    "model_count": 1
-  },
-  {
-    "author": "alfredpros",
-    "author_name": "Alfredpros",
-    "model_count": 1
-  },
-  {
-    "author": "mancer",
-    "author_name": "Mancer",
-    "model_count": 1
-  },
-  {
-    "author": "anthracite-org",
-    "author_name": "Anthracite-org",
-    "model_count": 1
-  },
-  {
-    "author": "undi95",
-    "author_name": "Undi95",
+    "author": "",
+    "author_name": "",
     "model_count": 1
   },
   {
@@ -270,33 +225,13 @@
     "model_count": 1
   },
   {
-    "author": "lmsys",
-    "author_name": "Lmsys",
-    "model_count": 1
-  },
-  {
-    "author": "essential-ai",
-    "author_name": "Essential AI",
-    "model_count": 1
-  },
-  {
-    "author": "liquidai",
-    "author_name": "Liquidai",
-    "model_count": 1
-  },
-  {
-    "author": "alibaba",
-    "author_name": "Alibaba",
-    "model_count": 1
-  },
-  {
-    "author": "",
-    "author_name": "",
-    "model_count": 1
-  },
-  {
     "author": "raifle",
     "author_name": "Raifle",
+    "model_count": 1
+  },
+  {
+    "author": "undi95",
+    "author_name": "Undi95",
     "model_count": 1
   },
   {
@@ -305,8 +240,28 @@
     "model_count": 1
   },
   {
+    "author": "anthracite-org",
+    "author_name": "Anthracite-org",
+    "model_count": 1
+  },
+  {
+    "author": "mancer",
+    "author_name": "Mancer",
+    "model_count": 1
+  },
+  {
     "author": "writer",
     "author_name": "Writer",
+    "model_count": 1
+  },
+  {
+    "author": "alfredpros",
+    "author_name": "Alfredpros",
+    "model_count": 1
+  },
+  {
+    "author": "reka",
+    "author_name": "Reka",
     "model_count": 1
   },
   {
@@ -330,23 +285,8 @@
     "model_count": 1
   },
   {
-    "author": "ibm",
-    "author_name": "Ibm",
-    "model_count": 1
-  },
-  {
-    "author": "gryphe",
-    "author_name": "Gryphe",
-    "model_count": 1
-  },
-  {
-    "author": "alpindale",
-    "author_name": "Alpindale",
-    "model_count": 1
-  },
-  {
-    "author": "meituan",
-    "author_name": "Meituan",
+    "author": "nex-agi",
+    "author_name": "Nex-AGI",
     "model_count": 1
   },
   {
@@ -355,13 +295,73 @@
     "model_count": 1
   },
   {
+    "author": "prime-intellect",
+    "author_name": "Prime-intellect",
+    "model_count": 1
+  },
+  {
+    "author": "ibm",
+    "author_name": "Ibm",
+    "model_count": 1
+  },
+  {
     "author": "arliai",
     "author_name": "Arliai",
     "model_count": 1
   },
   {
+    "author": "gryphe",
+    "author_name": "Gryphe",
+    "model_count": 1
+  },
+  {
+    "author": "sophosympatheia",
+    "author_name": "Sophosympatheia",
+    "model_count": 1
+  },
+  {
+    "author": "alpindale",
+    "author_name": "Alpindale",
+    "model_count": 1
+  },
+  {
     "author": "zero-one-ai",
     "author_name": "Zero One Ai",
+    "model_count": 1
+  },
+  {
+    "author": "upstage",
+    "author_name": "Upstage",
+    "model_count": 1
+  },
+  {
+    "author": "meituan",
+    "author_name": "Meituan",
+    "model_count": 1
+  },
+  {
+    "author": "tencent",
+    "author_name": "Tencent",
+    "model_count": 1
+  },
+  {
+    "author": "liquidai",
+    "author_name": "Liquidai",
+    "model_count": 1
+  },
+  {
+    "author": "essential-ai",
+    "author_name": "Essential AI",
+    "model_count": 1
+  },
+  {
+    "author": "alibaba",
+    "author_name": "Alibaba",
+    "model_count": 1
+  },
+  {
+    "author": "lmsys",
+    "author_name": "Lmsys",
     "model_count": 1
   }
 ]

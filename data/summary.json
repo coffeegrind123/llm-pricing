@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-04-30T08:20:42.835Z",
+  "fetched_at": "2026-05-01T08:10:15.139Z",
   "source": "https://api.pricepertoken.com/mcp/mcp",
   "model_count": 538,
-  "priced_model_count": 484,
+  "priced_model_count": 485,
   "provider_count": 73,
   "coding_benchmark_top5": [
     {
