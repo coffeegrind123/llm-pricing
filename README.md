@@ -1,58 +1,40 @@
 # llm-pricing
 
-Daily snapshot of LLM pricing, benchmark and capability data scraped from the
-[PricePerToken MCP server](https://api.pricepertoken.com/) and committed to
-`data/` as plain JSON arrays (no MCP envelope).
+Daily snapshot of LLM pricing pulled from
+[aipricing.guru](https://www.aipricing.guru/api/pricing.json) and committed to
+`data/` as plain JSON.
 
 Used as a static lookup table by [openclaude](https://github.com/coffeegrind123/openclaude)
 to render accurate session cost in the fuelgauge status line for non-Anthropic
-models (DeepSeek, GLM/z-ai, Gemini, GPT-x, NVIDIA NIM, etc.) where the
-hardcoded Anthropic pricing tiers wouldn't apply.
+models (DeepSeek, Gemini, GPT-x, Grok, Mistral, etc.) where the hardcoded
+Anthropic pricing tiers wouldn't apply.
 
 ## Files in `data/`
 
 | File | Shape | Description |
 |---|---|---|
-| `providers.json` | `Provider[]` | All authors with model counts and price ranges |
-| `models_lite.json` | `Model[]` | Slug + author + name + input/output_per_1m + context_length. Compact (~30 KB). |
-| `models.json` | `ModelDetail[]` | Full per-model detail — pricing (input/output/cache_read/cache_write), benchmarks (intelligence/coding/math/mmlu/gpqa/livecodebench), capabilities, modalities. |
-| `benchmarks.json` | `{coding: [], math: [], intelligence: []}` | Models ranked per benchmark |
-| `provider_slugs.json` | `Record<slug, ProviderSlugs>` | Cross-provider model IDs (Bedrock, Groq, OpenRouter, Together, Fireworks, Cerebras, DeepInfra, SambaNova, Gemini) for each known model |
-| `summary.json` | `Summary` | High-level counts, top-5 coding benchmark, cheapest-by-input top 10 |
+| `pricing.json` | `{lastUpdated, scrapedAt, modelCount, providerCount, models[]}` | Full upstream payload, models sorted by id for deterministic diffs. |
+| `models.json` | `Model[]` | Just the `models` array — what openclaude reads via the GitHub raw URL. |
+| `summary.json` | `Summary` | Provenance + counts (`fetched_at`, `source`, `upstream_last_updated`, `model_count`, `provider_count`, `models_per_provider`). |
 
-`models.json` shape:
+`Model` shape (mirrors aipricing.guru's response 1:1):
 ```jsonc
 {
-  "slug": "z-ai-glm-4.6",
-  "author": "z-ai",
-  "author_name": "Z-ai",
-  "model": "glm-4.6",
-  "model_name": "GLM 4.6",
-  "context_length": 204800,
+  "id": "claude-sonnet-4.6",
+  "name": "Claude Sonnet 4.6",
+  "family": "Claude 4.6",
+  "provider": "anthropic",
   "pricing": {
-    "input_per_1m": 0.6,
-    "output_per_1m": 2.2,
-    "cache_read_per_1m": 0.11,
-    "cache_write_per_1m": null
+    "inputPerM": 3,
+    "cachedInputPerM": 0.3,
+    "outputPerM": 15
   },
-  "benchmarks": {
-    "intelligence": 30.2,
-    "coding": 30.2,
-    "math": 44.3,
-    "mmlu_pro": 78.4,
-    "gpqa": 63.2,
-    "livecodebench": 56.1
-  },
-  "capabilities": {
-    "supports_vision": false,
-    "supports_reasoning": true,
-    "supports_tool_calls": true,
-    "is_open": true
-  },
-  "modalities": { "input": ["text"], "output": ["text"] },
-  "performance": { "tokens_per_second": 45.0, "time_to_first_token": 0.99 }
+  "status": "active"
 }
 ```
+
+`pricing.cachedInputPerM` is optional — providers that don't expose a cache-read
+rate omit the field entirely. `status` is one of `active`, `legacy`, `preview`.
 
 ## Refreshing the data
 
@@ -60,17 +42,14 @@ hardcoded Anthropic pricing tiers wouldn't apply.
 node fetch-pricing.mjs
 ```
 
-Pulls every author from `get_providers`, then for each author fans out
-`get_all_models(author=<slug>, limit=1000)`, then per-slug calls `get_model`
-for the rich detail (cache prices, benchmarks, modalities). Strips MCP
-`{content:[{type,text}]}` wrappers, writes plain arrays/objects to `data/`.
+Single HTTP GET against the upstream API; writes the three files above.
 
 Tunables:
-- `CONCURRENCY=8` — parallel `get_model` fetches (default 8)
-- `SKIP_DETAIL=1` — skip the per-slug enrichment pass (use `models_lite.json` only)
-- `SKIP_PROVIDER_SLUGS=1` — skip cross-provider slug enumeration (slowest step)
-- `MCP_URL=...` — override MCP endpoint
+- `API_URL=...` — override upstream endpoint (default `https://www.aipricing.guru/api/pricing.json`)
 - `--out <dir>` — output directory (default `./data/`)
+
+The GitHub Action at `.github/workflows/fetch-llm-pricing.yml` runs this daily
+at 06:00 UTC and commits any changes back to `main`.
 
 ## License
 

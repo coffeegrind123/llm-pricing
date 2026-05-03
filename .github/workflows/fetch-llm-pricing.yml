@@ -28,10 +28,6 @@ jobs:
           node-version: 22
 
       - name: Fetch pricing data
-        env:
-          # Bump CONCURRENCY here if upstream rate limits start biting; 8 is
-          # comfortable for the per-slug enrichment pass (~533 calls).
-          CONCURRENCY: "8"
         run: node fetch-pricing.mjs --out data
 
       - name: Commit and push to main
@@ -48,7 +44,7 @@ jobs:
           # Generate a single-line summary of what changed so the commit log
           # is more useful than a generic "update" message.
           summary=""
-          if git diff --staged --name-only | grep -q '^data/summary.json$'; then
+          if [ -f data/summary.json ]; then
             count=$(jq -r '.model_count // empty' data/summary.json 2>/dev/null || echo "")
             providers=$(jq -r '.provider_count // empty' data/summary.json 2>/dev/null || echo "")
             if [ -n "$count" ] && [ -n "$providers" ]; then

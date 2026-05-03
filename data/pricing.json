@@ -1,0 +1,989 @@
+{
+  "lastUpdated": "2026-05-03T00:03:31.665Z",
+  "scrapedAt": "2026-05-03T00:03:31.665Z",
+  "modelCount": 86,
+  "providerCount": 11,
+  "models": [
+    {
+      "id": "claude-haiku-4.5",
+      "name": "Claude Haiku 4.5",
+      "family": "Claude 4.5",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 1,
+        "cachedInputPerM": 0.1,
+        "outputPerM": 5
+      },
+      "status": "active"
+    },
+    {
+      "id": "claude-opus-4",
+      "name": "Claude Opus 4",
+      "family": "Claude 4",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 15,
+        "cachedInputPerM": 1.5,
+        "outputPerM": 75
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-opus-4.1",
+      "name": "Claude Opus 4.1",
+      "family": "Claude 4.1",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 15,
+        "cachedInputPerM": 1.5,
+        "outputPerM": 75
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-opus-4.5",
+      "name": "Claude Opus 4.5",
+      "family": "Claude 4.5",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 5,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 25
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-opus-4.6",
+      "name": "Claude Opus 4.6",
+      "family": "Claude 4.6",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 5,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 25
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-opus-4.7",
+      "name": "Claude Opus 4.7",
+      "family": "Claude 4.7",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 5,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 25
+      },
+      "status": "active"
+    },
+    {
+      "id": "claude-sonnet-4",
+      "name": "Claude Sonnet 4",
+      "family": "Claude 4",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 3,
+        "cachedInputPerM": 0.3,
+        "outputPerM": 15
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-sonnet-4.5",
+      "name": "Claude Sonnet 4.5",
+      "family": "Claude 4.5",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 3,
+        "cachedInputPerM": 0.3,
+        "outputPerM": 15
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "claude-sonnet-4.6",
+      "name": "Claude Sonnet 4.6",
+      "family": "Claude 4.6",
+      "provider": "anthropic",
+      "pricing": {
+        "inputPerM": 3,
+        "cachedInputPerM": 0.3,
+        "outputPerM": 15
+      },
+      "status": "active"
+    },
+    {
+      "id": "codestral",
+      "name": "Codestral",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.3,
+        "outputPerM": 0.9
+      },
+      "status": "active"
+    },
+    {
+      "id": "command-a-03-2025",
+      "name": "Command A",
+      "family": "Command A",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 2.5,
+        "outputPerM": 10
+      },
+      "status": "active"
+    },
+    {
+      "id": "command-r-08-2024",
+      "name": "Command R 08-2024",
+      "family": "Command R",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "command-r-plus-08-2024",
+      "name": "Command R+ 08-2024",
+      "family": "Command R",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 2.5,
+        "outputPerM": 10
+      },
+      "status": "active"
+    },
+    {
+      "id": "command-r7b",
+      "name": "Command R7B",
+      "family": "Command R",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 0.0375,
+        "outputPerM": 0.15
+      },
+      "status": "active"
+    },
+    {
+      "id": "deepseek-v4-flash",
+      "name": "DeepSeek V4 Flash",
+      "family": "DeepSeek V4",
+      "provider": "deepseek",
+      "pricing": {
+        "inputPerM": 0.14,
+        "cachedInputPerM": 0.0028,
+        "outputPerM": 0.28
+      },
+      "status": "active"
+    },
+    {
+      "id": "deepseek-v4-pro",
+      "name": "DeepSeek V4 Pro",
+      "family": "DeepSeek V4",
+      "provider": "deepseek",
+      "pricing": {
+        "inputPerM": 1.74,
+        "cachedInputPerM": 0.0145,
+        "outputPerM": 3.48
+      },
+      "status": "active"
+    },
+    {
+      "id": "devstral-medium",
+      "name": "Devstral Medium 2",
+      "family": "Devstral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.4,
+        "outputPerM": 2
+      },
+      "status": "active"
+    },
+    {
+      "id": "devstral-small",
+      "name": "Devstral Small 2",
+      "family": "Devstral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.1,
+        "outputPerM": 0.3
+      },
+      "status": "active"
+    },
+    {
+      "id": "embed-v3-english",
+      "name": "Embed v3 English",
+      "family": "Embed",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 0.1,
+        "outputPerM": 0
+      },
+      "status": "active"
+    },
+    {
+      "id": "embed-v3-multilingual",
+      "name": "Embed v3 Multilingual",
+      "family": "Embed",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 0.1,
+        "outputPerM": 0
+      },
+      "status": "active"
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "family": "Gemini 2.5",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 0.3,
+        "cachedInputPerM": 0.03,
+        "outputPerM": 2.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "name": "Gemini 2.5 Pro",
+      "family": "Gemini 2.5",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 1.25,
+        "cachedInputPerM": 0.125,
+        "outputPerM": 10
+      },
+      "status": "active"
+    },
+    {
+      "id": "gemini-2.5-pro-long-context",
+      "name": "Gemini 2.5 Pro (>200k tokens)",
+      "family": "Gemini 2.5",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 2.5,
+        "cachedInputPerM": 0.25,
+        "outputPerM": 15
+      },
+      "status": "active"
+    },
+    {
+      "id": "gemini-3-flash",
+      "name": "Gemini 3 Flash",
+      "family": "Gemini 3",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 0.5,
+        "cachedInputPerM": 0.05,
+        "outputPerM": 3
+      },
+      "status": "preview"
+    },
+    {
+      "id": "gemini-3-pro",
+      "name": "Gemini 3 Pro",
+      "family": "Gemini 3",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 2,
+        "cachedInputPerM": 0.2,
+        "outputPerM": 12
+      },
+      "status": "preview"
+    },
+    {
+      "id": "gemini-3.1-flash-lite",
+      "name": "Gemini 3.1 Flash-Lite",
+      "family": "Gemini 3",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 0.25,
+        "cachedInputPerM": 0.025,
+        "outputPerM": 1.5
+      },
+      "status": "preview"
+    },
+    {
+      "id": "gemini-3.1-pro",
+      "name": "Gemini 3.1 Pro",
+      "family": "Gemini 3",
+      "provider": "google",
+      "pricing": {
+        "inputPerM": 2,
+        "cachedInputPerM": 0.2,
+        "outputPerM": 12
+      },
+      "status": "preview"
+    },
+    {
+      "id": "gpt-4.1",
+      "name": "GPT-4.1",
+      "family": "GPT-4.1",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 2,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 8
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-4.1-mini",
+      "name": "GPT-4.1 mini",
+      "family": "GPT-4.1",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 0.4,
+        "cachedInputPerM": 0.1,
+        "outputPerM": 1.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-4.1-nano",
+      "name": "GPT-4.1 nano",
+      "family": "GPT-4.1",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 0.1,
+        "cachedInputPerM": 0.025,
+        "outputPerM": 0.4
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-4o",
+      "name": "GPT-4o",
+      "family": "GPT-4o",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 2.5,
+        "cachedInputPerM": 1.25,
+        "outputPerM": 10
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-4o-mini",
+      "name": "GPT-4o mini",
+      "family": "GPT-4o",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 0.15,
+        "cachedInputPerM": 0.075,
+        "outputPerM": 0.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.4",
+      "name": "GPT-5.4",
+      "family": "GPT-5.4",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 2.5,
+        "cachedInputPerM": 0.25,
+        "outputPerM": 15
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "name": "GPT-5.4 mini",
+      "family": "GPT-5.4",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 0.75,
+        "cachedInputPerM": 0.075,
+        "outputPerM": 4.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.4-nano",
+      "name": "GPT-5.4 nano",
+      "family": "GPT-5.4",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 0.2,
+        "cachedInputPerM": 0.02,
+        "outputPerM": 1.25
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.4-pro",
+      "name": "GPT-5.4 Pro",
+      "family": "GPT-5.4",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 30,
+        "outputPerM": 180
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.5",
+      "name": "GPT-5.5",
+      "family": "GPT-5.5",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 5,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 30
+      },
+      "status": "active"
+    },
+    {
+      "id": "gpt-5.5-pro",
+      "name": "GPT-5.5 Pro",
+      "family": "GPT-5.5",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 30,
+        "outputPerM": 180
+      },
+      "status": "active"
+    },
+    {
+      "id": "grok-4-1-fast-non-reasoning",
+      "name": "Grok 4 1 Fast Non Reasoning",
+      "family": "Grok 4",
+      "provider": "xai",
+      "pricing": {
+        "inputPerM": 0.2,
+        "outputPerM": 0.5
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "grok-4-1-fast-reasoning",
+      "name": "Grok 4 1 Fast Reasoning",
+      "family": "Grok 4",
+      "provider": "xai",
+      "pricing": {
+        "inputPerM": 0.2,
+        "outputPerM": 0.5
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "grok-4.1-fast",
+      "name": "Grok 4.1 Fast",
+      "family": "Grok 4",
+      "provider": "xai",
+      "pricing": {
+        "inputPerM": 0.2,
+        "cachedInputPerM": 0.05,
+        "outputPerM": 0.5
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "grok-4.20",
+      "name": "Grok 4.20",
+      "family": "Grok 4",
+      "provider": "xai",
+      "pricing": {
+        "inputPerM": 2,
+        "cachedInputPerM": 0.2,
+        "outputPerM": 6
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "grok-4.3",
+      "name": "Grok 4.3",
+      "family": "Grok 4.3",
+      "provider": "xai",
+      "pricing": {
+        "inputPerM": 1.25,
+        "outputPerM": 2.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "llama-3.1-8b-instant",
+      "name": "Llama 3.1 8b Instant",
+      "family": "groq",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.05,
+        "outputPerM": 0.08
+      },
+      "status": "active"
+    },
+    {
+      "id": "llama-3.3-70b-versatile",
+      "name": "Llama 3.3 70b Versatile",
+      "family": "groq",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.59,
+        "outputPerM": 0.79
+      },
+      "status": "active"
+    },
+    {
+      "id": "llama-4-maverick",
+      "name": "Llama 4 Maverick",
+      "family": "Llama 4",
+      "provider": "meta",
+      "pricing": {
+        "inputPerM": 0.2,
+        "outputPerM": 0.2
+      },
+      "status": "active"
+    },
+    {
+      "id": "llama-4-scout",
+      "name": "Llama 4 Scout",
+      "family": "Llama 4",
+      "provider": "meta",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.15
+      },
+      "status": "active"
+    },
+    {
+      "id": "magistral-medium",
+      "name": "Magistral Medium",
+      "family": "Magistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 5
+      },
+      "status": "active"
+    },
+    {
+      "id": "magistral-small",
+      "name": "Magistral Small",
+      "family": "Magistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.5,
+        "outputPerM": 1.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "ministral-14b",
+      "name": "Ministral 14B",
+      "family": "Ministral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.2,
+        "outputPerM": 0.2
+      },
+      "status": "active"
+    },
+    {
+      "id": "ministral-3b",
+      "name": "Ministral 3B",
+      "family": "Ministral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.1,
+        "outputPerM": 0.1
+      },
+      "status": "active"
+    },
+    {
+      "id": "ministral-8b",
+      "name": "Ministral 8B",
+      "family": "Ministral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.15
+      },
+      "status": "active"
+    },
+    {
+      "id": "mistral-large",
+      "name": "Mistral Large 3",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.5,
+        "outputPerM": 1.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "mistral-medium",
+      "name": "Mistral Medium 3.5",
+      "family": "Mistral Medium",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 1.5,
+        "outputPerM": 7.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "mistral-medium-3",
+      "name": "Mistral Medium 3",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.4,
+        "outputPerM": 2
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "mistral-small",
+      "name": "Mistral Small 4",
+      "family": "Mistral Small",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "mixtral-8x22b",
+      "name": "Mixtral 8x22B",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 6
+      },
+      "status": "active"
+    },
+    {
+      "id": "o3",
+      "name": "o3",
+      "family": "o-series",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 2,
+        "cachedInputPerM": 0.5,
+        "outputPerM": 8
+      },
+      "status": "active"
+    },
+    {
+      "id": "o4-mini",
+      "name": "o4-mini",
+      "family": "o-series",
+      "provider": "openai",
+      "pricing": {
+        "inputPerM": 1.1,
+        "cachedInputPerM": 0.275,
+        "outputPerM": 4.4
+      },
+      "status": "active"
+    },
+    {
+      "id": "open-mistral-7b",
+      "name": "Mistral 7B",
+      "family": "Mistral Open",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.25,
+        "outputPerM": 0.25
+      },
+      "status": "active"
+    },
+    {
+      "id": "open-mistral-nemo",
+      "name": "Mistral NeMo",
+      "family": "Mistral Open",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.15
+      },
+      "status": "active"
+    },
+    {
+      "id": "open-mixtral-8x7b",
+      "name": "Mixtral 8x7B",
+      "family": "Mixtral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.7,
+        "outputPerM": 0.7
+      },
+      "status": "active"
+    },
+    {
+      "id": "openai/gpt-oss-120b",
+      "name": "Openai/gpt Oss 120b",
+      "family": "groq",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "name": "Openai/gpt Oss 20b",
+      "family": "groq",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.075,
+        "outputPerM": 0.3
+      },
+      "status": "active"
+    },
+    {
+      "id": "pixtral-12b",
+      "name": "Pixtral 12B",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.15
+      },
+      "status": "active"
+    },
+    {
+      "id": "pixtral-large",
+      "name": "Pixtral Large",
+      "family": "Mistral",
+      "provider": "mistral",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 6
+      },
+      "status": "active"
+    },
+    {
+      "id": "rerank-v3",
+      "name": "Rerank v3",
+      "family": "Rerank",
+      "provider": "cohere",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 0
+      },
+      "status": "active"
+    },
+    {
+      "id": "sonar",
+      "name": "Sonar",
+      "family": "Sonar",
+      "provider": "perplexity",
+      "pricing": {
+        "inputPerM": 1,
+        "outputPerM": 1
+      },
+      "status": "active"
+    },
+    {
+      "id": "sonar-deep-research",
+      "name": "Sonar Deep Research",
+      "family": "Sonar",
+      "provider": "perplexity",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 8
+      },
+      "status": "active"
+    },
+    {
+      "id": "sonar-pro",
+      "name": "Sonar Pro",
+      "family": "Sonar",
+      "provider": "perplexity",
+      "pricing": {
+        "inputPerM": 3,
+        "outputPerM": 15
+      },
+      "status": "active"
+    },
+    {
+      "id": "sonar-reasoning-pro",
+      "name": "Sonar Reasoning Pro",
+      "family": "Sonar",
+      "provider": "perplexity",
+      "pricing": {
+        "inputPerM": 2,
+        "outputPerM": 8
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-deepseek-r1",
+      "name": "DeepSeek R1 (Together)",
+      "family": "DeepSeek",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 3,
+        "outputPerM": 7
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-deepseek-v3",
+      "name": "DeepSeek V3 (Together)",
+      "family": "DeepSeek",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 1.25,
+        "outputPerM": 1.25
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "together-deepseek-v3.1",
+      "name": "DeepSeek V3.1 (Together)",
+      "family": "DeepSeek",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.6,
+        "outputPerM": 1.7
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-deepseek-v4-pro",
+      "name": "DeepSeek V4 Pro (Together)",
+      "family": "DeepSeek V4",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 2.1,
+        "cachedInputPerM": 0.2,
+        "outputPerM": 4.4
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-glm-5.1",
+      "name": "GLM-5.1 (Together)",
+      "family": "GLM-5",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 1.4,
+        "outputPerM": 4.4
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-gpt-oss-120b",
+      "name": "GPT-OSS 120B (Together)",
+      "family": "GPT-OSS",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.15,
+        "outputPerM": 0.6
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-gpt-oss-20b",
+      "name": "GPT-OSS 20B (Together)",
+      "family": "GPT-OSS",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.05,
+        "outputPerM": 0.2
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-kimi-k2.6",
+      "name": "Kimi K2.6 (Together)",
+      "family": "Kimi K2",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 1.2,
+        "cachedInputPerM": 0.2,
+        "outputPerM": 4.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-llama-3.1-405b",
+      "name": "Llama 3.1 405B (Together)",
+      "family": "Llama 3.1",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 3.5,
+        "outputPerM": 3.5
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "together-llama-3.3-70b",
+      "name": "Llama 3.3 70B (Together)",
+      "family": "Llama 3.3",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.88,
+        "outputPerM": 0.88
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-minimax-m2.7",
+      "name": "MiniMax M2.7 (Together)",
+      "family": "MiniMax M2",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.3,
+        "cachedInputPerM": 0.06,
+        "outputPerM": 1.2
+      },
+      "status": "active"
+    },
+    {
+      "id": "together-mistral-large",
+      "name": "Mistral Large (Together)",
+      "family": "Mistral",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 3,
+        "outputPerM": 9
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "together-mixtral-8x22b",
+      "name": "Mixtral 8x22B (Together)",
+      "family": "Mixtral",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 1.2,
+        "outputPerM": 1.2
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "together-qwen-2.5-72b",
+      "name": "Qwen 2.5 72B (Together)",
+      "family": "Qwen",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 1.2,
+        "outputPerM": 1.2
+      },
+      "status": "legacy"
+    },
+    {
+      "id": "together-qwen3.6-plus",
+      "name": "Qwen3.6-Plus (Together)",
+      "family": "Qwen3.6",
+      "provider": "together",
+      "pricing": {
+        "inputPerM": 0.5,
+        "outputPerM": 3
+      },
+      "status": "active"
+    }
+  ],
+  "updated": "2026-05-03"
+}
