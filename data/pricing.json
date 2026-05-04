@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-03T00:03:31.665Z",
-  "scrapedAt": "2026-05-03T00:03:31.665Z",
+  "lastUpdated": "2026-05-04T05:22:52.206Z",
+  "scrapedAt": "2026-05-04T05:22:52.206Z",
   "modelCount": 86,
   "providerCount": 11,
   "models": [
@@ -535,7 +535,7 @@
       "provider": "meta",
       "pricing": {
         "inputPerM": 0.2,
-        "outputPerM": 0.2
+        "outputPerM": 0.6
       },
       "status": "active"
     },
@@ -545,8 +545,8 @@
       "family": "Llama 4",
       "provider": "meta",
       "pricing": {
-        "inputPerM": 0.15,
-        "outputPerM": 0.15
+        "inputPerM": 0.08,
+        "outputPerM": 0.3
       },
       "status": "active"
     },
@@ -589,8 +589,8 @@
       "family": "Ministral",
       "provider": "mistral",
       "pricing": {
-        "inputPerM": 0.1,
-        "outputPerM": 0.1
+        "inputPerM": 0.04,
+        "outputPerM": 0.04
       },
       "status": "active"
     },
@@ -600,8 +600,8 @@
       "family": "Ministral",
       "provider": "mistral",
       "pricing": {
-        "inputPerM": 0.15,
-        "outputPerM": 0.15
+        "inputPerM": 0.1,
+        "outputPerM": 0.1
       },
       "status": "active"
     },
@@ -724,7 +724,8 @@
       "provider": "groq",
       "pricing": {
         "inputPerM": 0.15,
-        "outputPerM": 0.6
+        "cachedInputPerM": 0.075,
+        "outputPerM": 0.75
       },
       "status": "active"
     },
@@ -734,8 +735,9 @@
       "family": "groq",
       "provider": "groq",
       "pricing": {
-        "inputPerM": 0.075,
-        "outputPerM": 0.3
+        "inputPerM": 0.1,
+        "cachedInputPerM": 0.05,
+        "outputPerM": 0.5
       },
       "status": "active"
     },
@@ -985,5 +987,5 @@
       "status": "active"
     }
   ],
-  "updated": "2026-05-03"
+  "updated": "2026-05-04"
 }
