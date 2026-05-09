@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-08T00:03:38.268Z",
-  "scrapedAt": "2026-05-08T00:03:38.268Z",
-  "modelCount": 86,
+  "lastUpdated": "2026-05-09T06:08:52.320Z",
+  "scrapedAt": "2026-05-09T06:08:52.320Z",
+  "modelCount": 89,
   "providerCount": 11,
   "models": [
     {
@@ -489,9 +489,9 @@
       "family": "Grok 4",
       "provider": "xai",
       "pricing": {
-        "inputPerM": 2,
+        "inputPerM": 1.25,
         "cachedInputPerM": 0.2,
-        "outputPerM": 6
+        "outputPerM": 2.5
       },
       "status": "legacy"
     },
@@ -571,6 +571,17 @@
         "outputPerM": 1.5
       },
       "status": "active"
+    },
+    {
+      "id": "meta-llama/llama-4-scout-17b-16e-instruct",
+      "name": "Llama 4 Scout 17B 16E Instruct",
+      "family": "Llama 4",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.11,
+        "outputPerM": 0.34
+      },
+      "status": "preview"
     },
     {
       "id": "ministral-14b",
@@ -725,7 +736,7 @@
       "pricing": {
         "inputPerM": 0.15,
         "cachedInputPerM": 0.075,
-        "outputPerM": 0.75
+        "outputPerM": 0.6
       },
       "status": "active"
     },
@@ -735,11 +746,22 @@
       "family": "groq",
       "provider": "groq",
       "pricing": {
-        "inputPerM": 0.1,
-        "cachedInputPerM": 0.05,
-        "outputPerM": 0.5
+        "inputPerM": 0.075,
+        "cachedInputPerM": 0.0375,
+        "outputPerM": 0.3
       },
       "status": "active"
+    },
+    {
+      "id": "openai/gpt-oss-safeguard-20b",
+      "name": "GPT OSS Safeguard 20B",
+      "family": "GPT OSS",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.075,
+        "outputPerM": 0.3
+      },
+      "status": "preview"
     },
     {
       "id": "pixtral-12b",
@@ -762,6 +784,17 @@
         "outputPerM": 6
       },
       "status": "active"
+    },
+    {
+      "id": "qwen/qwen3-32b",
+      "name": "Qwen3 32B",
+      "family": "Qwen3",
+      "provider": "groq",
+      "pricing": {
+        "inputPerM": 0.29,
+        "outputPerM": 0.59
+      },
+      "status": "preview"
     },
     {
       "id": "rerank-v3",
@@ -987,5 +1020,5 @@
       "status": "active"
     }
   ],
-  "updated": "2026-05-08"
+  "updated": "2026-05-09"
 }
