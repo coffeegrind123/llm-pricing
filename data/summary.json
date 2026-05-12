@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-05-11T09:36:38.519Z",
+  "fetched_at": "2026-05-12T08:37:34.193Z",
   "source": "https://www.aipricing.guru/api/pricing.json",
-  "upstream_last_updated": "2026-05-11T00:02:56.766Z",
-  "upstream_scraped_at": "2026-05-11T00:02:56.766Z",
+  "upstream_last_updated": "2026-05-12T00:03:11.773Z",
+  "upstream_scraped_at": "2026-05-12T00:03:11.773Z",
   "model_count": 89,
   "priced_model_count": 89,
   "provider_count": 11,
