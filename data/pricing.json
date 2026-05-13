@@ -1,8 +1,10 @@
 {
-  "lastUpdated": "2026-05-12T00:03:11.773Z",
-  "scrapedAt": "2026-05-12T00:03:11.773Z",
+  "lastUpdated": "2026-05-13T00:03:16.507Z",
+  "scrapedAt": "2026-05-13T00:03:16.507Z",
   "modelCount": 89,
   "providerCount": 11,
+  "updated": "2026-05-13",
+  "disclaimer": "Prices are collected from public provider sources and refreshed by AI Pricing Guru's monitoring pipeline. Providers can change prices, tiers, taxes, regions, or billing rules without notice; always verify directly with the provider before making purchasing or budgeting decisions.",
   "models": [
     {
       "id": "claude-haiku-4.5",
@@ -1019,6 +1021,5 @@
       },
       "status": "active"
     }
-  ],
-  "updated": "2026-05-12"
+  ]
 }
