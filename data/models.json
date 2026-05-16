@@ -348,7 +348,7 @@
       "cachedInputPerM": 0.025,
       "outputPerM": 0.4
     },
-    "status": "active"
+    "status": "legacy"
   },
   {
     "id": "gpt-4o",
@@ -371,6 +371,88 @@
       "inputPerM": 0.15,
       "cachedInputPerM": 0.075,
       "outputPerM": 0.6
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5",
+    "name": "GPT-5",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 1.25,
+      "cachedInputPerM": 0.125,
+      "outputPerM": 10
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5-mini",
+    "name": "GPT-5 mini",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 0.25,
+      "cachedInputPerM": 0.025,
+      "outputPerM": 2
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5-nano",
+    "name": "GPT-5 nano",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 0.05,
+      "cachedInputPerM": 0.005,
+      "outputPerM": 0.4
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5-pro",
+    "name": "GPT-5 Pro",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 15,
+      "outputPerM": 120
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5.1",
+    "name": "GPT-5.1",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 1.25,
+      "cachedInputPerM": 0.125,
+      "outputPerM": 10
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5.2",
+    "name": "GPT-5.2",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 1.75,
+      "cachedInputPerM": 0.175,
+      "outputPerM": 14
+    },
+    "status": "active"
+  },
+  {
+    "id": "gpt-5.2-pro",
+    "name": "GPT-5.2 Pro",
+    "family": "GPT-5",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 21,
+      "outputPerM": 168
     },
     "status": "active"
   },
@@ -679,6 +761,17 @@
     "status": "active"
   },
   {
+    "id": "o3-pro",
+    "name": "o3-pro",
+    "family": "o-series",
+    "provider": "openai",
+    "pricing": {
+      "inputPerM": 20,
+      "outputPerM": 80
+    },
+    "status": "active"
+  },
+  {
     "id": "o4-mini",
     "name": "o4-mini",
     "family": "o-series",
@@ -688,7 +781,7 @@
       "cachedInputPerM": 0.275,
       "outputPerM": 4.4
     },
-    "status": "active"
+    "status": "legacy"
   },
   {
     "id": "open-mistral-7b",

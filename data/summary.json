@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-15T08:46:54.487Z",
+  "fetched_at": "2026-05-16T08:01:27.351Z",
   "source": "https://www.aipricing.guru/api/pricing.json",
-  "upstream_last_updated": "2026-05-15T00:04:24.157Z",
-  "upstream_scraped_at": "2026-05-15T00:04:24.157Z",
-  "model_count": 89,
-  "priced_model_count": 89,
+  "upstream_last_updated": "2026-05-16T06:06:21.586Z",
+  "upstream_scraped_at": "2026-05-16T06:06:21.586Z",
+  "model_count": 97,
+  "priced_model_count": 97,
   "provider_count": 11,
   "models_per_provider": {
     "anthropic": 9,
@@ -14,7 +14,7 @@
     "groq": 7,
     "meta": 2,
     "mistral": 18,
-    "openai": 13,
+    "openai": 21,
     "perplexity": 4,
     "together": 15,
     "xai": 5
